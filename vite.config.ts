@@ -27,6 +27,7 @@ export default defineConfig({
   build: {
     target: 'es2020',
     minify: 'terser',
+    modulePreload: false,
     // cssMinify: 'lightningcss', // Temporarily disabled
     terserOptions: {
       compress: {
