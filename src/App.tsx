@@ -7,7 +7,6 @@ import ErrorBoundary from './components/ErrorBoundary';
 import EnhancedErrorBoundary from './components/EnhancedErrorBoundary';
 import Layout from './components/Layout';
 import TranslationLoader from './components/TranslationLoader';
-import i18n from './i18n/config';
 
 // Lazy load non-critical components
 const AnalyticsDashboard = lazy(() => import('./components/AnalyticsDashboard'));
@@ -142,38 +141,9 @@ const usePerformanceMetrics = () => {
 
 function App() {
   usePerformanceMetrics();
-  const [i18nReady, setI18nReady] = useState(false);
-
-  useEffect(() => {
-    // Wait for i18n to be ready
-    const checkI18n = () => {
-      if (i18n.isInitialized) {
-        setI18nReady(true);
-      } else {
-        i18n.on('initialized', () => {
-          setI18nReady(true);
-        });
-      }
-    };
-    checkI18n();
-  }, []);
 
   // Use EnhancedErrorBoundary in development for better debugging
   const ErrorBoundaryComponent = import.meta.env.DEV ? EnhancedErrorBoundary : ErrorBoundary;
-
-  // I18n loading fallback
-  const I18nFallback = () => (
-    <div className="min-h-screen flex items-center justify-center bg-gray-900">
-      <div className="text-center">
-        <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-purple-600 mx-auto"></div>
-        <p className="mt-4 text-gray-400">Loading language resources...</p>
-      </div>
-    </div>
-  );
-
-  if (!i18nReady) {
-    return <I18nFallback />;
-  }
 
   return (
     <ErrorBoundaryComponent>

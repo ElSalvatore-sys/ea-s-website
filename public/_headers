@@ -24,6 +24,16 @@
 
 /*.json
   Content-Type: application/json; charset=UTF-8
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Methods: GET, OPTIONS
+  Access-Control-Allow-Headers: Content-Type
+
+/locales/*
+  Content-Type: application/json; charset=UTF-8
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Methods: GET, OPTIONS
+  Access-Control-Allow-Headers: Content-Type
+  Cache-Control: public, max-age=3600
 
 /*.html
   Content-Type: text/html; charset=UTF-8

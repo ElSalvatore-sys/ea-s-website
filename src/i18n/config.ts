@@ -12,7 +12,7 @@ i18n
   .init({
     lng: 'en', // Default language
     fallbackLng: 'en', // Fallback to English if loading fails
-    debug: !isProduction,
+    debug: true, // Enable debug to see loading errors
 
     // Performance optimization: namespace support
     defaultNS: 'translation',
@@ -45,7 +45,7 @@ i18n
     
     // React-specific settings
     react: {
-      useSuspense: true, // Enable suspense for proper loading
+      useSuspense: false, // Disable suspense to prevent hanging on load failure
       bindI18n: 'languageChanged loaded',
       bindI18nStore: 'added removed',
       transEmptyNodeValue: '',
@@ -70,7 +70,7 @@ i18n
     fallbackValue: '',
 
     // Advanced settings for performance
-    initImmediate: false, // Wait for resources to load
+    initImmediate: true, // Initialize immediately, don't wait for resources
     cleanCode: true,
     
     // Memory management
