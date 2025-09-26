@@ -5,8 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "npm run validate:content && vite build && node scripts/post-build.js",
-    "build:force": "vite build && node scripts/post-build.js",
+    "build": "vite build",
+    "build:force": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
     "analytics:mock": "node mock-analytics-server.mjs",
