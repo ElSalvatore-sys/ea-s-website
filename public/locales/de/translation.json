@@ -1,0 +1,2130 @@
+{
+  "nav": {
+    "liveDemo": "Live-Demo",
+    "home": "Startseite",
+    "features": "Funktionen",
+    "pricing": "Preise",
+    "demo": "Demo",
+    "resources": {
+      "integration": "Integrationsleitfaden",
+      "integrationDesc": "Schritt-für-Schritt-Anleitung",
+      "api": "API-Dokumentation",
+      "apiDesc": "Vollständige API-Referenz",
+      "support": "Support-Center",
+      "supportDesc": "Hilfe von unserem Team"
+    },
+    "services": "Leistungen",
+    "servicesMenu": {
+      "booking": "Buchungssysteme",
+      "web": "Webentwicklung",
+      "automation": "Geschäftsautomatisierung"
+    },
+    "solutions": "Lösungen",
+    "portfolio": "Portfolio",
+    "about": "Über uns",
+    "contact": "Kontakt"
+  },
+  "footer": {
+    "newsletter": {
+      "title": "Innovation & Digitale Einblicke",
+      "subtitle": "Erhalten Sie wöchentliche Updates zu KI-Trends und digitalen Transformationsstrategien",
+      "placeholder": "Ihre E-Mail-Adresse",
+      "button": "Abonnieren",
+      "subscribed": "Abonniert!"
+    },
+    "cta": {
+      "title": "Bereit, Ihren Buchungsprozess zu transformieren?",
+      "subtitle": "Schließen Sie sich tausenden deutschen Unternehmen an",
+      "button": "Kostenlos testen"
+    },
+    "description": "Das intelligente Buchungssystem, dem deutsche Unternehmen vertrauen. Reduzieren Sie Anrufe um 95%, eliminieren Sie No-Shows und fokussieren Sie sich auf das Wesentliche - Ihre Kunden.",
+    "trust": {
+      "madeInGermany": "Made in Germany",
+      "gdprCompliant": "DSGVO-konform"
+    },
+    "sections": {
+      "product": "Produkt",
+      "industries": "Branchen",
+      "support": "Support",
+      "company": "Unternehmen"
+    },
+    "product": {
+      "features": "Funktionen",
+      "pricing": "Preise",
+      "demo": "Live-Demo",
+      "integrations": "Integrationen"
+    },
+    "industries": {
+      "restaurants": "Restaurants",
+      "salons": "Friseursalons",
+      "medical": "Arztpraxen",
+      "automotive": "Automotive"
+    },
+    "support": {
+      "documentation": "Dokumentation",
+      "apiReference": "API-Referenz",
+      "contactSupport": "Support kontaktieren",
+      "status": "Systemstatus"
+    },
+    "company": {
+      "about": "Über uns",
+      "blog": "Blog",
+      "careers": "Karriere",
+      "terms": "Nutzungsbedingungen",
+      "privacy": "Datenschutz"
+    },
+    "links": {
+      "impressum": "Impressum",
+      "privacy": "Datenschutz"
+    },
+    "copyright": "© {year} Buchungssystem. Alle Rechte vorbehalten.",
+    "crafted": "Mit {heart} in Berlin entwickelt"
+  },
+  "clients": {
+    "trustedBy": "Vertrauen von Branchenführern",
+    "powering": "Digitale Transformation vorantreiben",
+    "stats": {
+      "activeClients": "Aktive Kunden",
+      "revenueGenerated": "Generierter Umsatz",
+      "clientRetention": "Kundenbindung",
+      "rating": "Kundenbewertung"
+    }
+  },
+  "caseStudies": {
+    "title": "Erfolgsgeschichten",
+    "subtitle": "Echte Ergebnisse für echte Unternehmen",
+    "hotelKochbrunnen": {
+      "challenge": "Buchungssystem modernisieren und Direktbuchungen erhöhen",
+      "solution": "Maßgeschneiderte Buchungsplattform mit KI-gestützten Empfehlungen"
+    },
+    "falchiDental": {
+      "challenge": "Patiententermine optimieren und Ausfälle reduzieren",
+      "solution": "Intelligentes Terminplanungssystem mit automatischen Erinnerungen"
+    },
+    "glennMiller": {
+      "challenge": "Online-Präsenz verbessern und jüngeres Publikum ansprechen",
+      "solution": "Moderne Website mit integriertem Eventmanagement"
+    },
+    "cta": {
+      "title": "Bereit, Ihr Unternehmen zu transformieren?",
+      "description": "Schließen Sie sich unseren erfolgreichen Kunden an und erleben Sie den Unterschied"
+    }
+  },
+  "booking": {
+    "widget": {
+      "bookAppointment": "Termin buchen",
+      "selectService": "Service auswählen",
+      "selectDateTime": "Datum & Uhrzeit wählen",
+      "yourInformation": "Ihre Informationen",
+      "confirmation": "Bestätigung",
+      "duration": "Dauer",
+      "minutes": "Minuten",
+      "availableTimes": "Verfügbare Zeiten",
+      "noSlots": "Keine verfügbaren Termine für dieses Datum",
+      "back": "Zurück",
+      "continue": "Weiter",
+      "bookingSummary": "Buchungsübersicht",
+      "name": "Name",
+      "email": "E-Mail",
+      "phone": "Telefon",
+      "notes": "Notizen (optional)",
+      "notesPlaceholder": "Besondere Anforderungen oder Fragen...",
+      "booking": "Buchung",
+      "confirmBooking": "Buchung bestätigen",
+      "bookingConfirmed": "Buchung bestätigt!",
+      "bookingSuccess": "Ihr Termin wurde erfolgreich gebucht. Sie erhalten in Kürze eine Bestätigungs-E-Mail.",
+      "bookingDetails": "Buchungsdetails",
+      "service": "Service",
+      "date": "Datum",
+      "time": "Uhrzeit",
+      "close": "Schließen",
+      "confirmationEmail": "Eine Bestätigungs-E-Mail wurde gesendet an",
+      "errorLoadingSlots": "Fehler beim Laden verfügbarer Zeiten. Bitte versuchen Sie es erneut.",
+      "errorBooking": "Fehler beim Erstellen der Buchung. Bitte versuchen Sie es erneut.",
+      "confirmationCode": "Bestätigungscode",
+      "appointment": "Termin",
+      "businessHours": "Geschäftszeiten",
+      "mondayFriday": "Montag - Freitag",
+      "closed": "Geschlossen",
+      "mittagspause": "Mittagspause",
+      "weekend": "Wochenende",
+      "holiday": "Feiertag",
+      "limitedAvailability": "Nur noch wenige Termine verfügbar",
+      "available": "Verfügbar",
+      "booked": "Belegt",
+      "tryAgain": "Erneut versuchen",
+      "liveAvailability": "Live-Verfügbarkeit",
+      "offlineMode": "Offline-Modus",
+      "updated": "Aktualisiert",
+      "refreshAvailability": "Verfügbarkeit aktualisieren",
+      "smartSuggestions": "✨ Intelligente Empfehlungen",
+      "updatingAvailability": "Aktualisiere Verfügbarkeit...",
+      "availabilityUpdated": "✓ Verfügbarkeit aktualisiert",
+      "industryBooking": {
+        "title": "Intelligente Branchenbuchung",
+        "subtitle": "Maßgeschneiderte Buchungserlebnisse für jede Branche mit intelligenten Funktionen und optimierten Workflows",
+        "restaurant": {
+          "header": "Tisch reservieren",
+          "name": "Restaurant",
+          "description": "Tischreservierungen mit intelligenten Funktionen",
+          "services": {
+            "breakfast": "Frühstücksservice",
+            "lunch": "Mittagsservice",
+            "dinner": "Abendservice",
+            "privateEvent": "Private Veranstaltung"
+          },
+          "features": {
+            "partySize": "Personenanzahl",
+            "specialRequests": "Besondere Wünsche",
+            "preferredSeating": "Bevorzugte Sitzplätze",
+            "realTimeAvailability": "Echtzeit-Verfügbarkeit",
+            "dietaryRequirements": "Ernährungsanforderungen",
+            "specialOccasion": "Besonderer Anlass",
+            "window": "Fenster",
+            "patio": "Terrasse",
+            "private": "Privat",
+            "bar": "Bar"
+          }
+        },
+        "medical": {
+          "header": "Termin buchen",
+          "name": "Medizinisch",
+          "description": "Arzttermine einfach gemacht",
+          "services": {
+            "generalConsultation": "Allgemeinberatung",
+            "specialist": "Facharzttermin",
+            "healthCheckup": "Gesundheitscheck",
+            "emergency": "Notfallberatung"
+          },
+          "features": {
+            "firstVisit": "Erstbesuch",
+            "followUp": "Nachuntersuchung",
+            "insuranceProvider": "Krankenversicherung",
+            "symptomScreening": "Symptom-Screening",
+            "documentUpload": "Medizinische Dokumente hochladen",
+            "insuranceIntegration": "Krankenversicherung-Integration",
+            "medicalHistory": "Krankengeschichte hochladen",
+            "emergencySlots": "Notfalltermine"
+          }
+        },
+        "salon": {
+          "header": "Ihre Verwandlung buchen",
+          "name": "Friseursalon",
+          "description": "Beauty-Services mit Personalisierung",
+          "services": {
+            "cutAndStyle": "Schnitt & Styling",
+            "color": "Haarfarbe & Highlights",
+            "treatments": "Haarbehandlungen",
+            "specialOccasion": "Anlass-Styling"
+          },
+          "features": {
+            "hairLength": "Haarlänge",
+            "short": "Kurz",
+            "medium": "Mittel",
+            "long": "Lang",
+            "extraLong": "Extra Lang",
+            "stylistPreference": "Bevorzugter Stylist",
+            "inspirationPhotos": "Inspirationsfotos hochladen",
+            "addOnServices": "Zusatzleistungen",
+            "hairLengthPricing": "Haarlängen-Preise",
+            "deepConditioning": "Intensivpflege",
+            "scalpTreatment": "Kopfhautbehandlung",
+            "haircutOnly": "Nur Haarschnitt",
+            "blowDry": "Föhnen & Stylen"
+          }
+        },
+        "automotive": {
+          "header": "Service planen",
+          "name": "Automobil",
+          "description": "Fahrzeug-Service-Terminplanung",
+          "services": {
+            "oilChange": "Ölwechsel",
+            "inspection": "Vollinspektion",
+            "brakeService": "Bremsservice",
+            "tireService": "Reifenservice"
+          },
+          "features": {
+            "vehicleMake": "Fahrzeugmarke",
+            "vehicleModel": "Fahrzeugmodell",
+            "vehicleYear": "Fahrzeugjahr",
+            "mileage": "Aktueller Kilometerstand",
+            "serviceHistory": "Service-Historie",
+            "pickupDelivery": "Abhol-/Lieferservice",
+            "vehicleInformation": "Fahrzeuginformationen",
+            "mileageTracking": "Kilometerverfolgung"
+          }
+        },
+        "smartFeatures": "Intelligente Funktionen",
+        "priceEstimate": "Geschätzter Preis",
+        "calculatePrice": "Preis wird berechnet...",
+        "uploadFile": "Klicken zum Hochladen oder per Drag & Drop",
+        "uploadLimit": "PNG, JPG bis 5MB",
+        "filesSelected": "Datei(en) ausgewählt",
+        "startDemo": "Demo starten",
+        "whyChoose": "Warum unsere Lösung wählen?",
+        "industrySpecific": "Branchenspezifisch",
+        "tailoredFeatures": "Maßgeschneiderte Funktionen für jede Branche",
+        "smartAndFast": "Intelligent & Schnell",
+        "optimizedWorkflows": "Optimierte Workflows mit intelligenten Funktionen",
+        "higherConversion": "Höhere Konversion",
+        "reducedAbandonment": "Reduzierte Abbrüche durch vereinfachte Prozesse"
+      }
+    }
+  },
+  "floatingCTA": {
+    "getStarted": "Jetzt starten",
+    "whatsapp": "WhatsApp",
+    "callNow": "Jetzt anrufen",
+    "bookDemo": "Demo buchen",
+    "whatsappHeader": "WhatsApp-Chat - Antwort in 2 Min."
+  },
+  "home": {
+    "hero": {
+      "badge": "Vertraut von 500+ deutschen Unternehmen",
+      "headline": "Buchungssystem für deutsche Unternehmen",
+      "subheadline": "Automatisieren Sie Termine, respektieren Sie die Mittagspause, beachten Sie deutsche Feiertage und reduzieren Sie No-Shows um 70% mit unserer DSGVO-konformen Buchungsplattform.",
+      "cta": {
+        "primary": "30 Tage kostenlos testen",
+        "secondary": "Demo ansehen"
+      },
+      "stats": {
+        "businesses": "Aktive Unternehmen",
+        "bookings": "Monatliche Buchungen",
+        "uptime": "Verfügbarkeit SLA",
+        "rating": "Kundenbewertung"
+      }
+    },
+    "demo": {
+      "title": "Sehen Sie es in Aktion",
+      "subtitle": "Erleben Sie das Buchungssystem, das deutsche Unternehmen lieben",
+      "widget_title": "Live Buchungs-Widget Demo",
+      "interactive_title": "Probieren Sie unsere interaktive Demo",
+      "interactive_description": "Klicken Sie unten, um den Buchungsablauf zu erleben, den Ihre Kunden lieben werden",
+      "try_button": "Demo starten"
+    },
+    "benefits": {
+      "title": "Transformieren Sie Ihre Geschäftsabläufe",
+      "subtitle": "Messbare Ergebnisse vom ersten Tag an",
+      "save_time": {
+        "title": "Zeit sparen",
+        "unit": "Stunden/Woche gespart",
+        "description": "Automatisieren Sie die Terminplanung und eliminieren Sie E-Mail-Ping-Pong"
+      },
+      "reduce_noshows": {
+        "title": "No-Shows reduzieren",
+        "unit": "weniger No-Shows",
+        "description": "Intelligente Erinnerungen und Bestätigungen halten Termine auf Kurs"
+      },
+      "german_rules": {
+        "title": "Deutschland-konform",
+        "unit": "konform",
+        "description": "Eingebaute Mittagspause, Feiertage und DSGVO-Konformität"
+      }
+    },
+    "features": {
+      "title": "Funktionen für Deutschland entwickelt",
+      "subtitle": "Alles, was Sie brauchen, um Termine wie ein Profi zu verwalten",
+      "mittagspause": {
+        "title": "Automatische Mittagspause",
+        "description": "Blockiert automatisch 12:00-14:00 Uhr für die Mittagspause, respektiert deutsche Geschäftskultur"
+      },
+      "holidays": {
+        "title": "Deutscher Feiertagskalender",
+        "description": "Alle Bundes- und Landesfeiertage vorkonfiguriert, nie wieder an einem Feiertag buchen"
+      },
+      "gdpr": {
+        "title": "DSGVO-konform",
+        "description": "Vollständige Datenschutz-Compliance mit verschlüsselter Speicherung und Datenschutzkontrollen"
+      },
+      "multilanguage": {
+        "title": "Mehrsprachige Unterstützung",
+        "description": "Nahtloser Wechsel zwischen deutschen, englischen und französischen Oberflächen"
+      },
+      "realtime": {
+        "title": "Echtzeit-Verfügbarkeit",
+        "description": "Sofortige Updates über alle Kanäle, nie wieder Doppelbuchungen"
+      },
+      "reminders": {
+        "title": "Intelligente Erinnerungen",
+        "description": "Automatisierte SMS- und E-Mail-Erinnerungen reduzieren No-Shows um bis zu 70%"
+      },
+      "intelligent": "Intelligente Terminplanung",
+      "costReduction": "Kostenreduzierung"
+    },
+    "pricing": {
+      "title": "Einfache, transparente Preise",
+      "subtitle": "Wählen Sie den Plan, der zu Ihrem Unternehmen passt",
+      "period": "Monat",
+      "popular": "Beliebteste Wahl",
+      "cta": "Kostenlos testen",
+      "starter": {
+        "name": "Starter",
+        "description": "Perfekt für kleine Unternehmen",
+        "feature1": "Bis zu 100 Buchungen/Monat",
+        "feature2": "1 Kalender-Integration",
+        "feature3": "E-Mail-Erinnerungen",
+        "feature4": "Basis-Support",
+        "feature5": "Mobile-responsive"
+      },
+      "professional": {
+        "name": "Professional",
+        "description": "Für wachsende Unternehmen",
+        "feature1": "Bis zu 500 Buchungen/Monat",
+        "feature2": "Unbegrenzte Kalender",
+        "feature3": "SMS & E-Mail-Erinnerungen",
+        "feature4": "Prioritäts-Support",
+        "feature5": "Eigenes Branding",
+        "feature6": "Analytics Dashboard"
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "description": "Für große Organisationen",
+        "feature1": "Unbegrenzte Buchungen",
+        "feature2": "Multi-Standort-Support",
+        "feature3": "Erweiterte Analytics",
+        "feature4": "24/7 Telefon-Support",
+        "feature5": "API-Zugang",
+        "feature6": "Individuelle Integrationen",
+        "feature7": "SLA-Garantie"
+      }
+    },
+    "integration": {
+      "title": "In 3 einfachen Schritten starten",
+      "subtitle": "In weniger als 5 Minuten einsatzbereit",
+      "step1": {
+        "title": "Anmelden",
+        "description": "Erstellen Sie Ihr Konto und konfigurieren Sie Ihre Geschäftszeiten"
+      },
+      "step2": {
+        "title": "Anpassen",
+        "description": "Legen Sie Ihre Services, Preise und Buchungsregeln fest"
+      },
+      "step3": {
+        "title": "Live gehen",
+        "description": "Teilen Sie Ihren Buchungslink und beginnen Sie, Termine anzunehmen"
+      }
+    },
+    "cta": {
+      "title": "Bereit, Ihren Buchungsprozess zu modernisieren?",
+      "subtitle": "Schließen Sie sich 500+ deutschen Unternehmen an, die jede Woche 10+ Stunden sparen",
+      "button": {
+        "primary": "Kostenlose Testversion starten",
+        "secondary": "Demo vereinbaren"
+      },
+      "guarantee": {
+        "title": "Keine Kreditkarte erforderlich • Jederzeit kündbar",
+        "item1": "30 Tage kostenlos",
+        "item2": "Keine Einrichtungsgebühren",
+        "item3": "DSGVO-konform"
+      }
+    },
+    "integration_guide": {
+      "badge": "5-Minuten-Einrichtung",
+      "title": "In 3 einfachen Schritten integrieren",
+      "subtitle": "Fügen Sie unser Buchungssystem in wenigen Minuten zu Ihrer Website hinzu. Keine Programmierkenntnisse erforderlich!",
+      "step1": {
+        "title": "Anmelden & ID erhalten",
+        "description": "Erstellen Sie Ihr Konto und erhalten Sie sofort Ihre eindeutige Unternehmens-ID"
+      },
+      "step2": {
+        "title": "Embed-Code kopieren",
+        "description": "Kopieren Sie unseren einzeiligen Embed-Code mit Ihrer Unternehmens-ID"
+      },
+      "step3": {
+        "title": "In Ihre Website einfügen",
+        "description": "Fügen Sie den Code zum HTML Ihrer Website hinzu und Sie sind live!"
+      },
+      "code_snippet": {
+        "title": "Ihr Embed-Code",
+        "copy": "Code kopieren",
+        "copied": "Kopiert!",
+        "note": "Ersetzen Sie YOUR_ID durch Ihre tatsächliche Unternehmens-ID aus dem Dashboard"
+      },
+      "before_after": {
+        "title": "Sehen Sie die Transformation",
+        "before": "Vorher",
+        "after": "Nachher",
+        "no_booking": "Kein Buchungssystem verfügbar",
+        "widget_title": "Termin buchen",
+        "widget_demo": "Wählen Sie Ihr bevorzugtes Datum und Ihre bevorzugte Uhrzeit",
+        "book_now": "Jetzt buchen",
+        "mobile_ready": "100% Mobile Responsive"
+      },
+      "faq": {
+        "title": "Häufig gestellte Fragen",
+        "q1": "Wo finde ich meine Unternehmens-ID?",
+        "a1": "Ihre Unternehmens-ID wird nach der Anmeldung in Ihrem Dashboard angezeigt. Sie finden sie unter Einstellungen > Integration.",
+        "q2": "Kann ich das Erscheinungsbild des Widgets anpassen?",
+        "a2": "Ja! Das Widget passt sich automatisch an das Design Ihrer Website an. Sie können auch Farben, Schriftarten und Layout über Ihr Dashboard anpassen.",
+        "q3": "Funktioniert es mit WordPress, Wix oder anderen Plattformen?",
+        "a3": "Absolut! Unser Widget funktioniert mit jeder Website-Plattform, die benutzerdefiniertes HTML zulässt. Wir haben spezielle Anleitungen für WordPress, Wix, Squarespace und mehr.",
+        "q4": "Ist das Widget mobile responsive?",
+        "a4": "Ja, das Buchungs-Widget ist vollständig responsive und funktioniert perfekt auf allen Geräten - Desktop, Tablet und Mobile.",
+        "need_help": "Haben Sie noch Fragen?",
+        "contact_support": "Kontaktieren Sie unser Support-Team"
+      }
+    },
+    "onboarding": {
+      "badge": "15 Minuten bis zum Start",
+      "title": "Von der Anmeldung zur ersten Buchung",
+      "subtitle": "Ihr professionelles Buchungssystem in nur 15 Minuten eingerichtet. Keine technischen Kenntnisse erforderlich.",
+      "progress": {
+        "title": "Einrichtungsfortschritt",
+        "total": "15 Minuten",
+        "start": "Start",
+        "live": "Live & Empfängt Buchungen"
+      },
+      "step1": {
+        "title": "Kostenlose Testanmeldung",
+        "description": "Erstellen Sie Ihr Konto sofort mit nur Ihrer E-Mail. Keine Kreditkarte für die 30-tägige Testversion erforderlich.",
+        "time": "30 Sekunden"
+      },
+      "step2": {
+        "title": "Unternehmensprofil einrichten",
+        "description": "Fügen Sie Ihren Firmennamen, Logo, Kontaktdaten und Öffnungszeiten hinzu. Unsere intelligenten Voreinstellungen sparen Zeit.",
+        "time": "5 Minuten"
+      },
+      "step3": {
+        "title": "Services & Preise hinzufügen",
+        "description": "Listen Sie Ihre Dienstleistungen auf, legen Sie Dauer und Preise fest. Nutzen Sie unsere Vorlagen für deutsche Geschäftstypen.",
+        "time": "3 Minuten"
+      },
+      "step4": {
+        "title": "Buchungsregeln anpassen",
+        "description": "Legen Sie Ihre Mittagspause fest, konfigurieren Sie Feiertage, definieren Sie Buchungsfenster und Stornierungsrichtlinien.",
+        "time": "3 Minuten"
+      },
+      "step5": {
+        "title": "Live gehen & Buchungen empfangen",
+        "description": "Erhalten Sie Ihren Buchungslink, Widget-Code einbetten und sofort Buchungen annehmen.",
+        "time": "3 Minuten"
+      },
+      "testimonial1": {
+        "quote": "Die Einrichtung war unglaublich schnell! Wir hatten unser Buchungssystem während der Mittagspause am Laufen.",
+        "author": "Hans Müller",
+        "company": "Müller & Schmidt Steuerberatung"
+      },
+      "testimonial2": {
+        "quote": "Endlich ein Buchungssystem, das die deutsche Geschäftskultur versteht. Die Mittagspause-Funktion ist genial!",
+        "author": "Sabine Weber",
+        "company": "Weber Physiotherapie Praxis"
+      },
+      "testimonial3": {
+        "quote": "Wir haben allein in der ersten Woche 15 Stunden gespart. Der ROI war sofort und beeindruckend.",
+        "author": "Thomas Schneider",
+        "company": "Schneider Autohaus GmbH"
+      },
+      "cta": {
+        "title": "Bereit, Ihr Unternehmen zu transformieren?",
+        "subtitle": "Schließen Sie sich Tausenden deutschen Unternehmen an, die bereits Zeit sparen und Umsatz steigern",
+        "button": "Jetzt kostenlose Testversion starten",
+        "feature1": "Keine Kreditkarte",
+        "feature2": "30 Tage Test",
+        "feature3": "Jederzeit kündbar"
+      }
+    },
+    "problems": {
+      "title": "Probleme, die wir lösen",
+      "subtitle": "Verlieren Sie keine Zeit und kein Geld mehr durch veraltete Buchungsmethoden",
+      "manual": "Stunden verschwendet mit Telefonbuchungen",
+      "data": "No-Shows kosten Sie Geld",
+      "cloud": "Doppelbuchungen und Konflikte",
+      "response": "Kunden gehen zur Konkurrenz",
+      "costs": "Personal überlastet mit Anrufen",
+      "scale": "Können Ihr Geschäft nicht skalieren"
+    },
+    "solutions": {
+      "manual": "Automatisierte 24/7 Online-Buchung",
+      "data": "Intelligente Erinnerungen reduzieren No-Shows um 87%",
+      "cloud": "Echtzeit-Kalendersynchronisation",
+      "response": "Sofortige Buchungsbestätigung",
+      "costs": "Personal für wichtige Aufgaben freisetzen",
+      "scale": "Unbegrenzte Buchungen verarbeiten"
+    },
+    "mind": {
+      "title": "Einführung der Smart Booking AI",
+      "features": {
+        "local": "Lokale Verarbeitung",
+        "intelligent": "Intelligente Terminplanung"
+      }
+    },
+    "tagline": "Die intelligente Plattform, die Ihre Geschäftsabläufe transformiert",
+    "trustBar": {
+      "activeClients": "Vertraut von Unternehmen weltweit",
+      "retention": "98% Kundenerfolgquote",
+      "germanyBased": "Deutsche Ingenieurskunst"
+    },
+    "coreSolutions": {
+      "title": "Enterprise KI & Digitale Lösungen",
+      "subtitle": "Antrieb der digitalen Transformation für Branchenführer",
+      "bookingSystems": {
+        "title": "KI-gestützte Lösungen",
+        "description": "Enterprise-KI-Systeme für digitale Transformation",
+        "liveAt": "Live bei:",
+        "result": "Umsatzsteigerung",
+        "cta": "So funktioniert es"
+      },
+      "customWebsites": {
+        "title": "Maßgeschneiderte Websites",
+        "description": "Professionelle Websites, die Besucher zu Kunden machen",
+        "reference": "Referenz:",
+        "result": "mehr Anfragen",
+        "cta": "So funktioniert es"
+      },
+      "aiAutomation": {
+        "title": "KI-Automatisierung",
+        "description": "Intelligente Workflows, die 80% Ihrer Routinearbeit übernehmen",
+        "successAt": "Erfolg bei:",
+        "result": "pro Woche gespart",
+        "cta": "So funktioniert es"
+      }
+    },
+    "pricingSection": {
+      "title": "Transparente, faire Preise",
+      "subtitle": "Keine versteckten Kosten, keine Überraschungen",
+      "from": "Ab",
+      "month": "Monat",
+      "mostPopular": "BELIEBTESTE WAHL",
+      "starter": {
+        "feature1": "Buchungssystem ODER Website",
+        "feature2": "Bis zu 500 Buchungen/Monat",
+        "feature3": "E-Mail Support"
+      },
+      "growth": {
+        "feature1": "Buchungssystem UND Website",
+        "feature2": "Unbegrenzte Buchungen",
+        "feature3": "Prioritäts-Support"
+      },
+      "enterprise": {
+        "feature1": "Mehrere Standorte",
+        "feature2": "Dedizierter Manager",
+        "feature3": "Individuelle Entwicklung"
+      },
+      "viewFullPricing": "Alle Preise ansehen"
+    },
+    "faq": {
+      "title": "Häufige Fragen",
+      "questions": {
+        "howQuickly": {
+          "question": "Wie schnell können wir starten?",
+          "answer": "Wir können Ihr Buchungssystem innerhalb von 24 Stunden live schalten. Die Einrichtung dauert etwa 30 Minuten, und unser Team führt Sie durch jeden Schritt."
+        },
+        "outsideStuttgart": {
+          "question": "Arbeiten Sie auch mit Unternehmen außerhalb Stuttgarts?",
+          "answer": "Ja! Obwohl wir in Stuttgart ansässig sind, bedienen wir Unternehmen in ganz Deutschland. Alle unsere Dienstleistungen sind online verfügbar und wir bieten Remote-Support."
+        },
+        "existingWebsite": {
+          "question": "Was, wenn wir bereits eine Website haben?",
+          "answer": "Perfekt! Unser Buchungssystem integriert sich nahtlos in Ihre bestehende Website. Wir stellen einen einfachen Einbettungscode zur Verfügung, der mit jeder Plattform funktioniert."
+        },
+        "calendarIntegration": {
+          "question": "Wie integriert sich das Buchungssystem mit unserem Kalender?",
+          "answer": "Wir synchronisieren in Echtzeit mit Google Calendar, Outlook und den meisten anderen Kalendersystemen. Ihre Verfügbarkeit ist immer auf allen Plattformen aktuell."
+        },
+        "gdprCompliant": {
+          "question": "Ist alles DSGVO-konform?",
+          "answer": "Absolut! Datenschutz hat für uns oberste Priorität. Alle Daten sind verschlüsselt, auf deutschen Servern gespeichert, und wir sind vollständig DSGVO-konform mit vollständiger Datenkontrolle für Sie und Ihre Kunden."
+        }
+      }
+    },
+    "finalCta": {
+      "title": "Bereit, Ihr Unternehmen zu transformieren?",
+      "subtitle": "Schließen Sie sich Hunderten deutschen Unternehmen an, die bereits Zeit sparen und Umsatz steigern mit unseren bewährten Lösungen.",
+      "primaryButton": "Kostenlose Beratung buchen",
+      "secondaryButton": "Fallstudien herunterladen",
+      "trustNote": "Keine Kreditkarte erforderlich • 30-Tage-Testversion • Jederzeit kündbar"
+    }
+  },
+  "solutions": {
+    "hero": {
+      "badge": "Deutschlands #1 Buchungsplattform",
+      "title": "Die komplette Buchungslösung für deutsche Unternehmen",
+      "subtitle": "Eliminieren Sie No-Shows, respektieren Sie die Mittagspause, beachten Sie deutsche Feiertage. Das einzige Buchungssystem, das speziell für die deutsche Geschäftskultur entwickelt wurde.",
+      "cta": {
+        "primary": "Kostenlos testen",
+        "secondary": "ROI berechnen"
+      },
+      "stats": {
+        "businesses": "Aktive Unternehmen",
+        "bookings": "Monatliche Buchungen",
+        "reduction": "No-Show-Reduzierung",
+        "rating": "Kundenbewertung"
+      }
+    },
+    "problems": {
+      "title": "Die versteckten Kosten manueller Buchungen",
+      "subtitle": "Jeder verpasste Termin und jede Doppelbuchung kostet Ihr Unternehmen Geld",
+      "noShows": {
+        "title": "No-Shows vernichten Umsatz",
+        "description": "Ohne Erinnerungen werden 30% der Termine vergessen oder verpasst",
+        "stat": "durchschnittliche No-Show-Rate"
+      },
+      "manualScheduling": {
+        "title": "Zeitverschwendung durch Telefonate",
+        "description": "Mitarbeiter verbringen Stunden mit Telefonieren und Kalenderverwaltung",
+        "stat": "pro Woche für Terminplanung"
+      },
+      "doubleBookings": {
+        "title": "Doppelbuchungen schaden dem Vertrauen",
+        "description": "Manuelle Kalender führen zu peinlichen Terminüberschneidungen",
+        "stat": "Fehlerquote"
+      }
+    },
+    "features": {
+      "title": "Entwickelt für deutsche Geschäftsexzellenz",
+      "subtitle": "Jede Funktion mit Blick auf die deutsche Geschäftskultur entwickelt",
+      "reminders": {
+        "title": "Intelligente Erinnerungen",
+        "description": "Automatische SMS- und E-Mail-Erinnerungen reduzieren No-Shows um 70%"
+      },
+      "mittagspause": {
+        "title": "Automatische Mittagspause",
+        "description": "12:00-14:00 Uhr automatisch für Mittagspause blockiert, respektiert deutsche Traditionen"
+      },
+      "holidays": {
+        "title": "Deutscher Feiertagskalender",
+        "description": "Alle Bundes- und Landesfeiertage vorkonfiguriert, nie wieder an einem Feiertag buchen"
+      },
+      "gdpr": {
+        "title": "100% DSGVO-konform",
+        "description": "In Deutschland entwickelt, in Deutschland gehostet, vollständig datenschutzkonform"
+      },
+      "mobile": {
+        "title": "Mobile-First-Design",
+        "description": "Perfekt auf jedem Gerät - Desktop, Tablet und Smartphone"
+      },
+      "multilingual": {
+        "title": "Mehrsprachige Unterstützung",
+        "description": "Deutsche, englische und französische Oberflächen für internationale Kunden"
+      }
+    },
+    "industries": {
+      "title": "Maßgeschneiderte Branchenlösungen",
+      "subtitle": "Spezialisierte Funktionen für Ihre spezifischen Geschäftsanforderungen",
+      "features": "Hauptfunktionen für",
+      "caseStudy": "Erfolgsstory",
+      "restaurant": {
+        "title": "Restaurants",
+        "feature1": "Tischverwaltung und Reservierungssystem",
+        "feature2": "Verwaltung von Sonderveranstaltungen und Gruppenbuchungen",
+        "feature3": "Wartelistenverwaltung für Walk-ins",
+        "feature4": "Integration mit Küchentiming",
+        "quote": "Wir haben No-Shows um 65% reduziert und den Tischumsatz um 30% erhöht",
+        "result": "Umsatzsteigerung"
+      },
+      "salon": {
+        "title": "Beauty- & Friseursalons",
+        "feature1": "Verwaltung der Servicedauer",
+        "feature2": "Mitarbeiterplanung und Verfügbarkeit",
+        "feature3": "Integration von Produktverkäufen",
+        "feature4": "Unterstützung von Treueprogrammen",
+        "quote": "Unsere Stylisten sparen täglich 2 Stunden bei der Terminplanung und können sich auf Kunden konzentrieren",
+        "result": "Planungszeit gespart"
+      },
+      "medical": {
+        "title": "Arztpraxen",
+        "feature1": "Integration von Patientenakten",
+        "feature2": "Workflow zur Versicherungsüberprüfung",
+        "feature3": "Erinnerungen für Rezeptverlängerungen",
+        "feature4": "Notfall-Slot-Management",
+        "quote": "Die Patientenzufriedenheit stieg, während die Verwaltungsarbeit deutlich abnahm",
+        "result": "wöchentlich gespart"
+      },
+      "automotive": {
+        "title": "Autowerkstätten",
+        "feature1": "Werkstattbucht-Planung",
+        "feature2": "Überprüfung der Teileverfügbarkeit",
+        "feature3": "Leihwagen-Management",
+        "feature4": "Service-Historie-Tracking",
+        "quote": "Wir können jetzt 60% mehr Termine mit demselben Personal bewältigen",
+        "result": "Kapazitätssteigerung"
+      }
+    },
+    "roi": {
+      "title": "ROI-Rechner",
+      "heading": "Berechnen Sie Ihren Return on Investment",
+      "subheading": "Sehen Sie, wie viel Zeit und Geld Sie mit unserem Buchungssystem sparen",
+      "inputs": {
+        "appointments": "Monatliche Termine",
+        "noShowRate": "Aktuelle No-Show-Rate",
+        "averageValue": "Durchschnittlicher Terminwert",
+        "hoursScheduling": "Stunden/Woche für Terminplanung"
+      },
+      "results": {
+        "monthlyBenefit": "Gesamter monatlicher Nutzen",
+        "yearlyBenefit": "Jährlicher Nutzen",
+        "revenueRecovered": "Wiedergewonnener Umsatz",
+        "timeSaved": "Gesparte Zeit",
+        "roi": "Return on Investment",
+        "payback": "Amortisationszeit",
+        "days": "Tage"
+      },
+      "disclaimer": "Basierend auf durchschnittlichen Kundenergebnissen. Ihre Ergebnisse können variieren.",
+      "cta": "Individuelles Angebot erhalten"
+    },
+    "caseStudies": {
+      "title": "Erfolgsstorys deutscher Unternehmen",
+      "subtitle": "Echte Ergebnisse von Unternehmen wie Ihrem",
+      "case1": {
+        "industry": "Steuerberatung",
+        "challenge": "Die manuelle Terminplanung nahm 15 Stunden pro Woche in Anspruch",
+        "solution": "Online-Buchung mit automatischen Erinnerungen implementiert",
+        "result": "Planungszeit um 85% und No-Shows um 70% reduziert",
+        "metric": "Zeit gespart"
+      },
+      "case2": {
+        "industry": "Beauty-Salon",
+        "challenge": "Hohe No-Show-Rate kostete monatlich 2.000 €",
+        "solution": "SMS-Erinnerungen und Anzahlungsanforderungen hinzugefügt",
+        "result": "12.000 € Jahresumsatz durch reduzierte No-Shows wiedergewonnen",
+        "metric": "jährliche Einsparungen"
+      },
+      "case3": {
+        "industry": "Autowerkstatt",
+        "challenge": "Werkstattbuchten waren aufgrund schlechter Terminplanung unterausgelastet",
+        "solution": "Optimierte Terminplanung mit Echtzeit-Verfügbarkeit",
+        "result": "Kapazität um das 3-fache erhöht ohne zusätzliches Personal",
+        "metric": "Kapazitätssteigerung"
+      }
+    },
+    "technical": {
+      "title": "Enterprise-Grade-Technologie",
+      "subtitle": "Gebaut auf robuster, skalierbarer Infrastruktur",
+      "realtime": {
+        "title": "Echtzeit-Synchronisation",
+        "description": "Sofortige Updates über alle Geräte und Kalender"
+      },
+      "cloud": {
+        "title": "Cloud-Infrastruktur",
+        "description": "99,9% Verfügbarkeitsgarantie mit deutschen Rechenzentren"
+      },
+      "backup": {
+        "title": "Automatische Backups",
+        "description": "Tägliche Backups mit sofortigen Wiederherstellungsoptionen"
+      },
+      "encryption": {
+        "title": "Banken-Level-Sicherheit",
+        "description": "256-Bit-SSL-Verschlüsselung für alle Datenübertragungen"
+      }
+    },
+    "security": {
+      "title": "Sicherheit & Compliance",
+      "subtitle": "Ihre Daten sind sicher mit deutscher Sicherheitstechnik",
+      "feature1": "100% DSGVO-konform mit Auftragsverarbeitungsverträgen",
+      "feature2": "Ausschließlich in deutschen Rechenzentren gehostet",
+      "feature3": "Regelmäßige Sicherheitsaudits und Penetrationstests",
+      "feature4": "Verschlüsselte Datenspeicherung und -übertragung",
+      "feature5": "Vollständige Audit-Logs und Zugriffskontrollen",
+      "gdpr": "Vollständig konform",
+      "iso": "Zertifizierter Standard",
+      "backup": "Tägliche Backups",
+      "audit": "Regelmäßige Audits"
+    },
+    "support": {
+      "247": {
+        "title": "24/7-Support",
+        "description": "Telefon-, E-Mail- und Chat-Support, wann immer Sie ihn brauchen",
+        "availability": "Verfügbar auf Deutsch & Englisch"
+      },
+      "title": "Erstklassiger Support",
+      "subtitle": "Wir sind hier, um Ihnen zum Erfolg zu verhelfen",
+      "documentation": {
+        "title": "Umfassende Dokumentation",
+        "description": "Video-Tutorials, Anleitungen und API-Dokumentation",
+        "resources": "100+ Ressourcen verfügbar"
+      },
+      "training": {
+        "title": "Kostenlose Schulung",
+        "description": "Onboarding-Sitzungen und regelmäßige Webinare inklusive",
+        "included": "Unbegrenzte Schulungsstunden"
+      }
+    },
+    "cta": {
+      "title": "Bereit, Ihr Unternehmen zu transformieren?",
+      "subtitle": "Schließen Sie sich 500+ deutschen Unternehmen an, die bereits Zeit sparen und Umsatz steigern",
+      "primary": "Kostenlose Testversion starten",
+      "secondary": "Demo ansehen",
+      "guarantee1": "30 Tage kostenlos testen",
+      "guarantee2": "Keine Kreditkarte erforderlich",
+      "guarantee3": "Jederzeit kündbar"
+    }
+  },
+  "demoBooking": {
+    "title": "Interaktive Demo",
+    "subtitle": "Erleben Sie das Buchungssystem in Aktion",
+    "restaurantView": {
+      "title": "Kundenansicht",
+      "heroTitle": "Ristorante Italiano",
+      "heroSubtitle": "Authentische italienische Küche im Herzen der Stadt",
+      "about": "Willkommen in unserem Familienrestaurant",
+      "aboutText": "Seit über 30 Jahren servieren wir authentische italienische Gerichte mit frischen Zutaten und traditionellen Rezepten.",
+      "hours": "Öffnungszeiten",
+      "monday": "Montag",
+      "tuesday": "Dienstag",
+      "wednesday": "Mittwoch",
+      "thursday": "Donnerstag",
+      "friday": "Freitag",
+      "saturday": "Samstag",
+      "sunday": "Sonntag",
+      "closed": "Geschlossen",
+      "makeReservation": "Tisch reservieren"
+    },
+    "adminView": {
+      "title": "Admin-Dashboard",
+      "subtitle": "Echtzeit-Buchungsverwaltung",
+      "stats": {
+        "totalBookings": "Gesamtbuchungen",
+        "todayBookings": "Heute",
+        "upcomingBookings": "Anstehend",
+        "totalRevenue": "Gesamtumsatz"
+      },
+      "recentBookings": "Aktuelle Buchungen",
+      "customer": "Kunde",
+      "service": "Service",
+      "date": "Datum",
+      "time": "Uhrzeit",
+      "status": "Status",
+      "guests": "Gäste",
+      "notes": "Notizen",
+      "confirmed": "Bestätigt",
+      "pending": "Ausstehend",
+      "cancelled": "Storniert",
+      "noBookings": "Noch keine Buchungen. Probieren Sie eine Reservierung!",
+      "resetButton": "Demo-Daten zurücksetzen",
+      "resetTooltip": "Alle Demo-Buchungen löschen und neu starten"
+    },
+    "features": {
+      "mittagspause": "Mittagspause-Erkennung",
+      "mittagspauseDesc": "Blockiert automatisch 12:00-14:00 Uhr",
+      "holidays": "Deutsche Feiertage",
+      "holidaysDesc": "Berücksichtigt Feiertage und Geschäftstage",
+      "realtime": "Echtzeit-Updates",
+      "realtimeDesc": "Sofortige Synchronisation zwischen Ansichten",
+      "validation": "Intelligente Validierung",
+      "validationDesc": "Verhindert Doppelbuchungen und Konflikte"
+    },
+    "performance": {
+      "title": "Leistungsmetriken",
+      "loadTime": "Ladezeit",
+      "responseTime": "Antwortzeit",
+      "uptime": "Verfügbarkeit",
+      "transactions": "Transaktionen/Tag"
+    },
+    "cta": {
+      "title": "Bereit, Ihr Geschäft zu transformieren?",
+      "subtitle": "Starten Sie noch heute mit unserem Buchungssystem",
+      "button": "Kostenlose Beratung anfordern"
+    }
+  },
+  "pricing": {
+    "title": "Einfache, Transparente Preise",
+    "subtitle": "Wählen Sie den perfekten Plan für Ihr Unternehmen. Alle Pläne beinhalten eine 14-tägige kostenlose Testversion.",
+    "monthly": "Monatlich",
+    "yearly": "Jährlich",
+    "save20": "20% sparen",
+    "month": "Monat",
+    "year": "Jahr",
+    "mostPopular": "Beliebteste Wahl",
+    "startTrial": "Kostenlos testen",
+    "noCreditCard": "Keine Kreditkarte erforderlich",
+    "includedFeatures": "Enthalten",
+    "notIncluded": "Nicht enthalten",
+    "compareFeatures": "Alle Funktionen vergleichen",
+    "features": {
+      "bookings": "Buchungen/Monat",
+      "users": "Teammitglieder",
+      "support": "Support",
+      "integrations": "Integrationen",
+      "api": "API-Zugang",
+      "whitelabel": "White-Label-Option",
+      "training": "Onboarding-Schulung",
+      "analytics": "Erweiterte Analysen"
+    },
+    "saveAmount": "Sparen Sie {{amount}}€/Jahr",
+    "customNeeds": "Benötigen Sie eine maßgeschneiderte Lösung oder haben Sie spezielle Anforderungen?",
+    "contactSales": "Vertrieb kontaktieren",
+    "starter": {
+      "name": "Starter",
+      "description": "Perfekt für Einzelunternehmer",
+      "features": {
+        "bookings": "Bis zu 100 Buchungen/Monat",
+        "users": "1 Benutzerkonto",
+        "notifications": "E-Mail-Benachrichtigungen",
+        "analytics": "Basis-Analyse-Dashboard",
+        "support": "E-Mail-Support"
+      },
+      "limitations": {
+        "api": "Kein API-Zugang",
+        "customization": "Begrenzte Anpassungen",
+        "integrations": "Nur Basis-Integrationen"
+      },
+      "price": "€49",
+      "period": "/Monat",
+      "cta": "Kostenlos testen"
+    },
+    "professional": {
+      "name": "Professional",
+      "description": "Für wachsende Unternehmen",
+      "features": {
+        "bookings": "Unbegrenzte Buchungen",
+        "users": "5 Benutzerkonten",
+        "notifications": "SMS & E-Mail-Benachrichtigungen",
+        "analytics": "Erweiterte Analysen & Berichte",
+        "api": "Voller API-Zugang",
+        "support": "Prioritäts-Support",
+        "customization": "Individuelle Markengestaltung",
+        "integrations": "10+ Integrationen"
+      },
+      "price": "€99",
+      "badge": "BELIEBTESTE WAHL",
+      "period": "/Monat",
+      "popular": "Beliebteste Wahl",
+      "cta": "Kostenlos testen"
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "description": "Für große Organisationen",
+      "features": {
+        "everything": "Alles aus Professional",
+        "users": "Unbegrenzte Benutzerkonten",
+        "integrations": "Individuelle Integrationen",
+        "manager": "Dedizierter Account Manager",
+        "sla": "99,9% SLA-Garantie",
+        "training": "Vor-Ort-Schulung",
+        "api": "Prioritärer API-Support",
+        "whitelabel": "White-Label-Optionen"
+      },
+      "price": "Individuell",
+      "period": "",
+      "cta": "Vertrieb kontaktieren"
+    },
+    "comparison": {
+      "bookings": "Monatliche Buchungen",
+      "users": "Benutzerkonten",
+      "notifications": "Benachrichtigungen",
+      "analytics": "Analysen",
+      "api": "API-Zugang",
+      "support": "Support-Level",
+      "customization": "Anpassung",
+      "integrations": "Integrationen",
+      "sla": "SLA-Garantie",
+      "training": "Schulung"
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "contract": {
+        "question": "Welche Vertragsbedingungen gelten?",
+        "answer": "Alle Pläne sind monatlich kündbar ohne langfristige Verträge. Sie können jederzeit mit nur einem Klick kündigen. Bei Jahresplänen können Sie am Ende Ihrer Abrechnungsperiode kündigen."
+      },
+      "cancellation": {
+        "question": "Wie sind die Kündigungsbedingungen?",
+        "answer": "Sie können Ihr Abonnement jederzeit in Ihren Kontoeinstellungen kündigen. Ihr Service läuft bis zum Ende der aktuellen Abrechnungsperiode weiter. Keine Fragen, keine Kündigungsgebühren."
+      },
+      "dataExport": {
+        "question": "Kann ich meine Daten exportieren?",
+        "answer": "Ja! Alle Daten gehören Ihnen. Sie können alle Buchungen, Kundeninformationen und Analysen jederzeit in mehreren Formaten (CSV, JSON, PDF) exportieren. Wir bieten auch API-Zugang für automatisierte Exporte."
+      },
+      "payment": {
+        "question": "Welche Zahlungsmethoden werden akzeptiert?",
+        "answer": "Wir akzeptieren alle gängigen Kreditkarten (Visa, MasterCard, American Express), SEPA-Lastschrift für europäische Kunden und Überweisungen für Enterprise-Pläne."
+      },
+      "upgrade": {
+        "question": "Kann ich meinen Plan upgraden oder downgraden?",
+        "answer": "Selbstverständlich! Sie können Ihren Plan jederzeit ändern. Upgrades werden sofort mit anteiliger Abrechnung wirksam. Downgrades werden im nächsten Abrechnungszyklus wirksam."
+      },
+      "q1": "Kann ich jederzeit den Plan wechseln?",
+      "a1": "Ja, Sie können Ihren Plan jederzeit upgraden oder downgraden.",
+      "q2": "Gibt es eine Einrichtungsgebühr?",
+      "a2": "Nein, es gibt keine Einrichtungsgebühren. Sofort starten.",
+      "q3": "Welche Zahlungsmethoden akzeptieren Sie?",
+      "a3": "Wir akzeptieren alle gängigen Kreditkarten, SEPA-Lastschrift und Rechnung für Enterprise.",
+      "q4": "Kann ich jederzeit kündigen?",
+      "a4": "Ja, jederzeit kündbar. Keine Fragen."
+    },
+    "perMonth": "/Monat",
+    "perYear": "/Jahr",
+    "hero": {
+      "title": "Einfache, transparente Preise",
+      "subtitle": "Keine versteckten Gebühren. Keine Überraschungen. Nur Wert.",
+      "monthly": "Monatlich",
+      "yearly": "Jährlich",
+      "save": "20% sparen"
+    },
+    "business": {
+      "name": "Business",
+      "price": "€199",
+      "period": "/Monat",
+      "description": "Für etablierte Unternehmen",
+      "cta": "Kostenlos testen"
+    }
+  },
+  "hero": {
+    "trustBadge": "Vertraut von Branchenführern",
+    "headline": "Digitale Transformation für Unternehmenserfolg",
+    "subheadline": "Digitale Exzellenz für Branchenführer - Unsere KI-Lösungen und Unternehmenssysteme transformieren Unternehmen weltweit.",
+    "cta": {
+      "primary": "Beratung vereinbaren",
+      "secondary": "Unsere Lösungen ansehen",
+      "trial": "Beratung vereinbaren",
+      "demo": "Portfolio ansehen"
+    },
+    "title": {
+      "line1": "Enterprise KI-Lösungen",
+      "line2": "für Branchenführer",
+      "line3": "Deutsche Ingenieurskunst"
+    },
+    "subtitle": "Transformieren Sie Ihr Unternehmen mit modernster KI, Automatisierung und digitalen Lösungen von unserem Standort in Wiesbaden."
+  },
+  "benefits": {
+    "title": "Warum deutsche Unternehmen uns wählen",
+    "subtitle": "Bewährte Ergebnisse, die Ihre Abläufe transformieren",
+    "saveTime": {
+      "title": "Sparen Sie 15+ Stunden wöchentlich",
+      "description": "Eliminieren Sie Telefon-Tag und manuelle Terminplanung. Unser automatisiertes System verwaltet Buchungen rund um die Uhr, damit sich Ihr Team auf die Kundenbetreuung konzentrieren kann."
+    },
+    "reduceNoShows": {
+      "title": "70% weniger Ausfälle",
+      "description": "Intelligente Erinnerungen per SMS und E-Mail stellen sicher, dass Kunden ihre Termine wahrnehmen. Automatische Bestätigungen reduzieren kostspielige Ausfälle."
+    },
+    "germanCompliant": {
+      "title": "100% für deutsche Unternehmen",
+      "description": "Integrierte Mittagspausen-Blockierung, deutsche Feiertagserkennung und vollständige DSGVO-Konformität. Wir verstehen deutsche Geschäftskultur."
+    },
+    "increaseRevenue": {
+      "title": "30% mehr Umsatz",
+      "description": "Akzeptieren Sie Buchungen rund um die Uhr, optimieren Sie die Terminplanung und wandeln Sie mehr Anfragen in bestätigte Termine mit unserem konversionsoptimierten Buchungsablauf um."
+    }
+  },
+  "features": {
+    "comprehensive": {
+      "mittagspause": "Automatische Mittagspausen-Blockierung",
+      "mittagspauseDesc": "Respektiert deutsche Mittagszeiten (12:00-14:00 Uhr) automatisch",
+      "holidays": "Deutsche Feiertagserkennung",
+      "holidaysDesc": "Alle Bundes- und Landesfeiertage vorkonfiguriert",
+      "gdpr": "DSGVO-konform",
+      "gdprDesc": "Vollständige Datenschutz-Compliance nach deutschen Vorschriften",
+      "mobileReady": "Mobile-First-Design",
+      "mobileReadyDesc": "Perfekte Buchungserfahrung auf allen Geräten",
+      "instantConfirmation": "Sofortbestätigungen",
+      "instantConfirmationDesc": "Automatische E-Mail- und SMS-Bestätigungen",
+      "analytics": "Erweiterte Analysen",
+      "analyticsDesc": "Verfolgen Sie Buchungen, Umsatz und Kundenverhalten"
+    },
+    "title": "Funktionen für deutsche Exzellenz",
+    "subtitle": "Alles, was Sie zum Erfolg brauchen",
+    "ai": {
+      "title": "KI-gestützte Terminplanung",
+      "desc": "Intelligente Algorithmen optimieren Ihren Kalender automatisch"
+    },
+    "security": {
+      "title": "DSGVO-konform",
+      "desc": "Deutsche Datenschutzstandards integriert"
+    },
+    "scale": {
+      "title": "Unbegrenzte Skalierung",
+      "desc": "Von Einzelunternehmern bis zu Großunternehmen"
+    },
+    "api": {
+      "title": "API-Integration",
+      "desc": "Nahtlose Verbindung mit Ihren bestehenden Tools"
+    },
+    "analytics": {
+      "title": "Geschäftsanalysen",
+      "desc": "Verfolgen Sie Buchungen, Umsatz und Kundeneinblicke"
+    },
+    "integration": {
+      "title": "Kalender-Synchronisation",
+      "desc": "Funktioniert mit Google, Outlook und Apple Kalendern"
+    },
+    "hero": {
+      "title": "Leistungsstarke Funktionen für moderne Unternehmen",
+      "subtitle": "Alles was Sie brauchen, um Telefonbuchungen zu eliminieren und Ihr Geschäft zu automatisieren",
+      "cta": "Kostenlos testen"
+    },
+    "booking": {
+      "title": "Intelligentes Buchungssystem",
+      "subtitle": "Lassen Sie Kunden 24/7 von jedem Gerät buchen",
+      "instant": {
+        "title": "Sofortige Bestätigung",
+        "desc": "Kunden erhalten sofort Buchungsbestätigung per E-Mail und SMS"
+      },
+      "availability": {
+        "title": "Echtzeit-Verfügbarkeit",
+        "desc": "Zeigen Sie nur verfügbare Slots basierend auf Ihrem Kalender"
+      },
+      "reminders": {
+        "title": "Automatische Erinnerungen",
+        "desc": "Reduzieren Sie No-Shows um 87% mit intelligenten Erinnerungssequenzen"
+      },
+      "payments": {
+        "title": "Online-Zahlungen",
+        "desc": "Akzeptieren Sie Anzahlungen oder Vollzahlungen während der Buchung"
+      }
+    },
+    "management": {
+      "title": "Geschäftsverwaltung",
+      "subtitle": "Werkzeuge für effizientes Geschäftsmanagement",
+      "calendar": {
+        "title": "Intelligenter Kalender",
+        "desc": "Verwalten Sie alle Buchungen in einer einheitlichen Kalenderansicht"
+      },
+      "staff": {
+        "title": "Mitarbeiterverwaltung",
+        "desc": "Weisen Sie Buchungen automatisch Teammitgliedern zu"
+      },
+      "analytics": {
+        "title": "Geschäftsanalysen",
+        "desc": "Verfolgen Sie Umsatz, beliebte Services und Kundeneinblicke"
+      },
+      "integration": {
+        "title": "Nahtlose Integrationen",
+        "desc": "Verbinden Sie sich mit Ihren bestehenden Tools und Workflows"
+      }
+    },
+    "german": {
+      "title": "Gebaut für deutsche Exzellenz",
+      "subtitle": "Funktionen speziell für deutsche Unternehmen",
+      "holidays": {
+        "title": "Deutsche Feiertage",
+        "desc": "Blockiert automatisch Buchungen an allen deutschen Feiertagen"
+      },
+      "mittagspause": {
+        "title": "Mittagspause-Unterstützung",
+        "desc": "Eingebaute Mittagspausen-Planung (12-14 Uhr)"
+      },
+      "gdpr": {
+        "title": "DSGVO-konform",
+        "desc": "Vollständige Einhaltung deutscher Datenschutzgesetze"
+      },
+      "invoice": {
+        "title": "Deutsche Rechnungsstellung",
+        "desc": "Erstellen Sie konforme Rechnungen mit korrekter Steuerberechnung"
+      }
+    }
+  },
+  "integration": {
+    "title": "In 5 Minuten live",
+    "subtitle": "Einfache Integration in jede Website",
+    "stepOne": {
+      "title": "Code kopieren",
+      "description": "Erhalten Sie Ihren personalisierten Buchungs-Widget-Code"
+    },
+    "stepTwo": {
+      "title": "Auf Ihrer Website einfügen",
+      "description": "Funktioniert mit jeder Website oder CMS-Plattform"
+    },
+    "stepThree": {
+      "title": "Buchungen empfangen",
+      "description": "Beginnen Sie sofort mit dem Empfang von Terminen"
+    },
+    "copyCode": "Integrationscode kopieren",
+    "codeCopied": "Code kopiert!",
+    "howItWorks": "So funktioniert's",
+    "platforms": "Funktioniert mit WordPress, Wix, Squarespace und jeder HTML-Website",
+    "hero": {
+      "title": "Integrationsleitfaden",
+      "subtitle": "Verbinden Sie Ihr Buchungssystem mit Ihren Lieblings-Tools",
+      "browse": "Integrationen durchsuchen",
+      "request": "Integration anfordern"
+    },
+    "popular": {
+      "title": "Beliebte Integrationen",
+      "google": {
+        "title": "Google Kalender",
+        "desc": "Synchronisieren Sie Buchungen automatisch mit Google Kalender"
+      },
+      "outlook": {
+        "title": "Outlook",
+        "desc": "Verbinden Sie sich mit Microsoft Outlook und Office 365"
+      },
+      "stripe": {
+        "title": "Stripe",
+        "desc": "Akzeptieren Sie Zahlungen und Anzahlungen nahtlos"
+      },
+      "mailchimp": {
+        "title": "Mailchimp",
+        "desc": "Synchronisieren Sie Kundendaten für E-Mail-Marketing"
+      },
+      "slack": {
+        "title": "Slack",
+        "desc": "Erhalten Sie Buchungsbenachrichtigungen in Slack"
+      },
+      "zoom": {
+        "title": "Zoom",
+        "desc": "Erstellen Sie automatisch Zoom-Links für Termine"
+      }
+    },
+    "guides": {
+      "title": "Schritt-für-Schritt-Anleitungen",
+      "calendar": "Kalender-Integrationsleitfaden",
+      "payment": "Zahlungs-Integrationsleitfaden",
+      "crm": "CRM-Integrationsleitfaden",
+      "email": "E-Mail-Marketing-Integration"
+    },
+    "custom": {
+      "title": "Individuelle Integrationen",
+      "description": "Benötigen Sie eine individuelle Integration? Wir helfen Ihnen.",
+      "webhook": "Webhooks",
+      "api": "REST-API",
+      "zapier": "Zapier",
+      "contact": "Kontaktieren Sie unser Integrationsteam"
+    }
+  },
+  "onboarding": {
+    "title": "In Minuten startklar",
+    "subtitle": "Unser einfacher Onboarding-Prozess bringt Sie schnell zum Laufen",
+    "freeSignup": {
+      "title": "Kostenlos registrieren",
+      "description": "Keine Kreditkarte für 30-Tage-Test erforderlich"
+    },
+    "setupProfile": {
+      "title": "Profil einrichten",
+      "description": "Fügen Sie Geschäftszeiten, Services und Teammitglieder hinzu"
+    },
+    "addServices": {
+      "title": "Services hinzufügen",
+      "description": "Konfigurieren Sie Servicetypen, Dauer und Preise"
+    },
+    "customize": {
+      "title": "Widget anpassen",
+      "description": "Passen Sie Farben und Stil an Ihre Marke an"
+    },
+    "goLive": {
+      "title": "Live gehen!",
+      "description": "Beginnen Sie sofort mit dem Empfang von Buchungen"
+    }
+  },
+  "marketing": {
+    "testimonials": {
+      "title": "Was unsere Kunden sagen",
+      "subtitle": "Schließen Sie sich tausenden deutschen Unternehmen an, die ihren Buchungsprozess transformiert haben",
+      "roles": {
+        "restaurantOwner": "Restaurantbesitzer",
+        "salonOwner": "Salonbesitzerin",
+        "doctor": "Allgemeinmediziner",
+        "fitnessOwner": "Fitness-Studio Inhaberin",
+        "craftsman": "Handwerksmeister"
+      },
+      "restaurant": "Seit der Einführung des Buchungssystems klingelt unser Telefon kaum noch. Das Personal kann sich endlich auf unsere Gäste konzentrieren, anstatt Reservierungen zu verwalten. Die automatische Erinnerungsfunktion hat No-Shows auf fast null reduziert.",
+      "salon": "Das Online-Buchungssystem war in 2 Minuten eingerichtet! Unsere Kunden lieben es, rund um die Uhr Termine buchen zu können. Wir haben 40% mehr Buchungen, besonders außerhalb der Geschäftszeiten.",
+      "medical": "Die DSGVO-Konformität war unsere größte Sorge, aber diese Lösung hat alle Erwartungen übertroffen. Patientendaten sind sicher, das System läuft auf deutschen Servern und wir sparen 15 Stunden pro Woche bei der Terminverwaltung.",
+      "fitness": "Die Integration in unsere bestehende Website war nahtlos. Mitglieder können jetzt Kurse, Personal Training und sogar Geräteplätze buchen. Die automatische Warteliste füllt Stornierungen automatisch auf.",
+      "craftsman": "Als traditioneller Handwerker war ich skeptisch gegenüber digitalen Lösungen. Aber die Einfachheit hat mich überzeugt. Kunden können meine Verfügbarkeit sehen und direkt Servicetermine buchen. Kein Telefon-Tag mehr!",
+      "metrics": {
+        "callsPerDay": "Anrufe/Tag",
+        "noShows": "Nichterscheinen",
+        "staffForAppointments": "Mitarbeiter für Termine",
+        "dailyScheduling": "tägliche Planung",
+        "missedOpportunities": "Verpasste Chancen",
+        "fullyBooked": "Ausgebucht"
+      },
+      "before": "Vorher",
+      "after": "Nachher",
+      "trustIndicator": "100% echte Bewertungen von verifizierten deutschen Unternehmen"
+    },
+    "metrics": {
+      "title": "Ergebnisse, die für sich sprechen",
+      "subtitle": "Echte Kennzahlen von über 5.000 deutschen Unternehmen, die unser Buchungssystem nutzen",
+      "phoneReduction": {
+        "label": "Weniger Telefonanrufe",
+        "description": "Reduzieren Sie Unterbrechungen und lassen Sie Ihr Team sich auf Kunden konzentrieren"
+      },
+      "timeSaved": {
+        "label": "Stunden wöchentlich gespart",
+        "description": "Automatisieren Sie die Terminplanung und eliminieren Sie manuelle Buchungsaufgaben"
+      },
+      "noShows": {
+        "label": "Reduzierung von Nichterscheinen",
+        "description": "Automatische Erinnerungen stellen sicher, dass Kunden ihre Termine wahrnehmen"
+      },
+      "setupTime": {
+        "label": "Einrichtungszeit",
+        "description": "Starten Sie sofort mit unserem Sofort-Setup-Prozess"
+      },
+      "cta": "Das sind nicht nur Zahlen - sie repräsentieren echte Zeit- und Geldersparnis für Unternehmen wie Ihres",
+      "button": "Berechnen Sie Ihren ROI"
+    },
+    "trust": {
+      "title": "Sicherheit & Zuverlässigkeit, der Sie vertrauen können",
+      "subtitle": "Nach deutschen Ingenieurstandards für Datenschutz, Zuverlässigkeit und Compliance gebaut",
+      "gdpr": {
+        "label": "100% DSGVO-konform",
+        "description": "Vollständige Einhaltung deutscher und EU-Datenschutzbestimmungen"
+      },
+      "ssl": {
+        "label": "Verschlüsselung auf Bankniveau",
+        "description": "256-Bit-SSL-Verschlüsselung für alle Datenübertragungen"
+      },
+      "germanHosted": {
+        "label": "Gehostet in Deutschland",
+        "description": "Alle Daten ausschließlich auf deutschen Servern gespeichert"
+      },
+      "uptime": {
+        "label": "Garantierte Verfügbarkeit",
+        "description": "Enterprise-Infrastruktur mit Redundanz"
+      },
+      "certified": {
+        "label": "ISO-zertifiziert",
+        "description": "ISO 27001 zertifiziertes Datenmanagement"
+      },
+      "support": {
+        "label": "Deutsches Support-Team",
+        "description": "Muttersprachlicher deutscher Support verfügbar"
+      },
+      "compliance": "Compliance & Zertifizierungen",
+      "statement": {
+        "title": "Ihre Daten sind uns heilig",
+        "description": "Wir verstehen die Bedeutung des Datenschutzes für deutsche Unternehmen. Deshalb haben wir unsere gesamte Infrastruktur mit Privacy-First-Prinzipien aufgebaut, um sicherzustellen, dass Ihre Kundendaten Deutschland niemals verlassen und durch höchste Sicherheitsstandards geschützt sind."
+      }
+    },
+    "comparison": {
+      "title": "Transformieren Sie Ihre Geschäftsabläufe",
+      "subtitle": "Sehen Sie den dramatischen Unterschied, den unser Buchungssystem im Tagesgeschäft macht",
+      "toggleBefore": "Ohne System",
+      "toggleAfter": "Mit unserem System",
+      "before": {
+        "title": "Das tägliche Chaos",
+        "subtitle": "Wie die meisten Unternehmen mit Buchungen kämpfen",
+        "stat1": "Tägliche Anrufe",
+        "stat2": "Nichterscheinen",
+        "stat3": "Admin-Zeit"
+      },
+      "after": {
+        "title": "Organisierte Exzellenz",
+        "subtitle": "Ihr Unternehmen mit automatisierter Buchung",
+        "stat1": "Anrufreduktion",
+        "stat2": "Weniger No-Shows",
+        "stat3": "Verfügbarkeit"
+      },
+      "phone": {
+        "before": "Telefon klingelt ständig, stört den Service und frustriert Mitarbeiter",
+        "after": "Ruhige Arbeitsumgebung mit automatisierter Buchungsabwicklung"
+      },
+      "calendar": {
+        "before": "Papierkalender, Doppelbuchungen und Terminkonflikt",
+        "after": "Digitaler Kalender mit automatischer Konfliktvermeidung"
+      },
+      "time": {
+        "before": "Stunden mit Telefonterminierung und Umplanung verbracht",
+        "after": "Sofortige automatisierte Buchung und Umbuchung durch Kunden"
+      },
+      "errors": {
+        "before": "Menschliche Fehler bei Buchungsdetails und Zeiten",
+        "after": "Fehlerfreie automatisierte Datenerfassung und Bestätigung"
+      },
+      "customers": {
+        "before": "Kunden frustriert durch Telefonwartezeiten",
+        "after": "Zufriedene Kunden buchen jederzeit sofort"
+      },
+      "analytics": {
+        "before": "Keine Einblicke in Buchungsmuster oder Trends",
+        "after": "Detaillierte Analysen und Business Intelligence"
+      },
+      "roi": {
+        "title": "Berechnen Sie Ihren Return on Investment",
+        "description": "Die meisten Unternehmen sehen positive ROI im ersten Monat"
+      }
+    }
+  },
+  "banner": {
+    "launchOffer": "Launch-Angebot: 50% Rabatt für die ersten 3 Monate"
+  },
+  "header": {
+    "startFreeTrial": "Kostenlos testen",
+    "getstarted": "Jetzt starten",
+    "getFreeConsultation": "Kostenlose Beratung"
+  },
+  "demo": {
+    "title": "Sehen Sie es in Aktion",
+    "subtitle": "Erleben Sie das Buchungssystem, das deutsche Unternehmen transformiert",
+    "input": {
+      "label": "Jetzt ausprobieren",
+      "placeholder": "Wählen Sie einen Service zur Buchung..."
+    },
+    "button": {
+      "analyze": "Jetzt buchen"
+    },
+    "booking": {
+      "title": "Demo buchen",
+      "subtitle": "Erleben Sie die Zukunft der Terminplanung",
+      "guestName": "Demo-Gast",
+      "defaultService": "Demo-Beratung",
+      "selectService": "Service wählen",
+      "selectDate": "Datum wählen",
+      "selectTime": "Zeit wählen",
+      "confirm": "Buchung bestätigen",
+      "success": "Buchung bestätigt!",
+      "successMessage": "Ihre Demo-Buchung wurde erfolgreich erstellt."
+    }
+  },
+  "mind": {
+    "hero": {
+      "title": "MIND AI Plattform",
+      "tagline": "Transformieren Sie Ihr Unternehmen mit deutscher KI-Technologie",
+      "description": "Automatisieren Sie 80% der repetitiven Aufgaben. Sparen Sie 20+ Stunden wöchentlich. Vertraut von Branchenführern weltweit."
+    },
+    "cta": {
+      "trial": "Kostenlos testen",
+      "demo": "Live-Demo ansehen",
+      "schedule": "Beratung buchen"
+    },
+    "features": {
+      "title": "KI-gestützte Funktionen",
+      "subtitle": "Alles was Sie zur Automatisierung und Skalierung benötigen",
+      "smarthome": {
+        "title": "Smart Home Automatisierung",
+        "desc": "Steuern Sie Ihr gesamtes Zuhause mit Sprachbefehlen und KI-Vorhersagen"
+      },
+      "restaurant": {
+        "title": "Restaurant Management",
+        "desc": "Automatisieren Sie Buchungen, Inventar und Kundenservice"
+      },
+      "analytics": {
+        "title": "Prädiktive Analysen",
+        "desc": "KI-gesteuerte Einblicke zur Optimierung Ihrer Geschäftsentscheidungen"
+      },
+      "fast": {
+        "title": "Blitzschnell",
+        "desc": "Verarbeiten Sie Tausende von Anfragen in Millisekunden"
+      },
+      "security": {
+        "title": "Enterprise Sicherheit",
+        "desc": "Banken-Level Verschlüsselung und DSGVO-konform"
+      },
+      "global": {
+        "title": "Globale Skalierung",
+        "desc": "Mit einem Klick in mehreren Regionen einsetzen"
+      }
+    },
+    "pricing": {
+      "title": "Einfache, transparente Preise",
+      "subtitle": "Wählen Sie den Plan, der zu Ihrem Unternehmen passt",
+      "pilot": "Perfekt für kleine Teams, die KI testen",
+      "growth": "Für wachsende Unternehmen bereit zu skalieren",
+      "scale": "Für Unternehmen mit komplexen Anforderungen",
+      "enterprise": "Maßgeschneiderte Lösungen für große Organisationen",
+      "custom": "Vertrieb kontaktieren",
+      "popular": "Beliebteste Wahl",
+      "contact": "Vertrieb kontaktieren",
+      "trial": "Kostenlos testen",
+      "features": "Alle Pläne beinhalten 24/7 Support und regelmäßige Updates",
+      "period": {
+        "month": "/Monat",
+        "year": "/Jahr"
+      }
+    },
+    "testimonials": {
+      "title": "Vertraut von Branchenführern",
+      "subtitle": "Sehen Sie, wie Unternehmen mit MIND AI transformieren"
+    }
+  },
+  "api": {
+    "hero": {
+      "title": "API-Dokumentation",
+      "subtitle": "Erstellen Sie leistungsstarke Integrationen mit unserer REST-API",
+      "getStarted": "API-Schlüssel erhalten",
+      "viewDocs": "Dokumentation ansehen"
+    },
+    "overview": {
+      "title": "Übersicht",
+      "intro": "Unsere API ermöglicht es Ihnen, Buchungen, Kunden und Geschäftsdaten programmatisch zu verwalten.",
+      "baseUrl": "Basis-URL",
+      "version": "API-Version",
+      "auth": "Authentifizierung"
+    },
+    "endpoints": {
+      "title": "API-Endpunkte",
+      "bookings": {
+        "title": "Buchungen",
+        "list": "Alle Buchungen auflisten",
+        "create": "Buchung erstellen",
+        "get": "Buchungsdetails abrufen",
+        "update": "Buchung aktualisieren",
+        "cancel": "Buchung stornieren"
+      },
+      "customers": {
+        "title": "Kunden",
+        "list": "Alle Kunden auflisten",
+        "create": "Kunde erstellen",
+        "get": "Kundendetails abrufen",
+        "update": "Kunde aktualisieren"
+      },
+      "availability": {
+        "title": "Verfügbarkeit",
+        "check": "Verfügbarkeit prüfen",
+        "slots": "Verfügbare Slots abrufen",
+        "block": "Zeitslots blockieren"
+      }
+    },
+    "authentication": {
+      "title": "Authentifizierung",
+      "description": "Authentifizieren Sie Ihre Anfragen mit API-Schlüsseln",
+      "header": "Authorization Header",
+      "example": "Beispielanfrage"
+    },
+    "rateLimit": {
+      "title": "Rate Limiting",
+      "description": "API-Anfragen sind begrenzt für faire Nutzung",
+      "limit": "1000 Anfragen pro Stunde",
+      "headers": "Rate-Limit-Header"
+    },
+    "sdks": {
+      "title": "SDKs & Bibliotheken",
+      "description": "Offizielle SDKs für beliebte Sprachen",
+      "javascript": "JavaScript/Node.js",
+      "python": "Python",
+      "php": "PHP",
+      "ruby": "Ruby"
+    }
+  },
+  "support": {
+    "hero": {
+      "title": "Wie können wir helfen?",
+      "subtitle": "Erhalten Sie Antworten und Support für Ihr Buchungssystem",
+      "search": "Nach Hilfe suchen...",
+      "contact": "Support kontaktieren"
+    },
+    "categories": {
+      "title": "Hilfethemen durchsuchen",
+      "getting_started": {
+        "title": "Erste Schritte",
+        "desc": "Lernen Sie die Grundlagen und richten Sie Ihr Konto ein"
+      },
+      "bookings": {
+        "title": "Buchungsverwaltung",
+        "desc": "Alles über Buchungen und Terminplanung"
+      },
+      "payments": {
+        "title": "Zahlungen & Abrechnung",
+        "desc": "Zahlungsverarbeitung und Abonnementverwaltung"
+      },
+      "integrations": {
+        "title": "Integrationen",
+        "desc": "Verbindung mit anderen Tools und Services"
+      },
+      "api": {
+        "title": "API & Entwickler",
+        "desc": "Technische Dokumentation und API-Anleitungen"
+      },
+      "account": {
+        "title": "Konto & Einstellungen",
+        "desc": "Verwalten Sie Ihr Konto und Ihre Präferenzen"
+      }
+    },
+    "popular": {
+      "title": "Beliebte Artikel",
+      "article1": "Wie Sie Ihren ersten Service einrichten",
+      "article2": "Online-Zahlungen akzeptieren",
+      "article3": "Mitarbeiterkalender verwalten",
+      "article4": "E-Mail-Erinnerungen einrichten",
+      "article5": "Ihre Buchungsseite anpassen"
+    },
+    "contact": {
+      "title": "Brauchen Sie noch Hilfe?",
+      "description": "Unser Support-Team ist für Sie da",
+      "email": {
+        "title": "E-Mail-Support",
+        "desc": "Hilfe per E-Mail innerhalb von 24 Stunden",
+        "cta": "E-Mail senden"
+      },
+      "chat": {
+        "title": "Live-Chat",
+        "desc": "Chatten Sie in Echtzeit mit unserem Team",
+        "cta": "Chat starten"
+      },
+      "phone": {
+        "title": "Telefon-Support",
+        "desc": "Sprechen Sie mit unseren Experten (Business-Plan)",
+        "cta": "Anruf planen"
+      }
+    }
+  },
+  "portfolio": {
+    "hero": {
+      "title": "Unsere Erfolgsgeschichten",
+      "subtitle": "Sehen Sie, wie wir Unternehmen in ganz Deutschland transformiert haben",
+      "filter": {
+        "all": "Alle Projekte",
+        "restaurant": "Restaurants",
+        "salon": "Beauty & Wellness",
+        "medical": "Medizinisch",
+        "automotive": "Automobil"
+      }
+    },
+    "cases": {
+      "restaurant1": {
+        "title": "Bella Italia Stuttgart",
+        "category": "Restaurant",
+        "result": "75% weniger Telefonanrufe",
+        "description": "Online-Buchungssystem für geschäftiges italienisches Restaurant implementiert"
+      },
+      "salon1": {
+        "title": "Hair & Beauty München",
+        "category": "Friseursalon",
+        "result": "€12.000 monatliche Umsatzsteigerung",
+        "description": "Automatisierte Terminplanung für 8 Stylisten"
+      },
+      "medical1": {
+        "title": "Dr. Schmidt Praxis",
+        "category": "Medizinisch",
+        "result": "Keine Doppelbuchungen mehr",
+        "description": "Patientenplanungssystem mit Erinnerungsautomatisierung"
+      },
+      "auto1": {
+        "title": "AutoHaus Berlin",
+        "category": "Automobil",
+        "result": "40% mehr Service-Buchungen",
+        "description": "Service-Terminsystem mit Werkstattverwaltung"
+      }
+    },
+    "metrics": {
+      "title": "Ergebnisse, die zählen",
+      "bookings": "Verarbeitete Buchungen gesamt",
+      "revenue": "Generierter Umsatz für Kunden",
+      "hours": "Wöchentlich gesparte Stunden",
+      "satisfaction": "Kundenzufriedenheit"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Wir bauen, wir beraten nicht",
+      "subtitle": "Gegründet in Wiesbaden, Hessen, 2020. Keine weitere Agentur - wir sind Ingenieure, die echte Geschäftsprobleme lösen.",
+      "founded": "2020",
+      "location": "Stuttgart",
+      "team": "8 Mitarbeiter",
+      "clients": "15 Aktive"
+    },
+    "story": {
+      "title": "Unsere Geschichte",
+      "description": "Begann als wir die gesamte Operation des Hotels am Kochbrunnen automatisierten und deren Umsatz um 16% steigerten. Wir realisierten, dass deutsche Unternehmen mehr brauchen als generische SaaS-Lösungen - sie brauchen Systeme, die für ihre tatsächliche Arbeitsweise gebaut sind.",
+      "continuation": "Jetzt sind wir 8 Personen, die die Zukunft der deutschen Geschäftstechnologie bauen, von KI, die perfekt Deutsch spricht, bis zu Buchungssystemen, die Mittagspause verstehen.",
+      "hotel_success": "Hotel am Kochbrunnen sah sofortige Ergebnisse: 16% Umsatzsteigerung, 90% Reduzierung von Nichterscheinen und täglich gesparte Stunden bei der Buchungsverwaltung."
+    },
+    "numbers": {
+      "title": "In Zahlen",
+      "team": "8",
+      "team_label": "Teammitglieder",
+      "clients": "15",
+      "clients_label": "Aktive Kunden",
+      "revenue": "€1,2M+",
+      "revenue_label": "Generierter Umsatz",
+      "projects": "50+",
+      "projects_label": "Gelieferte Projekte"
+    },
+    "projects": {
+      "title": "Unsere Projekte",
+      "lingxm": {
+        "name": "LingXM",
+        "desc": "Revolutioniert das Sprachenlernen mit 500M+ Korpussätzen",
+        "impact": "14 unterstützte Sprachen"
+      },
+      "mindai": {
+        "name": "MindAI",
+        "desc": "Europas erste rein lokale Smart Home KI",
+        "impact": "100% Privatsphäre garantiert"
+      },
+      "lingxm_travel": {
+        "name": "LingXM Travel",
+        "desc": "Automatisiert Arztpraxen in ganz Deutschland",
+        "impact": "80% Zeitersparnis"
+      }
+    },
+    "values": {
+      "title": "Unsere praktischen Werte",
+      "build": {
+        "title": "Wir bauen, beraten nicht",
+        "desc": "Schluss mit PowerPoints. Wir liefern funktionierende Software."
+      },
+      "solve": {
+        "title": "Wir lösen echte Probleme",
+        "desc": "16% Umsatzsteigerung für Hotel am Kochbrunnen. Das ist real."
+      },
+      "deliver": {
+        "title": "Wir liefern schnell",
+        "desc": "Funktionierende Demo in Woche 1, nicht Monat 3. Deutsche Effizienz."
+      },
+      "measure": {
+        "title": "Wir messen Ergebnisse",
+        "desc": "Jedes Projekt nach ROI verfolgt. Zahlen lügen nicht."
+      }
+    },
+    "cta": {
+      "title": "Lassen Sie uns etwas bauen, das funktioniert",
+      "subtitle": "Keine Beratung, keine Buzzwords. Nur echte Lösungen.",
+      "button": "Jetzt starten",
+      "contact": "Kontakt aufnehmen"
+    },
+    "journey": {
+      "title": "Unser Weg",
+      "subtitle": "Vom Wiesbadener Startup zum deutschen Automatisierungsführer",
+      "cta": {
+        "title": "Bereit, unseren Weg zu begleiten?",
+        "subtitle": "Werden Sie Teil der nächsten Erfolgsgeschichte",
+        "button": "Projekt starten"
+      }
+    }
+  },
+  "services": {
+    "web": {
+      "title": "Webentwicklung",
+      "subtitle": "Moderne Websites & Apps",
+      "description": "Erstellen Sie moderne, responsive Webanwendungen mit neuesten Technologien und Best Practices.",
+      "tabs": {
+        "overview": "Übersicht",
+        "technologies": "Technologien",
+        "portfolio": "Portfolio",
+        "pricing": "Preisgestaltung"
+      },
+      "hero": {
+        "badge": "Deutschlands führende Webentwicklung",
+        "title": "Moderne Webentwicklung für deutsche Unternehmen",
+        "subtitle": "Erstellen Sie Websites und Apps, die schnell, sicher und skalierbar sind. Vertraut von über 500 deutschen Unternehmen.",
+        "primaryCTA": "Projekt starten",
+        "secondaryCTA": "Portfolio ansehen"
+      },
+      "process": {
+        "title": "Unser bewährter Entwicklungsprozess",
+        "subtitle": "Von der Konzeption zur Umsetzung in 4 Wochen",
+        "discovery": {
+          "title": "Entdeckung & Planung",
+          "description": "Wir verstehen Ihre Geschäftsziele und definieren technische Anforderungen"
+        },
+        "design": {
+          "title": "Design & Prototyp",
+          "description": "Erstellen von Wireframes und interaktiven Prototypen für Ihre Freigabe"
+        },
+        "development": {
+          "title": "Entwicklung",
+          "description": "Agile Entwicklung mit wöchentlichen Updates und Demos"
+        },
+        "launch": {
+          "title": "Launch & Support",
+          "description": "Deployment, Schulung und fortlaufende Wartung"
+        }
+      },
+      "tech": {
+        "categories": {
+          "frontend": "Frontend",
+          "backend": "Backend",
+          "database": "Datenbank",
+          "cloud": "Cloud & DevOps"
+        }
+      },
+      "portfolio": {
+        "title": "Ausgewählte Projekte",
+        "subtitle": "Websites und Apps, die wir für deutsche Unternehmen gebaut haben"
+      },
+      "pricing": {
+        "title": "Transparente Preisgestaltung",
+        "subtitle": "Wählen Sie das richtige Paket für Ihr Projekt",
+        "starter": {
+          "name": "Starter",
+          "description": "Perfekt für kleine Unternehmen",
+          "feature1": "5 Seiten responsive Website",
+          "feature2": "Mobile optimiert",
+          "feature3": "Basis SEO",
+          "feature4": "Kontaktformular",
+          "feature5": "1 Monat Support"
+        },
+        "professional": {
+          "name": "Professional",
+          "description": "Für wachsende Unternehmen",
+          "feature1": "Unbegrenzte Seiten",
+          "feature2": "Content Management System",
+          "feature3": "Erweiterte SEO",
+          "feature4": "E-Commerce-fähig",
+          "feature5": "3 Monate Support",
+          "feature6": "Analytics Integration"
+        },
+        "enterprise": {
+          "name": "Enterprise",
+          "description": "Komplette digitale Lösungen",
+          "feature1": "Individuelle Webanwendung",
+          "feature2": "API-Entwicklung",
+          "feature3": "Datenbankdesign",
+          "feature4": "Cloud-Deployment",
+          "feature5": "12 Monate Support",
+          "feature6": "SLA-Garantie",
+          "feature7": "Schulung & Dokumentation"
+        },
+        "cta": "Angebot anfordern"
+      },
+      "cta": {
+        "title": "Bereit für Ihr nächstes Webprojekt?",
+        "subtitle": "Lassen Sie uns Ihre Vision zum Leben erwecken",
+        "button": "Kostenlose Beratung buchen"
+      }
+    },
+    "automation": {
+      "title": "Geschäftsautomatisierung",
+      "subtitle": "KI & Automatisierungslösungen",
+      "tabs": {
+        "overview": "Übersicht",
+        "solutions": "Lösungen",
+        "benefits": "Vorteile",
+        "getStarted": "Loslegen"
+      },
+      "hero": {
+        "badge": "Deutsche KI-Automatisierung",
+        "title": "Intelligente Automatisierung für deutsche Unternehmen",
+        "subtitle": "Reduzieren Sie manuelle Arbeit um 80% mit unseren KI-gestützten Automatisierungslösungen. Sparen Sie Zeit, senken Sie Kosten, steigern Sie die Effizienz.",
+        "primaryCTA": "Automatisierung starten",
+        "secondaryCTA": "ROI berechnen"
+      },
+      "solutions": {
+        "title": "Unsere Automatisierungslösungen",
+        "subtitle": "Maßgeschneiderte Lösungen für jede Branche",
+        "documentAI": {
+          "title": "Dokumenten-KI",
+          "description": "Automatische Verarbeitung von Rechnungen, Verträgen und Formularen mit 99% Genauigkeit"
+        },
+        "customerService": {
+          "title": "Kundenservice-Automatisierung",
+          "description": "KI-Chatbots und automatische Ticketweiterleitung reduzieren Antwortzeiten um 90%"
+        },
+        "workflow": {
+          "title": "Workflow-Automatisierung",
+          "description": "Verbinden Sie alle Ihre Tools und automatisieren Sie sich wiederholende Aufgaben"
+        },
+        "dataAnalysis": {
+          "title": "Datenanalyse & Berichte",
+          "description": "Automatische Datensammlung, Analyse und Berichtserstellung"
+        }
+      },
+      "benefits": {
+        "title": "Warum Automatisierung wichtig ist",
+        "subtitle": "Messbare Ergebnisse vom ersten Tag an",
+        "timeSavings": {
+          "title": "80% Zeitersparnis",
+          "description": "Reduzieren Sie manuelle Aufgaben von Stunden auf Minuten"
+        },
+        "costReduction": {
+          "title": "60% Kostensenkung",
+          "description": "Niedrigere Betriebskosten durch effiziente Automatisierung"
+        },
+        "accuracy": {
+          "title": "99% Genauigkeit",
+          "description": "Eliminieren Sie menschliche Fehler mit KI-Präzision"
+        },
+        "scalability": {
+          "title": "Unbegrenzte Skalierung",
+          "description": "Verarbeiten Sie 10x mehr ohne zusätzliches Personal"
+        }
+      },
+      "industries": {
+        "title": "Branchenlösungen",
+        "subtitle": "Spezialisierte Automatisierung für Ihre Branche",
+        "finance": "Finanzen & Banking",
+        "healthcare": "Gesundheitswesen",
+        "retail": "Einzelhandel",
+        "manufacturing": "Fertigung",
+        "logistics": "Logistik",
+        "realestate": "Immobilien"
+      },
+      "process": {
+        "title": "Wie wir automatisieren",
+        "subtitle": "Unser bewährter 4-Stufen-Prozess",
+        "analyze": {
+          "title": "Analyse",
+          "description": "Wir analysieren Ihre aktuellen Prozesse und identifizieren Automatisierungsmöglichkeiten"
+        },
+        "design": {
+          "title": "Design",
+          "description": "Maßgeschneiderte Automatisierungslösung für Ihre spezifischen Anforderungen"
+        },
+        "implement": {
+          "title": "Implementierung",
+          "description": "Nahtlose Integration in Ihre bestehenden Systeme"
+        },
+        "optimize": {
+          "title": "Optimierung",
+          "description": "Kontinuierliche Überwachung und Verbesserung der Automatisierung"
+        }
+      },
+      "cta": {
+        "title": "Beginnen Sie noch heute mit der Automatisierung",
+        "subtitle": "Entdecken Sie, wie viel Zeit und Geld Sie sparen können",
+        "button": "Kostenlose Automatisierungsanalyse"
+      }
+    },
+    "booking": {
+      "title": "Buchungssysteme",
+      "features": {
+        "mittagspause": {
+          "title": "Automatische Mittagspause",
+          "description": "12:00-14:00 Uhr automatisch blockiert, respektiert deutsche Geschäftskultur"
+        },
+        "holidays": {
+          "title": "Deutsche Feiertage",
+          "description": "Alle Bundes- und Landesfeiertage vorkonfiguriert"
+        },
+        "reminders": {
+          "title": "Intelligente Erinnerungen",
+          "description": "Automatische SMS- und E-Mail-Erinnerungen reduzieren No-Shows um 70%"
+        },
+        "realtime": {
+          "title": "Echtzeit-Verfügbarkeit",
+          "description": "Sofortige Updates über alle Kanäle, keine Doppelbuchungen"
+        },
+        "payments": {
+          "title": "Online-Zahlungen",
+          "description": "Akzeptieren Sie Anzahlungen oder Vorauszahlungen bei der Buchung"
+        },
+        "multilingual": {
+          "title": "Mehrsprachig",
+          "description": "Unterstützt Deutsch, Englisch, Französisch und mehr"
+        }
+      }
+    }
+  },
+  "notFound": {
+    "title": "Seite nicht gefunden",
+    "description": "Die gesuchte Seite konnte leider nicht gefunden werden. Möglicherweise wurde sie verschoben oder existiert nicht mehr.",
+    "homepage": "Startseite",
+    "services": "Services",
+    "getHelp": "Hilfe erhalten",
+    "backToHomepage": "Zurück zur Startseite",
+    "contactSupport": "Support kontaktieren",
+    "popularPages": "Beliebte Seiten",
+    "whatsappMessage": "Hallo, ich brauche Hilfe beim Finden der richtigen Seite auf Ihrer Website."
+  },
+  "innovationLab": {
+    "title": "Innovationslabor",
+    "subtitle": "Die Zukunft gestalten",
+    "description": "Echte Projekte mit echter Wirkung - Branchen durch Innovation transformieren",
+    "progress": {
+      "label": "Entwicklungsfortschritt"
+    },
+    "expectedLaunch": "Erwarteter Start",
+    "technicalSpecs": "Technische Spezifikationen",
+    "techStack": "Technologie-Stack",
+    "keyHighlights": "Wichtige Highlights",
+    "developmentTeam": "Entwicklungsteam",
+    "activeDevelopers": "Aktive Entwickler",
+    "liveStats": "Live-Entwicklungsstatistiken",
+    "commitsToday": "Commits heute",
+    "featuresComplete": "Features fertig",
+    "testsPassing": "Tests erfolgreich",
+    "requestEarlyAccess": "Frühen Zugang anfordern",
+    "status": {
+      "development": "IN ENTWICKLUNG",
+      "beta": "BETA-TEST",
+      "launching": "START IN KÜRZE"
+    },
+    "cta": {
+      "title": "Möchten Sie Teil der Innovation sein?",
+      "description": "Treten Sie unserem Early-Access-Programm bei und gehören Sie zu den Ersten, die diese revolutionären Lösungen erleben. Erhalten Sie exklusive Vorteile, direkte Einflussnahme auf Features und spezielle Launch-Preise.",
+      "joinButton": "Early-Access-Programm beitreten",
+      "learnMore": "Mehr erfahren"
+    },
+    "projects": {
+      "lingxm": {
+        "tagline": "Sprachlern-Revolution",
+        "description": "Revolutionäre Sprachlernplattform mit der weltweit größten Datenbank grammatikalisch perfekter Sätze",
+        "features": {
+          "0": "500M+ Korpus-Sätze mit jeweils 14 Variationen",
+          "1": "14 Sprachen unterstützt und wachsend",
+          "2": "Web- und Mobile-Apps in Entwicklung",
+          "3": "KI-gestützte personalisierte Lernpfade",
+          "4": "Echtzeit-Aussprachefeedback",
+          "5": "Grammatikmuster-Erkennungs-Engine"
+        },
+        "highlights": {
+          "0": "Weltweit größte Datenbank grammatikalisch perfekter Sätze",
+          "1": "Patent-angemeldeter Variationsalgorithmus",
+          "2": "Muttersprachler-Audio für alle Sätze"
+        }
+      },
+      "lingxmTravel": {
+        "tagline": "Automatisierung für Arztpraxen",
+        "description": "KI-gestützte Automatisierung speziell für Arbeitsmediziner in Deutschland, reduziert Patientenbearbeitungszeit um 80%",
+        "features": {
+          "0": "Für Arbeitsmediziner in Deutschland",
+          "1": "80% Reduzierung der Patientenbearbeitungszeit",
+          "2": "OpenAI + Anthropic Claude Integration",
+          "3": "Volle DSGVO-Konformität",
+          "4": "Automatisierte Reisegesundheitszertifikate",
+          "5": "Mehrsprachige Patientenkommunikation"
+        },
+        "highlights": {
+          "0": "Derzeit Beta-Test mit 3 Praxen",
+          "1": "DSGVO-konforme Datenverarbeitung",
+          "2": "Integration mit deutschen Krankenversicherungssystemen"
+        }
+      },
+      "mindai": {
+        "tagline": "Europas erste lokale Smart-Home-KI",
+        "description": "100% On-Premise KI-System ohne Cloud-Abhängigkeit, bietet komplette Hausautomatisierung mit absoluter Privatsphäre",
+        "features": {
+          "0": "100% On-Premise - keine Cloud-Abhängigkeit",
+          "1": "Komplette Hausautomatisierung mit Datenschutz",
+          "2": "Bildungs-KI für Kinder (keine fertigen Antworten, echtes Lernen)",
+          "3": "Altenpflege-Unterstützung mit Gesundheitsüberwachung",
+          "4": "Erste in Europa mit kompletter lokaler KI",
+          "5": "Funktioniert mit vorhandenen Smart-Home-Geräten"
+        },
+        "highlights": {
+          "0": "Läuft auf Consumer-Hardware (keine Cloud nötig)",
+          "1": "Sprachsteuerung in 5 Sprachen",
+          "2": "Bildungsmodus fördert Lernen statt Antworten"
+        }
+      }
+    }
+  },
+  "websiteShowcase": {
+    "liveProjects": "Live Projekte",
+    "featuredWebProjects": "Ausgewählte Web-Projekte",
+    "discoverProjects": "Entdecken Sie unsere preisgekrönten Projekte 2024 & 2025",
+    "featured2024": "Ausgewählt 2024",
+    "latest2025": "Neueste 2025",
+    "bestOf2024": "Beste von 2024",
+    "innovation2025": "Innovation 2025"
+  },
+  "bookingSystemsPage": {
+    "germanHolidaysIntegrated": "Deutsche Feiertage integriert",
+    "allFederalStateHolidays": "Alle Bundes- und Landesfeiertage vorkonfiguriert",
+    "gdprCompliant": "100% DSGVO-konform",
+    "builtToGermanDataProtection": "Nach deutschen Datenschutzstandards entwickelt",
+    "punctualityBuiltIn": "Pünktlichkeit integriert",
+    "preciseTimeSlots": "Präzise Zeitfenster mit Pufferzeiten",
+    "restaurantsCafes": "Restaurants & Cafés",
+    "tableReservations": "Tischreservierungen mit Raumplänen",
+    "deliveryPickup": "Liefer- & Abholzeitfenster",
+    "specialEventBookings": "Spezielle Veranstaltungsbuchungen",
+    "kitchenCapacityManagement": "Küchenkapazitätsmanagement",
+    "fewerPhoneReservations": "85% weniger Telefonreservierungen",
+    "beautyWellness": "Beauty & Wellness",
+    "staffScheduling": "Mitarbeiterplanung & Verfügbarkeit",
+    "serviceDurationManagement": "Servicedauerverwaltung",
+    "packageComboBookings": "Paket- & Kombi-Buchungen",
+    "clientPreferenceTracking": "Kundenpräferenzverfolgung",
+    "moreBookingsPerMonth": "3x mehr Buchungen pro Monat",
+    "medicalHealthcare": "Medizin & Gesundheitswesen",
+    "patientAppointmentScheduling": "Patiententermminplanung",
+    "automatedReminderSystem": "Automatisches Erinnerungssystem",
+    "prescriptionRenewalRequests": "Rezeptverlängerungsanfragen",
+    "emergencySlotManagement": "Notfallterminverwaltung",
+    "reductionInNoShows": "90% Reduzierung von Nichterscheinen",
+    "starter": "Starter",
+    "upToBookingsMonth": "Bis zu 100 Buchungen/Monat",
+    "basicCalendarIntegration": "Basis-Kalenderintegration",
+    "emailConfirmations": "E-Mail-Bestätigungen"
+  },
+  "webDevelopmentPage": {
+    "responsiveDesign": "Responsive Design",
+    "perfectDisplayAllDevices": "Perfekte Darstellung auf allen Geräten - Desktop, Tablet und Mobil.",
+    "lightningFast": "Blitzschnell",
+    "optimizedPerformance": "Optimierte Performance für beste Nutzererfahrung und SEO Rankings.",
+    "secureGdpr": "Sicher & DSGVO",
+    "highestSecurityStandards": "Höchste Sicherheitsstandards und volle DSGVO-Konformität.",
+    "seoOptimized": "SEO Optimiert",
+    "builtForSearchEngines": "Von Grund auf für Suchmaschinen gebaut für maximale Sichtbarkeit.",
+    "modernDesign": "Modernes Design",
+    "contemporaryDesign": "Zeitgemäßes, ansprechendes Design, das Ihre Marke perfekt repräsentiert.",
+    "userCentric": "Nutzerzentriert",
+    "intuitiveUserGuidance": "Intuitive Benutzerführung für optimale Conversion-Raten.",
+    "readyForNextWebProject": "Bereit für Ihr nächstes Webprojekt?",
+    "letsShowYourVision": "Lassen Sie uns gemeinsam Ihre Vision zum Leben erwecken.",
+    "getStarted": "Jetzt starten"
+  }
+}

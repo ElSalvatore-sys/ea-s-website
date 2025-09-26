@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Test React Mount</title>
+</head>
+<body>
+    <div id="root"></div>
+    <div id="debug" style="background: #000; color: #0f0; padding: 20px; font-family: monospace; white-space: pre;"></div>
+
+    <script type="module">
+        const debug = document.getElementById('debug');
+
+        function log(msg) {
+            console.log(msg);
+            debug.textContent += msg + '\n';
+        }
+
+        log('Starting test...');
+
+        // Test 1: Check if root element exists
+        const root = document.getElementById('root');
+        log('Root element: ' + (root ? 'Found' : 'NOT FOUND'));
+
+        // Test 2: Try to import React
+        try {
+            const React = await import('/node_modules/.vite/deps/react.js?v=bbd5dfa7');
+            log('React imported: ' + (React ? 'Success' : 'Failed'));
+        } catch (e) {
+            log('React import error: ' + e.message);
+        }
+
+        // Test 3: Try to import main.tsx
+        try {
+            log('Attempting to import main.tsx...');
+            const main = await import('/src/main.tsx');
+            log('main.tsx imported successfully');
+        } catch (e) {
+            log('main.tsx import error: ' + e.message);
+            log('Stack: ' + e.stack);
+        }
+
+        // Test 4: Check window for errors
+        window.addEventListener('error', (e) => {
+            log('Window error: ' + e.message);
+        });
+
+        window.addEventListener('unhandledrejection', (e) => {
+            log('Unhandled rejection: ' + e.reason);
+        });
+    </script>
+</body>
+</html>

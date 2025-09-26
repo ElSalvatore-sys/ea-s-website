@@ -1,0 +1,2156 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Servizi",
+    "portfolio": "Portfolio",
+    "pricing": "Prezzi",
+    "about": "Chi Siamo",
+    "contact": "Contatti",
+    "liveDemo": "Demo dal Vivo",
+    "features": "Caratteristiche",
+    "demo": "Demo",
+    "resources": {
+      "integration": "Guida all'Integrazione",
+      "integrationDesc": "Istruzioni passo passo per la configurazione",
+      "api": "Documentazione API",
+      "apiDesc": "Riferimento API completo",
+      "support": "Centro Supporto",
+      "supportDesc": "Ottieni aiuto dal nostro team"
+    },
+    "servicesMenu": {
+      "booking": "Sistemi di Prenotazione",
+      "web": "Sviluppo Siti Web",
+      "automation": "Automazione Aziendale"
+    },
+    "solutions": "Soluzioni"
+  },
+  "footer": {
+    "company": {
+      "serving": "Al servizio delle aziende in Germania",
+      "built": "Costruito con eccellenza a Wiesbaden"
+    },
+    "newsletter": {
+      "title": "Innovazione e Approfondimenti Digitali",
+      "subtitle": "Ricevi aggiornamenti settimanali su tendenze AI e strategie di trasformazione digitale",
+      "placeholder": "Inserisci la tua email",
+      "button": "Iscriviti",
+      "subscribed": "Iscritto!"
+    },
+    "cta": {
+      "title": "Pronto a Trasformare il Tuo Processo di Prenotazione?",
+      "subtitle": "Unisciti a migliaia di aziende tedesche che risparmiano tempo e aumentano i ricavi",
+      "button": "Inizia la Prova Gratuita"
+    },
+    "description": "Il sistema di prenotazione intelligente di cui si fidano le aziende tedesche.",
+    "trust": {
+      "madeInGermany": "Made in Germany",
+      "gdprCompliant": "Conforme al GDPR"
+    },
+    "sections": {
+      "product": "Prodotto",
+      "industries": "Settori",
+      "support": "Supporto",
+      "company": "Azienda"
+    },
+    "product": {
+      "features": "Caratteristiche",
+      "pricing": "Prezzi",
+      "demo": "Demo dal Vivo",
+      "integrations": "Integrazioni"
+    },
+    "industries": {
+      "restaurants": "Ristoranti",
+      "salons": "Saloni di Bellezza",
+      "medical": "Studi Medici",
+      "automotive": "Automotive"
+    },
+    "support": {
+      "documentation": "Documentazione",
+      "apiReference": "Riferimento API",
+      "contactSupport": "Contatta il Supporto",
+      "status": "Stato del Sistema"
+    },
+    "links": {
+      "impressum": "Impressum",
+      "privacy": "Privacy"
+    },
+    "copyright": "© {year} Sistema di Prenotazione. Tutti i diritti riservati.",
+    "crafted": "Fatto con {heart} a Berlino"
+  },
+  "clients": {
+    "trustedBy": "La Fiducia dei Leader del Settore",
+    "powering": "Alimentando la Trasformazione Digitale",
+    "stats": {
+      "activeClients": "Clienti Attivi",
+      "revenueGenerated": "Ricavi Generati",
+      "clientRetention": "Fidelizzazione Clienti",
+      "rating": "Valutazione Clienti"
+    }
+  },
+  "caseStudies": {
+    "title": "Storie di Successo",
+    "subtitle": "Risultati reali per aziende reali",
+    "hotelKochbrunnen": {
+      "challenge": "Modernizzare il sistema di prenotazione e aumentare le prenotazioni dirette",
+      "solution": "Piattaforma di prenotazione personalizzata con raccomandazioni basate su AI"
+    },
+    "falchiDental": {
+      "challenge": "Semplificare gli appuntamenti dei pazienti e ridurre i no-show",
+      "solution": "Sistema di pianificazione intelligente con promemoria automatici"
+    },
+    "glennMiller": {
+      "challenge": "Migliorare la presenza online e attrarre un pubblico più giovane",
+      "solution": "Sito web moderno con gestione eventi integrata"
+    },
+    "cta": {
+      "title": "Pronto a Trasformare la Tua Azienda?",
+      "description": "Unisciti ai nostri clienti di successo e scopri la differenza"
+    }
+  },
+  "header": {
+    "cta": "Prenota Consulenza Gratuita",
+    "startFreeTrial": "Inizia la Prova Gratuita",
+    "getstarted": "Inizia",
+    "getFreeConsultation": "Ottieni Consulenza Gratuita"
+  },
+  "contact": {
+    "form": {
+      "name": "Nome",
+      "email": "Email",
+      "company": "Azienda",
+      "phone": "Telefono",
+      "employees": "Dimensione Aziendale",
+      "industry": "Settore",
+      "budget": "Budget",
+      "timeline": "Tempistiche",
+      "goals": "Obiettivi",
+      "challenges": "Sfide",
+      "message": "Informazioni Aggiuntive"
+    }
+  },
+  "booking": {
+    "step1": "Informazioni di Contatto",
+    "step2": "Dettagli Azienda",
+    "step3": "Requisiti del Progetto",
+    "name": "Giovanni Rossi",
+    "company": "Nome Azienda",
+    "employees": {
+      "select": "Seleziona dimensione aziendale",
+      "1-10": "1-10 dipendenti",
+      "11-50": "11-50 dipendenti",
+      "51-200": "51-200 dipendenti",
+      "201-1000": "201-1000 dipendenti",
+      "1000+": "1000+ dipendenti"
+    },
+    "industry": {
+      "select": "Seleziona settore",
+      "hospitality": "Ospitalità e Turismo",
+      "manufacturing": "Manifatturiero",
+      "healthcare": "Sanità",
+      "finance": "Finanza e Banking",
+      "retail": "Vendita al Dettaglio",
+      "technology": "Tecnologia",
+      "other": "Altro"
+    },
+    "budget": {
+      "select": "Seleziona fascia di budget",
+      "under-10k": "Sotto €10.000",
+      "10k-50k": "€10.000 - €50.000",
+      "50k-100k": "€50.000 - €100.000",
+      "100k-500k": "€100.000 - €500.000",
+      "500k+": "€500.000+"
+    },
+    "timeline": {
+      "select": "Seleziona tempistiche",
+      "asap": "Il prima possibile",
+      "1-3months": "1-3 mesi",
+      "3-6months": "3-6 mesi",
+      "6-12months": "6-12 mesi",
+      "12months+": "12+ mesi"
+    },
+    "goals": "Quali sono i tuoi obiettivi principali per questo progetto?",
+    "challenges": "Quali sfide stai affrontando attualmente?",
+    "additional": "Eventuali informazioni aggiuntive che vorresti condividere...",
+    "submitting": "Invio in corso...",
+    "cta": {
+      "secure": "✓ Consulenza Gratuita Sicura"
+    },
+    "widget": {
+      "bookAppointment": "Prenota Appuntamento",
+      "selectService": "Seleziona un Servizio",
+      "selectDateTime": "Seleziona Data e Ora",
+      "yourInformation": "Le Tue Informazioni",
+      "confirmation": "Conferma",
+      "duration": "Durata",
+      "minutes": "minuti",
+      "availableTimes": "Orari Disponibili",
+      "noSlots": "Nessun orario disponibile per questa data",
+      "back": "Indietro",
+      "continue": "Continua",
+      "bookingSummary": "Riepilogo Prenotazione",
+      "name": "Nome",
+      "email": "Email",
+      "phone": "Telefono",
+      "notes": "Note (opzionali)",
+      "notesPlaceholder": "Eventuali requisiti speciali o domande...",
+      "booking": "Prenotazione",
+      "confirmBooking": "Conferma Prenotazione",
+      "bookingConfirmed": "Prenotazione Confermata!",
+      "bookingSuccess": "Il tuo appuntamento è stato prenotato con successo. Riceverai una email di conferma a breve.",
+      "bookingDetails": "Dettagli Prenotazione",
+      "service": "Servizio",
+      "date": "Data",
+      "time": "Ora",
+      "close": "Chiudi",
+      "confirmationEmail": "Una email di conferma è stata inviata a",
+      "errorLoadingSlots": "Errore nel caricamento degli orari disponibili. Riprova.",
+      "errorBooking": "Errore nella creazione della prenotazione. Riprova.",
+      "confirmationCode": "Codice di Conferma",
+      "appointment": "Appuntamento",
+      "businessHours": "Orari di Apertura",
+      "mondayFriday": "Lunedì - Venerdì",
+      "closed": "Chiuso",
+      "mittagspause": "Pausa Pranzo",
+      "weekend": "Weekend",
+      "holiday": "Festivo",
+      "limitedAvailability": "Disponibilità limitata",
+      "available": "Disponibile",
+      "booked": "Prenotato",
+      "tryAgain": "Riprova",
+      "liveAvailability": "Disponibilità in tempo reale",
+      "offlineMode": "Modalità offline",
+      "updated": "Aggiornato",
+      "refreshAvailability": "Aggiorna disponibilità",
+      "smartSuggestions": "✨ Suggerimenti intelligenti",
+      "updatingAvailability": "Aggiornamento disponibilità...",
+      "availabilityUpdated": "✓ Disponibilità aggiornata",
+      "industryBooking": {
+        "title": "Prenotazione Intelligente per Settore",
+        "subtitle": "Esperienze di prenotazione su misura per ogni settore con funzionalità smart",
+        "restaurant": {
+          "header": "Prenota il Tuo Tavolo",
+          "name": "Ristorante",
+          "description": "Prenotazioni tavoli con funzionalità intelligenti",
+          "services": {
+            "breakfast": "Servizio Colazione",
+            "lunch": "Servizio Pranzo",
+            "dinner": "Servizio Cena",
+            "privateEvent": "Evento Privato"
+          },
+          "features": {
+            "partySize": "Numero di Persone",
+            "specialRequests": "Richieste Speciali",
+            "preferredSeating": "Posto Preferito",
+            "realTimeAvailability": "Disponibilità in tempo reale",
+            "dietaryRequirements": "Requisiti Dietetici",
+            "specialOccasion": "Occasione Speciale",
+            "window": "Finestra",
+            "patio": "Patio",
+            "private": "Privato",
+            "bar": "Bar"
+          }
+        },
+        "medical": {
+          "header": "Prenota il Tuo Appuntamento",
+          "name": "Medico",
+          "description": "Appuntamenti sanitari resi semplici",
+          "services": {
+            "generalConsultation": "Consulenza Generale",
+            "specialist": "Appuntamento Specialista",
+            "healthCheckup": "Check-up Sanitario",
+            "emergency": "Consulenza d'Emergenza"
+          },
+          "features": {
+            "firstVisit": "Prima Visita",
+            "followUp": "Visita di Controllo",
+            "insuranceProvider": "Assicurazione Sanitaria",
+            "symptomScreening": "Screening Sintomi",
+            "documentUpload": "Carica Documenti Medici",
+            "insuranceIntegration": "Integrazione Assicurazione",
+            "medicalHistory": "Carica Storia Medica",
+            "emergencySlots": "Slot d'Emergenza"
+          }
+        },
+        "salon": {
+          "header": "Prenota la Tua Trasformazione",
+          "name": "Salone di Bellezza",
+          "description": "Servizi di bellezza personalizzati",
+          "services": {
+            "cutAndStyle": "Taglio e Piega",
+            "color": "Colore e Meches",
+            "treatments": "Trattamenti Capelli",
+            "specialOccasion": "Acconciatura Occasione Speciale"
+          },
+          "features": {
+            "hairLength": "Lunghezza Capelli",
+            "short": "Corti",
+            "medium": "Medi",
+            "long": "Lunghi",
+            "extraLong": "Extra Lunghi",
+            "stylistPreference": "Stilista Preferito",
+            "inspirationPhotos": "Carica Foto Ispirazione",
+            "addOnServices": "Servizi Aggiuntivi",
+            "hairLengthPricing": "Prezzo per Lunghezza Capelli",
+            "deepConditioning": "Trattamento Profondo",
+            "scalpTreatment": "Trattamento Cuoio Capelluto",
+            "haircutOnly": "Solo Taglio",
+            "blowDry": "Piega e Styling"
+          }
+        },
+        "automotive": {
+          "header": "Pianifica il Tuo Servizio",
+          "name": "Automotive",
+          "description": "Pianificazione servizi veicolo",
+          "services": {
+            "oilChange": "Cambio Olio",
+            "inspection": "Ispezione Completa",
+            "brakeService": "Servizio Freni",
+            "tireService": "Servizio Pneumatici"
+          },
+          "features": {
+            "vehicleMake": "Marca Veicolo",
+            "vehicleModel": "Modello Veicolo",
+            "vehicleYear": "Anno Veicolo",
+            "mileage": "Chilometraggio Attuale",
+            "serviceHistory": "Storico Servizi",
+            "pickupDelivery": "Servizio Ritiro/Consegna",
+            "vehicleInformation": "Informazioni Veicolo",
+            "mileageTracking": "Tracciamento Chilometraggio"
+          }
+        },
+        "smartFeatures": "Funzionalità Intelligenti",
+        "priceEstimate": "Prezzo Stimato",
+        "calculatePrice": "Calcolo prezzo...",
+        "uploadFile": "Clicca per caricare o trascina qui",
+        "uploadLimit": "PNG, JPG fino a 5MB",
+        "filesSelected": "file selezionati",
+        "startDemo": "Inizia Demo",
+        "whyChoose": "Perché Scegliere la Nostra Soluzione?",
+        "industrySpecific": "Specifico per Settore",
+        "tailoredFeatures": "Funzionalità su misura per ogni settore",
+        "smartAndFast": "Intelligente e Veloce",
+        "optimizedWorkflows": "Flussi di lavoro ottimizzati con funzionalità smart",
+        "higherConversion": "Conversione Superiore",
+        "reducedAbandonment": "Riduzione abbandoni attraverso processi semplificati"
+      }
+    }
+  },
+  "chatbot": {
+    "title": "Assistente AI EA-S",
+    "welcome": "Ciao! Sono il tuo assistente AI EA-S. Come posso aiutarti a esplorare le nostre soluzioni AI aziendali?",
+    "placeholder": "Scrivi il tuo messaggio...",
+    "response": "Grazie per il tuo messaggio. Lascia che ti aiuti con quelle informazioni sulle nostre soluzioni AI."
+  },
+  "floatingCTA": {
+    "getStarted": "Inizia ora",
+    "whatsapp": "WhatsApp",
+    "callNow": "Chiama ora",
+    "bookDemo": "Prenota demo",
+    "whatsappHeader": "Chat su WhatsApp - Risposta in 2 min"
+  },
+  "home": {
+    "hero": {
+      "badge": "La Fiducia di 500+ Aziende Tedesche",
+      "headline": "Sistema di Prenotazione Costruito per le Aziende Tedesche",
+      "subheadline": "Automatizza gli appuntamenti, rispetta la Mittagspause, onora le festività tedesche e riduci i no-show del 70% con la nostra piattaforma di prenotazione conforme al GDPR.",
+      "cta": {
+        "primary": "Inizia la Prova Gratuita di 30 Giorni",
+        "secondary": "Guarda la Demo"
+      },
+      "stats": {
+        "businesses": "Aziende Attive",
+        "bookings": "Prenotazioni Mensili",
+        "uptime": "SLA Uptime",
+        "rating": "Valutazione Clienti"
+      }
+    },
+    "demo": {
+      "title": "Vedi in Azione",
+      "subtitle": "Scopri il sistema di prenotazione amato dalle aziende tedesche",
+      "widget_title": "Demo Widget Prenotazione dal Vivo",
+      "interactive_title": "Prova la Nostra Demo Interattiva",
+      "interactive_description": "Clicca qui sotto per sperimentare il flusso di prenotazione che i tuoi clienti ameranno",
+      "try_button": "Lancia Demo"
+    },
+    "benefits": {
+      "title": "Trasforma le Tue Operazioni Aziendali",
+      "subtitle": "Risultati misurabili dal primo giorno",
+      "save_time": {
+        "title": "Risparmia Tempo",
+        "unit": "ore/settimana risparmiate",
+        "description": "Automatizza la pianificazione ed elimina le email avanti e indietro"
+      },
+      "reduce_noshows": {
+        "title": "Riduci i No-Show",
+        "unit": "meno no-show",
+        "description": "I promemoria intelligenti e le conferme mantengono gli appuntamenti in pista"
+      },
+      "german_rules": {
+        "title": "Conforme alla Germania",
+        "unit": "conforme",
+        "description": "Mittagspause integrata, festività e conformità GDPR"
+      }
+    },
+    "features": {
+      "title": "Funzionalità Progettate per la Germania",
+      "subtitle": "Tutto ciò di cui hai bisogno per gestire gli appuntamenti come un professionista",
+      "mittagspause": {
+        "title": "Mittagspause Automatica",
+        "description": "Blocca automaticamente dalle 12:00 alle 14:00 per la pausa pranzo, rispettando la cultura aziendale tedesca"
+      },
+      "holidays": {
+        "title": "Calendario Festività Tedesche",
+        "description": "Tutte le festività federali e statali preconfigurate, mai più prenotazioni su un Feiertag"
+      },
+      "gdpr": {
+        "title": "Conforme al GDPR",
+        "description": "Piena conformità alla protezione dei dati con archiviazione crittografata e controlli sulla privacy"
+      },
+      "multilanguage": {
+        "title": "Supporto Multilingue",
+        "description": "Passa senza problemi tra interfacce in tedesco, inglese, francese e italiano"
+      },
+      "realtime": {
+        "title": "Disponibilità in Tempo Reale",
+        "description": "Aggiornamenti istantanei su tutti i canali, mai doppie prenotazioni"
+      },
+      "reminders": {
+        "title": "Promemoria Intelligenti",
+        "description": "Promemoria automatici via SMS ed email riducono i no-show fino al 70%"
+      },
+      "intelligent": "Pianificazione Intelligente",
+      "costReduction": "Riduzione Costi"
+    },
+    "pricing": {
+      "title": "Prezzi Semplici e Trasparenti",
+      "subtitle": "Scegli il piano adatto alla tua azienda",
+      "period": "mese",
+      "popular": "Più Popolare",
+      "cta": "Inizia la Prova Gratuita",
+      "starter": {
+        "name": "Starter",
+        "description": "Perfetto per piccole imprese",
+        "feature1": "Fino a 100 prenotazioni/mese",
+        "feature2": "1 integrazione calendario",
+        "feature3": "Promemoria email",
+        "feature4": "Supporto base",
+        "feature5": "Mobile responsive"
+      },
+      "professional": {
+        "name": "Professional",
+        "description": "Per aziende in crescita",
+        "feature1": "Fino a 500 prenotazioni/mese",
+        "feature2": "Calendari illimitati",
+        "feature3": "Promemoria SMS ed Email",
+        "feature4": "Supporto prioritario",
+        "feature5": "Branding personalizzato",
+        "feature6": "Dashboard analytics"
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "description": "Per grandi organizzazioni",
+        "feature1": "Prenotazioni illimitate",
+        "feature2": "Supporto multi-sede",
+        "feature3": "Analytics avanzati",
+        "feature4": "Supporto telefonico 24/7",
+        "feature5": "Accesso API",
+        "feature6": "Integrazioni personalizzate",
+        "feature7": "Garanzia SLA"
+      }
+    },
+    "integration": {
+      "title": "Inizia in 3 Semplici Passi",
+      "subtitle": "Operativo in meno di 5 minuti",
+      "step1": {
+        "title": "Registrati",
+        "description": "Crea il tuo account e configura i tuoi orari di lavoro"
+      },
+      "step2": {
+        "title": "Personalizza",
+        "description": "Imposta i tuoi servizi, prezzi e regole di prenotazione"
+      },
+      "step3": {
+        "title": "Vai Online",
+        "description": "Condividi il tuo link di prenotazione e inizia ad accettare appuntamenti"
+      }
+    },
+    "integration_guide": {
+      "badge": "Configurazione in 5 Minuti",
+      "title": "Integra in 3 Semplici Passi",
+      "subtitle": "Aggiungi il nostro sistema di prenotazione al tuo sito web in pochi minuti. Non serve esperienza di programmazione!",
+      "step1": {
+        "title": "Registrati e Ottieni il Tuo ID",
+        "description": "Crea il tuo account e ricevi istantaneamente il tuo ID aziendale unico"
+      },
+      "step2": {
+        "title": "Copia il Codice di Integrazione",
+        "description": "Copia il nostro codice di integrazione di una riga con il tuo ID aziendale"
+      },
+      "step3": {
+        "title": "Incolla nel Tuo Sito Web",
+        "description": "Aggiungi il codice all'HTML del tuo sito web e sei online!"
+      },
+      "code_snippet": {
+        "title": "Il Tuo Codice di Integrazione",
+        "copy": "Copia Codice",
+        "copied": "Copiato!",
+        "note": "Sostituisci YOUR_ID con il tuo ID aziendale effettivo dal dashboard"
+      },
+      "before_after": {
+        "title": "Vedi la Trasformazione",
+        "before": "Prima",
+        "after": "Dopo",
+        "no_booking": "Nessun sistema di prenotazione disponibile",
+        "widget_title": "Prenota un Appuntamento",
+        "widget_demo": "Seleziona la data e l'ora preferite",
+        "book_now": "Prenota Ora",
+        "mobile_ready": "100% Mobile Responsive"
+      },
+      "faq": {
+        "title": "Domande Frequenti",
+        "q1": "Dove trovo il mio ID aziendale?",
+        "a1": "Il tuo ID aziendale viene visualizzato nel dashboard dopo la registrazione. Lo trovi in Impostazioni > Integrazione.",
+        "q2": "Posso personalizzare l'aspetto del widget?",
+        "a2": "Sì! Il widget si adatta automaticamente al design del tuo sito web. Puoi anche personalizzare colori, font e layout dal dashboard.",
+        "q3": "Funziona con WordPress, Wix o altre piattaforme?",
+        "a3": "Assolutamente! Il nostro widget funziona con qualsiasi piattaforma web che permetta HTML personalizzato. Abbiamo guide specifiche per WordPress, Wix, Squarespace e altro.",
+        "q4": "Il widget è mobile responsive?",
+        "a4": "Sì, il widget di prenotazione è completamente responsive e funziona perfettamente su tutti i dispositivi - desktop, tablet e mobile.",
+        "need_help": "Hai ancora domande?",
+        "contact_support": "Contatta il nostro team di supporto"
+      }
+    },
+    "cta": {
+      "title": "Pronto a Modernizzare il Tuo Processo di Prenotazione?",
+      "subtitle": "Unisciti a 500+ aziende tedesche che risparmiano 10+ ore ogni settimana",
+      "button": {
+        "primary": "Inizia la Tua Prova Gratuita",
+        "secondary": "Pianifica una Demo"
+      },
+      "guarantee": {
+        "title": "Nessuna carta di credito richiesta • Cancella quando vuoi",
+        "item1": "Prova gratuita di 30 giorni",
+        "item2": "Nessun costo di configurazione",
+        "item3": "Conforme al GDPR"
+      }
+    },
+    "onboarding": {
+      "badge": "15 Minuti per il Lancio",
+      "title": "Dalla Registrazione alla Prima Prenotazione",
+      "subtitle": "Ottieni il tuo sistema di prenotazione professionale operativo in soli 15 minuti. Non servono competenze tecniche.",
+      "progress": {
+        "title": "Progresso Configurazione",
+        "total": "15 minuti",
+        "start": "Inizio",
+        "live": "Online e Ricevi Prenotazioni"
+      },
+      "step1": {
+        "title": "Registrazione Prova Gratuita",
+        "description": "Crea il tuo account istantaneamente con solo la tua email. Nessuna carta di credito richiesta per la prova di 30 giorni.",
+        "time": "30 secondi"
+      },
+      "step2": {
+        "title": "Configurazione Profilo Aziendale",
+        "description": "Aggiungi nome azienda, logo, dettagli di contatto e orari di apertura. I nostri valori predefiniti intelligenti ti fanno risparmiare tempo.",
+        "time": "5 minuti"
+      },
+      "step3": {
+        "title": "Aggiungi Servizi e Prezzi",
+        "description": "Elenca i tuoi servizi, imposta durate e prezzi. Usa i nostri modelli per i tipi di aziende tedesche comuni.",
+        "time": "3 minuti"
+      },
+      "step4": {
+        "title": "Personalizza Regole di Prenotazione",
+        "description": "Imposta la tua Mittagspause, configura le festività, definisci le finestre di prenotazione e le politiche di cancellazione.",
+        "time": "3 minuti"
+      },
+      "step5": {
+        "title": "Vai Online e Ricevi Prenotazioni",
+        "description": "Ottieni il tuo link di prenotazione, il codice widget di integrazione e inizia ad accettare prenotazioni immediatamente.",
+        "time": "3 minuti"
+      },
+      "testimonial1": {
+        "quote": "La configurazione è stata incredibilmente veloce! Abbiamo avuto il nostro sistema di prenotazione operativo durante la pausa pranzo.",
+        "author": "Hans Müller",
+        "company": "Müller & Schmidt Steuerberatung"
+      },
+      "testimonial2": {
+        "quote": "Finalmente un sistema di prenotazione che capisce la cultura aziendale tedesca. La funzione Mittagspause è geniale!",
+        "author": "Sabine Weber",
+        "company": "Weber Physiotherapie Praxis"
+      },
+      "testimonial3": {
+        "quote": "Abbiamo risparmiato 15 ore nella prima settimana. Il ROI è stato immediato e impressionante.",
+        "author": "Thomas Schneider",
+        "company": "Schneider Autohaus GmbH"
+      },
+      "cta": {
+        "title": "Pronto a Trasformare la Tua Azienda?",
+        "subtitle": "Unisciti a migliaia di aziende tedesche che già risparmiano tempo e aumentano i ricavi",
+        "button": "Inizia Ora la Tua Prova Gratuita",
+        "feature1": "Nessuna carta di credito",
+        "feature2": "Prova di 30 giorni",
+        "feature3": "Cancella quando vuoi"
+      }
+    },
+    "problems": {
+      "title": "Problemi che Risolviamo",
+      "subtitle": "Smetti di perdere tempo e denaro con metodi di prenotazione obsoleti",
+      "manual": "Ore sprecate in prenotazioni telefoniche",
+      "data": "I no-show ti costano denaro",
+      "cloud": "Doppie prenotazioni e conflitti",
+      "response": "I clienti vanno dalla concorrenza",
+      "costs": "Staff sopraffatto dalle chiamate",
+      "scale": "Non riesci a scalare la tua azienda"
+    },
+    "solutions": {
+      "manual": "Prenotazione online automatizzata 24/7",
+      "data": "I promemoria intelligenti riducono i no-show dell'87%",
+      "cloud": "Sincronizzazione calendario in tempo reale",
+      "response": "Conferma istantanea della prenotazione",
+      "costs": "Libera lo staff per compiti importanti",
+      "scale": "Gestisci prenotazioni illimitate"
+    },
+    "mind": {
+      "title": "Introduzione all'AI di Prenotazione Intelligente",
+      "features": {
+        "local": "Elaborazione Locale",
+        "intelligent": "Pianificazione Intelligente"
+      }
+    },
+    "tagline": "La piattaforma intelligente che trasforma il funzionamento della tua azienda",
+    "trustBar": {
+      "activeClients": "50+ Clienti Attivi",
+      "retention": "98% di Ritenzione",
+      "germanyBased": "Con Sede in Germania"
+    },
+    "coreSolutions": {
+      "title": "Tre Soluzioni Fondamentali per il Tuo Successo",
+      "subtitle": "Sistemi collaudati già implementati presso aziende tedesche",
+      "bookingSystems": {
+        "title": "Sistemi di Prenotazione",
+        "description": "Prenotazione appuntamenti automatizzata 24/7 con logica aziendale tedesca",
+        "liveAt": "Live presso:",
+        "result": "aumento dei ricavi",
+        "cta": "Scopri Come Funziona"
+      },
+      "customWebsites": {
+        "title": "Siti Web Personalizzati",
+        "description": "Siti web professionali che convertono i visitatori in clienti",
+        "reference": "Riferimento:",
+        "result": "più richieste",
+        "cta": "Scopri Come Funziona"
+      },
+      "aiAutomation": {
+        "title": "Automazione AI",
+        "description": "Flussi di lavoro intelligenti che gestiscono l'80% del tuo lavoro di routine",
+        "successAt": "Successo presso:",
+        "result": "risparmiati a settimana",
+        "cta": "Scopri Come Funziona"
+      }
+    },
+    "pricingSection": {
+      "title": "Prezzi Trasparenti ed Equi",
+      "subtitle": "Nessun costo nascosto, nessuna sorpresa",
+      "from": "Da",
+      "month": "mese",
+      "mostPopular": "PIÙ POPOLARE",
+      "starter": {
+        "feature1": "Sistema di prenotazione O sito web",
+        "feature2": "Fino a 500 prenotazioni/mese",
+        "feature3": "Supporto via email"
+      },
+      "growth": {
+        "feature1": "Sistema di prenotazione E sito web",
+        "feature2": "Prenotazioni illimitate",
+        "feature3": "Supporto prioritario"
+      },
+      "enterprise": {
+        "feature1": "Sedi multiple",
+        "feature2": "Manager dedicato",
+        "feature3": "Sviluppo personalizzato"
+      },
+      "viewFullPricing": "Visualizza Tutti i Prezzi"
+    },
+    "faq": {
+      "title": "Domande Frequenti",
+      "questions": {
+        "howQuickly": {
+          "question": "Quanto velocemente possiamo iniziare?",
+          "answer": "Possiamo attivare il tuo sistema di prenotazione entro 24 ore. La configurazione richiede circa 30 minuti e il nostro team ti guida in ogni passaggio."
+        },
+        "outsideStuttgart": {
+          "question": "Lavorate con aziende fuori Stoccarda?",
+          "answer": "Sì! Anche se siamo basati a Stoccarda, serviamo aziende in tutta la Germania. Tutti i nostri servizi sono disponibili online e forniamo supporto remoto."
+        },
+        "existingWebsite": {
+          "question": "E se abbiamo già un sito web?",
+          "answer": "Perfetto! Il nostro sistema di prenotazione si integra perfettamente con il tuo sito web esistente. Forniamo un semplice codice di incorporamento che funziona con qualsiasi piattaforma."
+        },
+        "calendarIntegration": {
+          "question": "Come si integra il sistema di prenotazione con il nostro calendario?",
+          "answer": "Sincronizziamo in tempo reale con Google Calendar, Outlook e la maggior parte degli altri sistemi di calendario. La tua disponibilità è sempre aggiornata su tutte le piattaforme."
+        },
+        "gdprCompliant": {
+          "question": "È tutto conforme al GDPR?",
+          "answer": "Assolutamente! La protezione dei dati è la nostra massima priorità. Tutti i dati sono crittografati, memorizzati su server tedeschi, e siamo completamente conformi al GDPR con controllo completo dei dati per te e i tuoi clienti."
+        }
+      }
+    },
+    "finalCta": {
+      "title": "Pronto a Trasformare la Tua Azienda?",
+      "subtitle": "Unisciti a centinaia di aziende tedesche che stanno già risparmiando tempo e aumentando i ricavi con le nostre soluzioni collaudate.",
+      "primaryButton": "Prenota una Consulenza Gratuita",
+      "secondaryButton": "Scarica i Casi di Studio",
+      "trustNote": "Nessuna carta di credito richiesta • Prova di 30 giorni • Annulla in qualsiasi momento"
+    }
+  },
+  "solutions": {
+    "hero": {
+      "badge": "La Piattaforma di Prenotazione #1 della Germania",
+      "title": "La Soluzione di Prenotazione Completa per le Aziende Tedesche",
+      "subtitle": "Elimina i no-show, rispetta la Mittagspause, onora le festività tedesche. L'unico sistema di prenotazione progettato specificamente per la cultura aziendale tedesca.",
+      "cta": {
+        "primary": "Inizia la Prova Gratuita",
+        "secondary": "Calcola il Tuo ROI"
+      },
+      "stats": {
+        "businesses": "Aziende Attive",
+        "bookings": "Prenotazioni Mensili",
+        "reduction": "Riduzione No-Show",
+        "rating": "Valutazione Clienti"
+      }
+    },
+    "problems": {
+      "title": "I Costi Nascosti della Prenotazione Manuale",
+      "subtitle": "Ogni appuntamento mancato e doppia prenotazione costa denaro alla tua azienda",
+      "noShows": {
+        "title": "I No-Show Uccidono i Ricavi",
+        "description": "Senza promemoria, il 30% degli appuntamenti viene dimenticato o mancato",
+        "stat": "tasso medio di no-show"
+      },
+      "manualScheduling": {
+        "title": "Tempo Sprecato in Telefonate",
+        "description": "Lo staff passa ore a giocare al telefono e gestire calendari",
+        "stat": "a settimana sulla pianificazione"
+      },
+      "doubleBookings": {
+        "title": "Le Doppie Prenotazioni Danneggiano la Fiducia",
+        "description": "I calendari manuali portano a imbarazzanti conflitti di pianificazione",
+        "stat": "tasso di errore"
+      }
+    },
+    "features": {
+      "title": "Costruito per l'Eccellenza Aziendale Tedesca",
+      "subtitle": "Ogni funzione progettata pensando alla cultura aziendale tedesca",
+      "reminders": {
+        "title": "Promemoria Intelligenti",
+        "description": "Promemoria automatici via SMS ed email riducono i no-show del 70%"
+      },
+      "mittagspause": {
+        "title": "Mittagspause Automatica",
+        "description": "12:00-14:00 automaticamente bloccato per il pranzo, rispettando le tradizioni tedesche"
+      },
+      "holidays": {
+        "title": "Calendario Festività Tedesche",
+        "description": "Tutte le festività federali e statali preconfigurate, mai prenotare su un Feiertag"
+      },
+      "gdpr": {
+        "title": "100% Conforme al GDPR",
+        "description": "Costruito in Germania, ospitato in Germania, completamente conforme alle leggi sulla protezione dei dati"
+      },
+      "mobile": {
+        "title": "Design Mobile-First",
+        "description": "Perfetto su ogni dispositivo - desktop, tablet e smartphone"
+      },
+      "multilingual": {
+        "title": "Supporto Multilingue",
+        "description": "Interfacce in tedesco, inglese, francese e italiano per clienti internazionali"
+      }
+    },
+    "industries": {
+      "title": "Soluzioni Su Misura per Settore",
+      "subtitle": "Funzionalità specializzate per le tue esigenze aziendali specifiche",
+      "features": "Caratteristiche Chiave per",
+      "caseStudy": "Storia di Successo",
+      "restaurant": {
+        "title": "Ristoranti",
+        "feature1": "Sistema di gestione tavoli e prenotazioni",
+        "feature2": "Gestione eventi speciali e prenotazioni di gruppo",
+        "feature3": "Gestione lista d'attesa per walk-in",
+        "feature4": "Integrazione con tempi cucina",
+        "quote": "Abbiamo ridotto i no-show del 65% e aumentato il turnover dei tavoli del 30%",
+        "result": "aumento dei ricavi"
+      },
+      "salon": {
+        "title": "Saloni di Bellezza e Capelli",
+        "feature1": "Gestione durata servizi",
+        "feature2": "Pianificazione e disponibilità del personale",
+        "feature3": "Integrazione vendita prodotti",
+        "feature4": "Supporto programma fedeltà",
+        "quote": "I nostri stilisti risparmiano 2 ore al giorno sulla pianificazione, concentrandosi invece sui clienti",
+        "result": "tempo di pianificazione risparmiato"
+      },
+      "medical": {
+        "title": "Studi Medici",
+        "feature1": "Integrazione cartelle pazienti",
+        "feature2": "Flusso di verifica assicurativa",
+        "feature3": "Promemoria rinnovo prescrizioni",
+        "feature4": "Gestione slot emergenza",
+        "quote": "La soddisfazione dei pazienti è aumentata mentre il lavoro amministrativo è diminuito significativamente",
+        "result": "risparmiato settimanalmente"
+      },
+      "automotive": {
+        "title": "Officine Auto",
+        "feature1": "Pianificazione box servizio",
+        "feature2": "Controllo disponibilità ricambi",
+        "feature3": "Gestione auto sostitutive",
+        "feature4": "Tracciamento storico servizi",
+        "quote": "Ora possiamo gestire il 60% di appuntamenti in più con lo stesso personale",
+        "result": "aumento capacità"
+      }
+    },
+    "roi": {
+      "title": "Calcolatore ROI",
+      "heading": "Calcola il Tuo Ritorno sull'Investimento",
+      "subheading": "Scopri quanto tempo e denaro risparmierai con il nostro sistema di prenotazione",
+      "inputs": {
+        "appointments": "Appuntamenti Mensili",
+        "noShowRate": "Tasso No-Show Attuale",
+        "averageValue": "Valore Medio Appuntamento",
+        "hoursScheduling": "Ore/Settimana sulla Pianificazione"
+      },
+      "results": {
+        "monthlyBenefit": "Beneficio Mensile Totale",
+        "yearlyBenefit": "Beneficio Annuale",
+        "revenueRecovered": "Ricavi Recuperati",
+        "timeSaved": "Tempo Risparmiato",
+        "roi": "Ritorno sull'Investimento",
+        "payback": "Periodo di Recupero",
+        "days": "giorni"
+      },
+      "disclaimer": "Basato sui risultati medi dei clienti. I tuoi risultati possono variare.",
+      "cta": "Ottieni il Tuo Preventivo Personalizzato"
+    },
+    "caseStudies": {
+      "title": "Storie di Successo dalle Aziende Tedesche",
+      "subtitle": "Risultati reali da aziende proprio come la tua",
+      "case1": {
+        "industry": "Consulenza Fiscale",
+        "challenge": "La pianificazione manuale richiedeva 15 ore a settimana",
+        "solution": "Implementata prenotazione online con promemoria automatici",
+        "result": "Ridotto tempo di pianificazione dell'85% e no-show del 70%",
+        "metric": "tempo risparmiato"
+      },
+      "case2": {
+        "industry": "Salone di Bellezza",
+        "challenge": "Alto tasso di no-show costava €2.000 mensili",
+        "solution": "Aggiunti promemoria SMS e requisiti di deposito",
+        "result": "Recuperati €12.000 di ricavi annuali dalla riduzione dei no-show",
+        "metric": "risparmi annuali"
+      },
+      "case3": {
+        "industry": "Officina Auto",
+        "challenge": "I box servizio erano sottoutilizzati per scarsa pianificazione",
+        "solution": "Pianificazione ottimizzata con disponibilità in tempo reale",
+        "result": "Aumentata capacità del 3x senza aggiungere personale",
+        "metric": "aumento capacità"
+      }
+    },
+    "technical": {
+      "title": "Tecnologia di Livello Enterprise",
+      "subtitle": "Costruito su infrastruttura robusta e scalabile",
+      "realtime": {
+        "title": "Sincronizzazione in Tempo Reale",
+        "description": "Aggiornamenti istantanei su tutti i dispositivi e calendari"
+      },
+      "cloud": {
+        "title": "Infrastruttura Cloud",
+        "description": "Garanzia uptime 99,9% con data center tedeschi"
+      },
+      "backup": {
+        "title": "Backup Automatici",
+        "description": "Backup giornalieri con opzioni di recupero istantaneo"
+      },
+      "encryption": {
+        "title": "Sicurezza di Livello Bancario",
+        "description": "Crittografia SSL a 256 bit per tutta la trasmissione dati"
+      }
+    },
+    "security": {
+      "title": "Sicurezza e Conformità",
+      "subtitle": "I tuoi dati sono al sicuro con la sicurezza ingegnerizzata tedesca",
+      "feature1": "100% conforme al GDPR con accordi di elaborazione dati",
+      "feature2": "Ospitato esclusivamente in data center tedeschi",
+      "feature3": "Audit di sicurezza regolari e test di penetrazione",
+      "feature4": "Archiviazione e trasmissione dati crittografate",
+      "feature5": "Log di audit completi e controlli di accesso",
+      "gdpr": "Completamente Conforme",
+      "iso": "Standard Certificato",
+      "backup": "Backup Giornalieri",
+      "audit": "Audit Regolari"
+    },
+    "support": {
+      "247": {
+        "title": "Supporto 24/7",
+        "description": "Supporto telefonico, email e chat quando ne hai bisogno",
+        "availability": "Disponibile in Tedesco e Inglese"
+      },
+      "title": "Supporto di Classe Mondiale",
+      "subtitle": "Siamo qui per aiutarti a avere successo",
+      "documentation": {
+        "title": "Documentazione Completa",
+        "description": "Video tutorial, guide e documentazione API",
+        "resources": "100+ Risorse Disponibili"
+      },
+      "training": {
+        "title": "Formazione Gratuita",
+        "description": "Sessioni di onboarding e webinar regolari inclusi",
+        "included": "Ore di Formazione Illimitate"
+      }
+    },
+    "cta": {
+      "title": "Pronto a Trasformare la Tua Azienda?",
+      "subtitle": "Unisciti a 500+ aziende tedesche che già risparmiano tempo e aumentano i ricavi",
+      "primary": "Inizia la Tua Prova Gratuita",
+      "secondary": "Guarda la Demo",
+      "guarantee1": "Prova gratuita di 30 giorni",
+      "guarantee2": "Nessuna carta di credito richiesta",
+      "guarantee3": "Cancella quando vuoi"
+    }
+  },
+  "demoBooking": {
+    "title": "Demo Interattiva",
+    "subtitle": "Sperimenta il Sistema di Prenotazione in Azione",
+    "restaurantView": {
+      "title": "Vista Cliente",
+      "heroTitle": "Ristorante Italiano",
+      "heroSubtitle": "Autentica Cucina Italiana nel Cuore della Città",
+      "about": "Benvenuti nel nostro ristorante di famiglia",
+      "aboutText": "Da oltre 30 anni serviamo piatti italiani autentici con ingredienti freschi e ricette tradizionali.",
+      "hours": "Orari di Apertura",
+      "monday": "Lunedì",
+      "tuesday": "Martedì",
+      "wednesday": "Mercoledì",
+      "thursday": "Giovedì",
+      "friday": "Venerdì",
+      "saturday": "Sabato",
+      "sunday": "Domenica",
+      "closed": "Chiuso",
+      "makeReservation": "Prenota un Tavolo"
+    },
+    "adminView": {
+      "title": "Dashboard Amministratore",
+      "subtitle": "Gestione Prenotazioni in Tempo Reale",
+      "stats": {
+        "totalBookings": "Prenotazioni Totali",
+        "todayBookings": "Oggi",
+        "upcomingBookings": "Prossime",
+        "totalRevenue": "Ricavi Totali"
+      },
+      "recentBookings": "Prenotazioni Recenti",
+      "customer": "Cliente",
+      "service": "Servizio",
+      "date": "Data",
+      "time": "Ora",
+      "status": "Stato",
+      "guests": "Ospiti",
+      "notes": "Note",
+      "confirmed": "Confermato",
+      "pending": "In Attesa",
+      "cancelled": "Cancellato",
+      "noBookings": "Nessuna prenotazione ancora. Prova a fare una prenotazione!",
+      "resetButton": "Resetta Dati Demo",
+      "resetTooltip": "Cancella tutte le prenotazioni demo e ricomincia"
+    },
+    "features": {
+      "mittagspause": "Riconoscimento Mittagspause",
+      "mittagspauseDesc": "Blocca automaticamente gli slot 12:00-14:00",
+      "holidays": "Festività Tedesche",
+      "holidaysDesc": "Rispetta le festività pubbliche e i giorni lavorativi",
+      "realtime": "Aggiornamenti in Tempo Reale",
+      "realtimeDesc": "Sincronizzazione istantanea tra le viste",
+      "validation": "Validazione Intelligente",
+      "validationDesc": "Previene doppie prenotazioni e conflitti"
+    },
+    "performance": {
+      "title": "Metriche di Performance",
+      "loadTime": "Tempo di Caricamento",
+      "responseTime": "Tempo di Risposta",
+      "uptime": "Uptime",
+      "transactions": "Transazioni/giorno"
+    },
+    "cta": {
+      "title": "Pronto a Trasformare la Tua Azienda?",
+      "subtitle": "Inizia oggi con il nostro sistema di prenotazione",
+      "button": "Richiedi Consulenza Gratuita"
+    }
+  },
+  "pricing": {
+    "title": "Prezzi Semplici e Trasparenti",
+    "subtitle": "Scegli il piano perfetto per la tua azienda. Tutti i piani includono una prova gratuita di 14 giorni.",
+    "monthly": "Mensile",
+    "yearly": "Annuale",
+    "save20": "Risparmia 20%",
+    "month": "mese",
+    "year": "anno",
+    "mostPopular": "Più Popolare",
+    "startTrial": "Inizia la Prova Gratuita",
+    "noCreditCard": "Nessuna carta di credito richiesta",
+    "includedFeatures": "Cosa è Incluso",
+    "notIncluded": "Non Incluso",
+    "compareFeatures": "Confronta Tutte le Funzionalità",
+    "features": {
+      "bookings": "prenotazioni/mese",
+      "users": "membri del team",
+      "support": "supporto",
+      "integrations": "integrazioni",
+      "api": "Accesso API",
+      "whitelabel": "Opzione white-label",
+      "training": "Formazione onboarding",
+      "analytics": "Analytics avanzati"
+    },
+    "saveAmount": "Risparmia €{{amount}}/anno",
+    "customNeeds": "Hai bisogno di una soluzione personalizzata o hai requisiti speciali?",
+    "contactSales": "Contatta il Team Vendite",
+    "starter": {
+      "name": "Starter",
+      "description": "Perfetto per professionisti singoli",
+      "features": {
+        "bookings": "Fino a 100 prenotazioni/mese",
+        "users": "1 account utente",
+        "notifications": "Notifiche email",
+        "analytics": "Dashboard analytics base",
+        "support": "Supporto email"
+      },
+      "limitations": {
+        "api": "Nessun accesso API",
+        "customization": "Personalizzazione limitata",
+        "integrations": "Solo integrazioni base"
+      },
+      "price": "€49",
+      "period": "/mese",
+      "cta": "Inizia la Prova Gratuita"
+    },
+    "professional": {
+      "name": "Professional",
+      "description": "Per aziende in crescita",
+      "features": {
+        "bookings": "Prenotazioni illimitate",
+        "users": "5 account utente",
+        "notifications": "Notifiche SMS ed Email",
+        "analytics": "Analytics avanzati e report",
+        "api": "Accesso API completo",
+        "support": "Supporto prioritario",
+        "customization": "Branding personalizzato",
+        "integrations": "10+ integrazioni"
+      },
+      "price": "€99",
+      "badge": "PIÙ POPOLARE",
+      "period": "/mese",
+      "popular": "Più Popolare",
+      "cta": "Inizia la Prova Gratuita"
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "description": "Per grandi organizzazioni",
+      "features": {
+        "everything": "Tutto in Professional",
+        "users": "Account utente illimitati",
+        "integrations": "Integrazioni personalizzate",
+        "manager": "Account manager dedicato",
+        "sla": "Garanzia SLA 99,9%",
+        "training": "Formazione on-site",
+        "api": "Supporto API prioritario",
+        "whitelabel": "Opzioni white-label"
+      },
+      "price": "Personalizzato",
+      "period": "",
+      "cta": "Contatta Vendite"
+    },
+    "business": {
+      "name": "Business",
+      "price": "€199",
+      "period": "/mese",
+      "description": "Per aziende consolidate",
+      "cta": "Inizia la Prova Gratuita"
+    },
+    "comparison": {
+      "bookings": "Prenotazioni Mensili",
+      "users": "Account Utente",
+      "notifications": "Notifiche",
+      "analytics": "Analytics",
+      "api": "Accesso API",
+      "support": "Livello Supporto",
+      "customization": "Personalizzazione",
+      "integrations": "Integrazioni",
+      "sla": "Garanzia SLA",
+      "training": "Formazione"
+    },
+    "faq": {
+      "title": "Domande Frequenti",
+      "contract": {
+        "question": "Quali sono i termini contrattuali?",
+        "answer": "Tutti i piani sono mensili senza contratti a lungo termine richiesti. Puoi cancellare in qualsiasi momento con un solo click. Per i piani annuali, puoi cancellare alla fine del periodo di fatturazione."
+      },
+      "cancellation": {
+        "question": "Qual è la vostra politica di cancellazione?",
+        "answer": "Puoi cancellare il tuo abbonamento in qualsiasi momento dalle impostazioni del tuo account. Il servizio continuerà fino alla fine del periodo di fatturazione corrente. Nessuna domanda, nessun costo di cancellazione."
+      },
+      "dataExport": {
+        "question": "Posso esportare i miei dati?",
+        "answer": "Sì! Possiedi tutti i tuoi dati. Puoi esportare tutte le prenotazioni, le informazioni dei clienti e gli analytics in qualsiasi momento in più formati (CSV, JSON, PDF). Forniamo anche accesso API per esportazioni automatizzate."
+      },
+      "payment": {
+        "question": "Quali metodi di pagamento accettate?",
+        "answer": "Accettiamo tutte le principali carte di credito (Visa, MasterCard, American Express), addebito diretto SEPA per clienti europei e bonifici bancari per piani Enterprise."
+      },
+      "upgrade": {
+        "question": "Posso aggiornare o declassare il mio piano?",
+        "answer": "Assolutamente! Puoi cambiare il tuo piano in qualsiasi momento. Gli aggiornamenti hanno effetto immediato con fatturazione proporzionale. I declassamenti hanno effetto al prossimo ciclo di fatturazione."
+      },
+      "q1": "Posso cambiare piano in qualsiasi momento?",
+      "a1": "Sì, puoi aggiornare o declassare il tuo piano in qualsiasi momento.",
+      "q2": "C'è un costo di configurazione?",
+      "a2": "No, non ci sono costi di configurazione. Inizia a usare immediatamente.",
+      "q3": "Quali metodi di pagamento accettate?",
+      "a3": "Accettiamo tutte le principali carte di credito, addebito diretto SEPA e fatturazione per enterprise.",
+      "q4": "Posso cancellare in qualsiasi momento?",
+      "a4": "Sì, cancella quando vuoi. Nessuna domanda."
+    },
+    "perMonth": "/mese",
+    "perYear": "/anno",
+    "hero": {
+      "title": "Prezzi Semplici e Trasparenti",
+      "subtitle": "Nessun costo nascosto. Nessuna sorpresa. Solo valore.",
+      "monthly": "Mensile",
+      "yearly": "Annuale",
+      "save": "Risparmia 20%"
+    }
+  },
+  "hero": {
+    "trustBadge": "La Fiducia delle Aziende Leader Tedesche",
+    "headline": "Sistema di Prenotazione Intelligente per l'Eccellenza Tedesca",
+    "subheadline": "Automatizza gli appuntamenti, rispetta gli orari lavorativi e fai crescere i tuoi ricavi con la nostra piattaforma di prenotazione conforme al GDPR progettata per le aziende tedesche.",
+    "cta": {
+      "primary": "Inizia la Prova Gratuita di 30 Giorni",
+      "secondary": "Guarda la Demo dal Vivo",
+      "trial": "Inizia la Prova Gratuita",
+      "demo": "Guarda la Demo dal Vivo"
+    },
+    "title": {
+      "line1": "Sistema di Prenotazione Intelligente",
+      "line2": "per Aziende Tedesche",
+      "line3": "Che Funziona Davvero"
+    },
+    "subtitle": "Riduci le chiamate telefoniche del 95%. Elimina i no-show. Ricevi pagamenti più velocemente. Unisciti a 500+ aziende tedesche che risparmiano 20+ ore settimanali."
+  },
+  "benefits": {
+    "title": "Perché le Aziende Tedesche Ci Scelgono",
+    "subtitle": "Risultati comprovati che trasformano le tue operazioni",
+    "saveTime": {
+      "title": "Risparmia 15+ Ore Settimanali",
+      "description": "Elimina il telefono che squilla e la pianificazione manuale. Il nostro sistema automatizzato gestisce le prenotazioni 24/7, liberando il tuo team per concentrarsi sui clienti."
+    },
+    "reduceNoShows": {
+      "title": "Riduci i No-Show del 70%",
+      "description": "I promemoria intelligenti via SMS ed email assicurano che i clienti ricordino i loro appuntamenti. Le conferme automatiche riducono i costosi no-show."
+    },
+    "germanCompliant": {
+      "title": "100% Pronto per il Business Tedesco",
+      "description": "Blocco Mittagspause integrato, riconoscimento festività tedesche e piena conformità GDPR. Capiamo la cultura aziendale tedesca."
+    },
+    "increaseRevenue": {
+      "title": "Aumenta i Ricavi del 30%",
+      "description": "Accetta prenotazioni 24/7, ottimizza la pianificazione e trasforma più richieste in appuntamenti confermati con il nostro flusso di prenotazione ottimizzato."
+    }
+  },
+  "features": {
+    "comprehensive": {
+      "mittagspause": "Blocco Mittagspause Automatico",
+      "mittagspauseDesc": "Rispetta automaticamente gli orari di pranzo tedeschi (12:00-14:00)",
+      "holidays": "Riconoscimento Festività Tedesche",
+      "holidaysDesc": "Tutte le festività federali e statali preconfigurate",
+      "gdpr": "Conforme a GDPR e DSGVO",
+      "gdprDesc": "Piena conformità alla privacy dei dati con le normative tedesche",
+      "mobileReady": "Design Mobile-First",
+      "mobileReadyDesc": "Esperienza di prenotazione perfetta su tutti i dispositivi",
+      "instantConfirmation": "Conferme Istantanee",
+      "instantConfirmationDesc": "Conferme automatiche via email e SMS",
+      "analytics": "Analytics Avanzati",
+      "analyticsDesc": "Traccia prenotazioni, ricavi e comportamento clienti"
+    },
+    "title": "Funzionalità Costruite per l'Eccellenza Tedesca",
+    "subtitle": "Tutto ciò di cui hai bisogno per avere successo",
+    "ai": {
+      "title": "Pianificazione Basata su AI",
+      "desc": "Algoritmi intelligenti ottimizzano automaticamente il tuo calendario"
+    },
+    "security": {
+      "title": "Conforme al GDPR",
+      "desc": "Standard tedeschi di protezione dati integrati"
+    },
+    "scale": {
+      "title": "Scalabilità Illimitata",
+      "desc": "Dai professionisti singoli ai team enterprise"
+    },
+    "api": {
+      "title": "Integrazione API",
+      "desc": "Connessione senza soluzione di continuità con i tuoi strumenti esistenti"
+    },
+    "analytics": {
+      "title": "Business Analytics",
+      "desc": "Traccia prenotazioni, ricavi e insights sui clienti"
+    },
+    "integration": {
+      "title": "Sincronizzazione Calendario",
+      "desc": "Funziona con calendari Google, Outlook e Apple"
+    },
+    "hero": {
+      "title": "Funzionalità Potenti per Aziende Moderne",
+      "subtitle": "Tutto ciò di cui hai bisogno per eliminare le prenotazioni telefoniche e automatizzare la tua azienda",
+      "cta": "Inizia la Prova Gratuita"
+    },
+    "booking": {
+      "title": "Sistema di Prenotazione Intelligente",
+      "subtitle": "Lascia che i clienti prenotino 24/7 da qualsiasi dispositivo",
+      "instant": {
+        "title": "Conferma Istantanea",
+        "desc": "I clienti ricevono conferma immediata della prenotazione via email e SMS"
+      },
+      "availability": {
+        "title": "Disponibilità in Tempo Reale",
+        "desc": "Mostra solo gli slot disponibili basati sul tuo calendario e regole aziendali"
+      },
+      "reminders": {
+        "title": "Promemoria Automatizzati",
+        "desc": "Riduci i no-show dell'87% con sequenze di promemoria intelligenti"
+      },
+      "payments": {
+        "title": "Pagamenti Online",
+        "desc": "Accetta depositi o pagamenti completi durante la prenotazione"
+      }
+    },
+    "management": {
+      "title": "Gestione Aziendale",
+      "subtitle": "Strumenti per gestire la tua azienda in modo efficiente",
+      "calendar": {
+        "title": "Calendario Intelligente",
+        "desc": "Gestisci tutte le prenotazioni in una vista calendario unificata"
+      },
+      "staff": {
+        "title": "Gestione Staff",
+        "desc": "Assegna automaticamente le prenotazioni ai membri del team"
+      },
+      "analytics": {
+        "title": "Business Analytics",
+        "desc": "Traccia ricavi, servizi popolari e insights sui clienti"
+      },
+      "integration": {
+        "title": "Integrazioni Senza Soluzione di Continuità",
+        "desc": "Connetti con i tuoi strumenti e flussi di lavoro esistenti"
+      }
+    },
+    "german": {
+      "title": "Costruito per l'Eccellenza Tedesca",
+      "subtitle": "Funzionalità progettate specificamente per le aziende tedesche",
+      "holidays": {
+        "title": "Festività Tedesche",
+        "desc": "Blocca automaticamente le prenotazioni in tutte le festività pubbliche tedesche"
+      },
+      "mittagspause": {
+        "title": "Supporto Mittagspause",
+        "desc": "Pausa pranzo integrata (12-14 Uhr)"
+      },
+      "gdpr": {
+        "title": "Conforme al GDPR",
+        "desc": "Piena conformità con le leggi tedesche sulla protezione dei dati"
+      },
+      "invoice": {
+        "title": "Fatturazione Tedesca",
+        "desc": "Genera fatture conformi con calcolo tasse appropriato"
+      }
+    }
+  },
+  "integration": {
+    "title": "Online in 5 Minuti",
+    "subtitle": "Integrazione semplice con qualsiasi sito web",
+    "stepOne": {
+      "title": "Copia il Codice",
+      "description": "Ottieni il tuo codice widget di prenotazione personalizzato"
+    },
+    "stepTwo": {
+      "title": "Incolla nel Tuo Sito",
+      "description": "Aggiungi a qualsiasi sito web o piattaforma CMS"
+    },
+    "stepThree": {
+      "title": "Inizia ad Accettare Prenotazioni",
+      "description": "Inizia a ricevere appuntamenti immediatamente"
+    },
+    "copyCode": "Copia Codice di Integrazione",
+    "codeCopied": "Codice Copiato!",
+    "howItWorks": "Scopri Come Funziona",
+    "platforms": "Funziona con WordPress, Wix, Squarespace e qualsiasi sito web HTML",
+    "hero": {
+      "title": "Guida all'Integrazione",
+      "subtitle": "Collega il tuo sistema di prenotazione con i tuoi strumenti preferiti",
+      "browse": "Sfoglia Integrazioni",
+      "request": "Richiedi Integrazione"
+    },
+    "popular": {
+      "title": "Integrazioni Popolari",
+      "google": {
+        "title": "Google Calendar",
+        "desc": "Sincronizza automaticamente le prenotazioni con Google Calendar"
+      },
+      "outlook": {
+        "title": "Outlook",
+        "desc": "Connetti con Microsoft Outlook e Office 365"
+      },
+      "stripe": {
+        "title": "Stripe",
+        "desc": "Accetta pagamenti e depositi senza soluzione di continuità"
+      },
+      "mailchimp": {
+        "title": "Mailchimp",
+        "desc": "Sincronizza i dati dei clienti per l'email marketing"
+      },
+      "slack": {
+        "title": "Slack",
+        "desc": "Ricevi notifiche di prenotazione in Slack"
+      },
+      "zoom": {
+        "title": "Zoom",
+        "desc": "Crea automaticamente link Zoom per gli appuntamenti"
+      }
+    },
+    "guides": {
+      "title": "Guide Passo Passo",
+      "calendar": "Guida Integrazione Calendario",
+      "payment": "Guida Integrazione Pagamenti",
+      "crm": "Guida Integrazione CRM",
+      "email": "Integrazione Email Marketing"
+    },
+    "custom": {
+      "title": "Integrazioni Personalizzate",
+      "description": "Hai bisogno di un'integrazione personalizzata? Possiamo aiutarti.",
+      "webhook": "Webhook",
+      "api": "REST API",
+      "zapier": "Zapier",
+      "contact": "Contatta il nostro team integrazioni"
+    }
+  },
+  "onboarding": {
+    "title": "Inizia in Pochi Minuti",
+    "subtitle": "Il nostro processo di onboarding semplice ti rende operativo velocemente",
+    "freeSignup": {
+      "title": "Registrati Gratis",
+      "description": "Nessuna carta di credito richiesta per la prova di 30 giorni"
+    },
+    "setupProfile": {
+      "title": "Configura il Tuo Profilo",
+      "description": "Aggiungi orari lavorativi, servizi e membri del team"
+    },
+    "addServices": {
+      "title": "Aggiungi i Tuoi Servizi",
+      "description": "Configura tipi di servizio, durate e prezzi"
+    },
+    "customize": {
+      "title": "Personalizza il Tuo Widget",
+      "description": "Abbina i colori e lo stile del tuo marchio"
+    },
+    "goLive": {
+      "title": "Vai Online!",
+      "description": "Inizia ad accettare prenotazioni immediatamente"
+    }
+  },
+  "marketing": {
+    "testimonials": {
+      "title": "Cosa Dicono i Nostri Clienti",
+      "subtitle": "Unisciti a migliaia di aziende tedesche che hanno trasformato il loro processo di prenotazione",
+      "roles": {
+        "restaurantOwner": "Proprietario Ristorante",
+        "salonOwner": "Proprietario Salone",
+        "doctor": "Medico di Base",
+        "fitnessOwner": "Proprietario Centro Fitness",
+        "craftsman": "Maestro Artigiano"
+      },
+      "restaurant": "Da quando abbiamo implementato il sistema di prenotazione, il nostro telefono non squilla quasi più. Il personale può finalmente concentrarsi sui nostri ospiti invece di gestire le prenotazioni. La funzione di promemoria automatico ha ridotto i no-show quasi a zero.",
+      "salon": "Il sistema di prenotazione online è stato configurato in 2 minuti! I nostri clienti adorano poter prenotare appuntamenti 24/7. Abbiamo visto un aumento del 40% nelle prenotazioni, specialmente durante le ore di chiusura.",
+      "medical": "La conformità al GDPR era la nostra maggiore preoccupazione, ma questa soluzione ha superato tutte le aspettative. I dati dei pazienti sono sicuri, il sistema funziona su server tedeschi e risparmiamo 15 ore a settimana sulla gestione degli appuntamenti.",
+      "fitness": "L'integrazione con il nostro sito web esistente è stata senza soluzione di continuità. I membri ora possono prenotare corsi, allenamenti personali e persino slot attrezzature. La funzione lista d'attesa automatica riempie automaticamente le cancellazioni.",
+      "craftsman": "Come artigiano tradizionale, ero scettico sulle soluzioni digitali. Ma la semplicità mi ha conquistato. I clienti possono vedere la mia disponibilità e prenotare appuntamenti di servizio direttamente. Niente più telefonate!",
+      "metrics": {
+        "callsPerDay": "chiamate/giorno",
+        "noShows": "no-show",
+        "staffForAppointments": "staff per appuntamenti",
+        "dailyScheduling": "pianificazione giornaliera",
+        "missedOpportunities": "Opportunità perse",
+        "fullyBooked": "Completamente prenotato"
+      },
+      "before": "Prima",
+      "after": "Dopo",
+      "trustIndicator": "100% recensioni genuine da aziende tedesche verificate"
+    },
+    "metrics": {
+      "title": "Risultati Che Parlano da Soli",
+      "subtitle": "Metriche d'impatto reali da oltre 5.000 aziende tedesche che usano il nostro sistema di prenotazione",
+      "phoneReduction": {
+        "label": "Meno Chiamate Telefoniche",
+        "description": "Riduci le interruzioni e lascia che il tuo team si concentri sui clienti"
+      },
+      "timeSaved": {
+        "label": "Ore Risparmiate Settimanalmente",
+        "description": "Automatizza la pianificazione ed elimina i compiti di prenotazione manuale"
+      },
+      "noShows": {
+        "label": "Riduzione dei No-Show",
+        "description": "I promemoria automatici assicurano che i clienti ricordino i loro appuntamenti"
+      },
+      "setupTime": {
+        "label": "Tempo di Configurazione",
+        "description": "Inizia immediatamente con il nostro processo di configurazione istantaneo"
+      },
+      "cta": "Questi non sono solo numeri - rappresentano tempo e denaro reali risparmiati per aziende come la tua",
+      "button": "Calcola il Tuo ROI"
+    },
+    "trust": {
+      "title": "Sicurezza e Affidabilità di cui Ti Puoi Fidare",
+      "subtitle": "Costruito con gli standard di ingegneria tedesca per protezione dati, affidabilità e conformità",
+      "gdpr": {
+        "label": "100% Conforme al GDPR",
+        "description": "Piena conformità con le normative tedesche ed europee sulla protezione dei dati"
+      },
+      "ssl": {
+        "label": "Crittografia di Livello Bancario",
+        "description": "Crittografia SSL a 256 bit per tutte le trasmissioni di dati"
+      },
+      "germanHosted": {
+        "label": "Ospitato in Germania",
+        "description": "Tutti i dati archiviati esclusivamente su server tedeschi"
+      },
+      "uptime": {
+        "label": "Uptime Garantito",
+        "description": "Infrastruttura di livello enterprise con ridondanza"
+      },
+      "certified": {
+        "label": "Certificato ISO",
+        "description": "Gestione dati certificata ISO 27001"
+      },
+      "support": {
+        "label": "Team di Supporto Tedesco",
+        "description": "Supporto disponibile in lingua tedesca nativa"
+      },
+      "compliance": "Conformità e Certificazioni",
+      "statement": {
+        "title": "I Tuoi Dati Sono Sacri per Noi",
+        "description": "Capiamo l'importanza della protezione dei dati per le aziende tedesche. Ecco perché abbiamo costruito la nostra intera infrastruttura con principi privacy-first, assicurando che i dati dei tuoi clienti non lascino mai la Germania e siano protetti dai più rigorosi standard di sicurezza."
+      }
+    },
+    "comparison": {
+      "title": "Trasforma le Tue Operazioni Aziendali",
+      "subtitle": "Vedi la differenza drammatica che il nostro sistema di prenotazione fa nelle operazioni quotidiane",
+      "toggleBefore": "Senza Sistema",
+      "toggleAfter": "Con il Nostro Sistema",
+      "before": {
+        "title": "Il Caos Quotidiano",
+        "subtitle": "Come la maggior parte delle aziende lotta con le prenotazioni",
+        "stat1": "Chiamate giornaliere",
+        "stat2": "No-show",
+        "stat3": "Tempo amministrativo"
+      },
+      "after": {
+        "title": "Eccellenza Organizzata",
+        "subtitle": "La tua azienda con prenotazione automatizzata",
+        "stat1": "Riduzione chiamate",
+        "stat2": "Meno no-show",
+        "stat3": "Disponibilità"
+      },
+      "phone": {
+        "before": "Il telefono squilla costantemente, interrompendo il servizio e frustrando lo staff",
+        "after": "Ambiente di lavoro tranquillo con gestione prenotazioni automatizzata"
+      },
+      "calendar": {
+        "before": "Calendari cartacei, doppie prenotazioni e conflitti di pianificazione",
+        "after": "Calendario digitale con prevenzione automatica dei conflitti"
+      },
+      "time": {
+        "before": "Ore spese al telefono per pianificare e riprogrammare",
+        "after": "Prenotazione e riprogrammazione automatica istantanea da parte dei clienti"
+      },
+      "errors": {
+        "before": "Errori umani nei dettagli e orari delle prenotazioni",
+        "after": "Acquisizione dati automatizzata senza errori e conferma"
+      },
+      "customers": {
+        "before": "Clienti frustrati dai tempi di attesa al telefono",
+        "after": "Clienti felici che prenotano istantaneamente in qualsiasi momento"
+      },
+      "analytics": {
+        "before": "Nessuna visione sui modelli o tendenze di prenotazione",
+        "after": "Analytics dettagliati e business intelligence"
+      },
+      "roi": {
+        "title": "Calcola il Tuo Ritorno sull'Investimento",
+        "description": "La maggior parte delle aziende vede un ROI positivo entro il primo mese"
+      }
+    }
+  },
+  "banner": {
+    "launchOffer": "Offerta di Lancio: 50% di sconto per i primi 3 mesi"
+  },
+  "demo": {
+    "title": "Vedi in Azione",
+    "subtitle": "Sperimenta il sistema di prenotazione che sta trasformando le aziende tedesche",
+    "input": {
+      "label": "Prova ora",
+      "placeholder": "Seleziona un servizio da prenotare..."
+    },
+    "button": {
+      "analyze": "Prenota Ora"
+    },
+    "booking": {
+      "title": "Prenota la Tua Demo",
+      "subtitle": "Sperimenta il futuro della pianificazione appuntamenti",
+      "guestName": "Ospite Demo",
+      "defaultService": "Consulenza Demo",
+      "selectService": "Seleziona un Servizio",
+      "selectDate": "Scegli Data",
+      "selectTime": "Scegli Ora",
+      "confirm": "Conferma Prenotazione",
+      "success": "Prenotazione Confermata!",
+      "successMessage": "La tua prenotazione demo è stata creata con successo."
+    }
+  },
+  "mind": {
+    "hero": {
+      "title": "Piattaforma AI MIND",
+      "tagline": "Trasforma la Tua Azienda con AI Ingegnerizzata in Germania",
+      "description": "Automatizza l'80% dei compiti ripetitivi. Risparmia 20+ ore settimanali. La fiducia di leader del settore in tutto il mondo."
+    },
+    "cta": {
+      "trial": "Inizia la Prova Gratuita",
+      "demo": "Guarda la Demo dal Vivo",
+      "schedule": "Pianifica Consulenza"
+    },
+    "features": {
+      "title": "Funzionalità Basate su AI",
+      "subtitle": "Tutto ciò di cui hai bisogno per automatizzare e scalare",
+      "smarthome": {
+        "title": "Automazione Casa Intelligente",
+        "desc": "Controlla l'intera casa con comandi vocali e predizioni AI"
+      },
+      "restaurant": {
+        "title": "Gestione Ristorante",
+        "desc": "Automatizza prenotazioni, inventario e servizio clienti"
+      },
+      "analytics": {
+        "title": "Analytics Predittivi",
+        "desc": "Insights guidati da AI per ottimizzare le decisioni aziendali"
+      },
+      "fast": {
+        "title": "Velocità Fulminea",
+        "desc": "Elabora migliaia di richieste in millisecondi"
+      },
+      "security": {
+        "title": "Sicurezza Enterprise",
+        "desc": "Crittografia di livello bancario e conformità GDPR"
+      },
+      "global": {
+        "title": "Scala Globale",
+        "desc": "Distribuisci in più regioni con un click"
+      }
+    },
+    "pricing": {
+      "title": "Prezzi Semplici e Trasparenti",
+      "subtitle": "Scegli il piano adatto alla tua azienda",
+      "pilot": "Perfetto per piccoli team che testano l'AI",
+      "growth": "Per aziende in crescita pronte a scalare",
+      "scale": "Per enterprise con esigenze complesse",
+      "enterprise": "Soluzioni personalizzate per grandi organizzazioni",
+      "custom": "Contatta Vendite",
+      "popular": "Più Popolare",
+      "contact": "Contatta Vendite",
+      "trial": "Inizia la Prova Gratuita",
+      "features": "Tutti i piani includono supporto 24/7 e aggiornamenti regolari",
+      "period": {
+        "month": "/mese",
+        "year": "/anno"
+      }
+    },
+    "testimonials": {
+      "title": "La Fiducia dei Leader del Settore",
+      "subtitle": "Scopri come le aziende si trasformano con MIND AI"
+    }
+  },
+  "api": {
+    "hero": {
+      "title": "Documentazione API",
+      "subtitle": "Costruisci integrazioni potenti con la nostra REST API",
+      "getStarted": "Ottieni Chiave API",
+      "viewDocs": "Visualizza Documentazione"
+    },
+    "overview": {
+      "title": "Panoramica",
+      "intro": "La nostra API ti permette di gestire programmaticamente prenotazioni, clienti e dati aziendali.",
+      "baseUrl": "URL Base",
+      "version": "Versione API",
+      "auth": "Autenticazione"
+    },
+    "endpoints": {
+      "title": "Endpoint API",
+      "bookings": {
+        "title": "Prenotazioni",
+        "list": "Elenca tutte le prenotazioni",
+        "create": "Crea una prenotazione",
+        "get": "Ottieni dettagli prenotazione",
+        "update": "Aggiorna una prenotazione",
+        "cancel": "Cancella una prenotazione"
+      },
+      "customers": {
+        "title": "Clienti",
+        "list": "Elenca tutti i clienti",
+        "create": "Crea un cliente",
+        "get": "Ottieni dettagli cliente",
+        "update": "Aggiorna cliente"
+      },
+      "availability": {
+        "title": "Disponibilità",
+        "check": "Controlla disponibilità",
+        "slots": "Ottieni slot disponibili",
+        "block": "Blocca fasce orarie"
+      }
+    },
+    "authentication": {
+      "title": "Autenticazione",
+      "description": "Autentica le tue richieste usando chiavi API",
+      "header": "Header di Autorizzazione",
+      "example": "Esempio di Richiesta"
+    },
+    "rateLimit": {
+      "title": "Limitazione Rate",
+      "description": "Le richieste API sono limitate per garantire un uso equo",
+      "limit": "1000 richieste all'ora",
+      "headers": "Header di limitazione rate"
+    },
+    "sdks": {
+      "title": "SDK e Librerie",
+      "description": "SDK ufficiali per linguaggi popolari",
+      "javascript": "JavaScript/Node.js",
+      "python": "Python",
+      "php": "PHP",
+      "ruby": "Ruby"
+    }
+  },
+  "support": {
+    "hero": {
+      "title": "Come Possiamo Aiutarti?",
+      "subtitle": "Ottieni risposte e supporto per il tuo sistema di prenotazione",
+      "search": "Cerca aiuto...",
+      "contact": "Contatta il Supporto"
+    },
+    "categories": {
+      "title": "Sfoglia Argomenti di Aiuto",
+      "getting_started": {
+        "title": "Per Iniziare",
+        "desc": "Impara le basi e configura il tuo account"
+      },
+      "bookings": {
+        "title": "Gestione Prenotazioni",
+        "desc": "Tutto su prenotazioni e pianificazione"
+      },
+      "payments": {
+        "title": "Pagamenti e Fatturazione",
+        "desc": "Elaborazione pagamenti e gestione abbonamenti"
+      },
+      "integrations": {
+        "title": "Integrazioni",
+        "desc": "Connetti con altri strumenti e servizi"
+      },
+      "api": {
+        "title": "API e Sviluppatori",
+        "desc": "Documentazione tecnica e guide API"
+      },
+      "account": {
+        "title": "Account e Impostazioni",
+        "desc": "Gestisci il tuo account e preferenze"
+      }
+    },
+    "popular": {
+      "title": "Articoli Popolari",
+      "article1": "Come configurare il tuo primo servizio",
+      "article2": "Accettare pagamenti online",
+      "article3": "Gestire calendari dello staff",
+      "article4": "Configurare promemoria email",
+      "article5": "Personalizzare la tua pagina di prenotazione"
+    },
+    "contact": {
+      "title": "Hai Ancora Bisogno di Aiuto?",
+      "description": "Il nostro team di supporto è qui per te",
+      "email": {
+        "title": "Supporto Email",
+        "desc": "Ottieni aiuto via email entro 24 ore",
+        "cta": "Invia Email"
+      },
+      "chat": {
+        "title": "Chat dal Vivo",
+        "desc": "Chatta con il nostro team in tempo reale",
+        "cta": "Inizia Chat"
+      },
+      "phone": {
+        "title": "Supporto Telefonico",
+        "desc": "Parla con i nostri esperti (piano Business)",
+        "cta": "Pianifica Chiamata"
+      }
+    }
+  },
+  "portfolio": {
+    "hero": {
+      "title": "Le Nostre Storie di Successo",
+      "subtitle": "Scopri come abbiamo trasformato aziende in tutta la Germania",
+      "filter": {
+        "all": "Tutti i Progetti",
+        "restaurant": "Ristoranti",
+        "salon": "Bellezza e Benessere",
+        "medical": "Medico",
+        "automotive": "Automotive"
+      }
+    },
+    "cases": {
+      "restaurant1": {
+        "title": "Bella Italia Stuttgart",
+        "category": "Ristorante",
+        "result": "75% di riduzione nelle chiamate telefoniche",
+        "description": "Sistema di prenotazione online implementato per ristorante italiano affollato"
+      },
+      "salon1": {
+        "title": "Hair & Beauty München",
+        "category": "Salone di Bellezza",
+        "result": "€12.000 di aumento dei ricavi mensili",
+        "description": "Pianificazione appuntamenti automatizzata per 8 stilisti"
+      },
+      "medical1": {
+        "title": "Dr. Schmidt Praxis",
+        "category": "Medico",
+        "result": "Zero doppie prenotazioni",
+        "description": "Sistema di pianificazione pazienti con automazione promemoria"
+      },
+      "auto1": {
+        "title": "AutoHaus Berlin",
+        "category": "Automotive",
+        "result": "40% più prenotazioni di servizio",
+        "description": "Sistema appuntamenti servizio con gestione officina"
+      }
+    },
+    "metrics": {
+      "title": "Risultati Che Contano",
+      "bookings": "Prenotazioni Totali Elaborate",
+      "revenue": "Ricavi Generati per i Clienti",
+      "hours": "Ore Risparmiate Settimanalmente",
+      "satisfaction": "Soddisfazione Clienti"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Costruiamo, Non Consultiamo",
+      "subtitle": "Fondati a Wiesbaden, 2020. Non un'altra agenzia - siamo ingegneri che risolvono problemi aziendali reali.",
+      "founded": "2020",
+      "location": "Stuttgart",
+      "team": "8 Persone",
+      "clients": "15 Attivi"
+    },
+    "story": {
+      "title": "La Nostra Storia",
+      "description": "Iniziata quando abbiamo automatizzato l'intera operazione dell'Hotel am Kochbrunnen e abbiamo visto i loro ricavi saltare del 16%. Ci siamo resi conto che le aziende tedesche avevano bisogno di meglio delle soluzioni SaaS generiche - avevano bisogno di sistemi costruiti per come lavorano realmente.",
+      "continuation": "Ora siamo 8 persone che costruiscono il futuro della tecnologia aziendale tedesca, dall'AI che parla perfettamente tedesco ai sistemi di prenotazione che capiscono la Mittagspause.",
+      "hotel_success": "L'Hotel am Kochbrunnen ha visto risultati immediati: aumento dei ricavi del 16%, riduzione del 90% dei no-show e ore risparmiate quotidianamente sulla gestione delle prenotazioni."
+    },
+    "numbers": {
+      "title": "I Numeri",
+      "team": "8",
+      "team_label": "Membri del Team",
+      "clients": "15",
+      "clients_label": "Clienti Attivi",
+      "revenue": "€1.2M+",
+      "revenue_label": "Ricavi Generati",
+      "projects": "50+",
+      "projects_label": "Progetti Consegnati"
+    },
+    "projects": {
+      "title": "I Nostri Progetti",
+      "lingxm": {
+        "name": "LingXM",
+        "desc": "Rivoluzionare l'apprendimento linguistico con oltre 500M di frasi corpus",
+        "impact": "14 lingue supportate"
+      },
+      "mindai": {
+        "name": "MindAI",
+        "desc": "La prima AI per casa intelligente solo locale d'Europa",
+        "impact": "100% privacy garantita"
+      },
+      "lingxm_travel": {
+        "name": "LingXM Travel",
+        "desc": "Automatizzare studi medici in tutta la Germania",
+        "impact": "80% di riduzione del tempo"
+      }
+    },
+    "values": {
+      "title": "I Nostri Valori Pratici",
+      "build": {
+        "title": "Costruiamo, Non Consultiamo",
+        "desc": "Smetti di pagare per PowerPoint. Consegniamo software funzionante."
+      },
+      "solve": {
+        "title": "Risolviamo Problemi Reali",
+        "desc": "16% di aumento dei ricavi per l'Hotel am Kochbrunnen. Questo è reale."
+      },
+      "deliver": {
+        "title": "Consegniamo Velocemente",
+        "desc": "Demo funzionante nella settimana 1, non nel mese 3. Efficienza tedesca."
+      },
+      "measure": {
+        "title": "Misuriamo i Risultati",
+        "desc": "Ogni progetto tracciato per ROI. I numeri non mentono."
+      }
+    },
+    "cta": {
+      "title": "Costruiamo Qualcosa Che Funziona",
+      "subtitle": "Niente consulenza, niente parole d'ordine. Solo soluzioni reali.",
+      "button": "Inizia",
+      "contact": "Contattaci"
+    },
+    "journey": {
+      "title": "Il Nostro Viaggio",
+      "subtitle": "Dalla startup di Wiesbaden al leader dell'automazione tedesca",
+      "cta": {
+        "title": "Pronto a Unirti al Nostro Viaggio?",
+        "subtitle": "Sii parte della prossima storia di successo",
+        "button": "Inizia il Tuo Progetto"
+      }
+    }
+  },
+  "services": {
+    "web": {
+      "title": "Sviluppo Web",
+      "subtitle": "Siti Web e App Moderne",
+      "description": "Crea applicazioni web moderne e responsive con le ultime tecnologie e best practice.",
+      "tabs": {
+        "overview": "Panoramica",
+        "technologies": "Tecnologie",
+        "portfolio": "Portfolio",
+        "pricing": "Prezzi"
+      },
+      "hero": {
+        "badge": "Leader nello sviluppo web in Germania",
+        "title": "Sviluppo Web Moderno per Aziende Tedesche",
+        "subtitle": "Crea siti web e app veloci, sicuri e scalabili. Affidato da oltre 500 aziende tedesche.",
+        "primaryCTA": "Avvia un progetto",
+        "secondaryCTA": "Vedi portfolio"
+      },
+      "process": {
+        "title": "Il nostro processo di sviluppo collaudato",
+        "subtitle": "Dal concept al lancio in 4 settimane",
+        "discovery": {
+          "title": "Scoperta e Pianificazione",
+          "description": "Comprendiamo i tuoi obiettivi aziendali e definiamo i requisiti tecnici"
+        },
+        "design": {
+          "title": "Design e Prototipo",
+          "description": "Creazione di wireframe e prototipi interattivi per la tua approvazione"
+        },
+        "development": {
+          "title": "Sviluppo",
+          "description": "Sviluppo agile con aggiornamenti e demo settimanali"
+        },
+        "launch": {
+          "title": "Lancio e Supporto",
+          "description": "Deployment, formazione e manutenzione continua"
+        }
+      },
+      "tech": {
+        "categories": {
+          "frontend": "Frontend",
+          "backend": "Backend",
+          "database": "Database",
+          "cloud": "Cloud e DevOps"
+        }
+      },
+      "portfolio": {
+        "title": "Progetti Selezionati",
+        "subtitle": "Siti web e app che abbiamo creato per aziende tedesche"
+      },
+      "pricing": {
+        "title": "Prezzi Trasparenti",
+        "subtitle": "Scegli il pacchetto giusto per il tuo progetto",
+        "starter": {
+          "name": "Starter",
+          "description": "Perfetto per piccole imprese",
+          "feature1": "Sito web responsive di 5 pagine",
+          "feature2": "Ottimizzato per mobile",
+          "feature3": "SEO base",
+          "feature4": "Modulo di contatto",
+          "feature5": "1 mese di supporto"
+        },
+        "professional": {
+          "name": "Professional",
+          "description": "Per aziende in crescita",
+          "feature1": "Pagine illimitate",
+          "feature2": "Sistema di gestione contenuti",
+          "feature3": "SEO avanzato",
+          "feature4": "Pronto per e-commerce",
+          "feature5": "3 mesi di supporto",
+          "feature6": "Integrazione analytics"
+        },
+        "enterprise": {
+          "name": "Enterprise",
+          "description": "Soluzioni digitali complete",
+          "feature1": "Applicazione web personalizzata",
+          "feature2": "Sviluppo API",
+          "feature3": "Design database",
+          "feature4": "Deployment cloud",
+          "feature5": "12 mesi di supporto",
+          "feature6": "Garanzia SLA",
+          "feature7": "Formazione e Documentazione"
+        },
+        "cta": "Richiedi preventivo"
+      },
+      "cta": {
+        "title": "Pronto per il tuo prossimo progetto web?",
+        "subtitle": "Diamo vita alla tua visione",
+        "button": "Prenota una consulenza gratuita"
+      }
+    },
+    "automation": {
+      "title": "Automazione Aziendale",
+      "subtitle": "Soluzioni IA e Automazione",
+      "tabs": {
+        "overview": "Panoramica",
+        "solutions": "Soluzioni",
+        "benefits": "Benefici",
+        "getStarted": "Inizia"
+      },
+      "hero": {
+        "badge": "Automazione IA Tedesca",
+        "title": "Automazione Intelligente per Aziende Tedesche",
+        "subtitle": "Riduci il lavoro manuale dell'80% con le nostre soluzioni di automazione basate su IA. Risparmia tempo, riduci i costi, aumenta l'efficienza.",
+        "primaryCTA": "Inizia l'automazione",
+        "secondaryCTA": "Calcola il ROI"
+      },
+      "solutions": {
+        "title": "Le nostre soluzioni di automazione",
+        "subtitle": "Soluzioni su misura per ogni settore",
+        "documentAI": {
+          "title": "IA Documentale",
+          "description": "Elaborazione automatica di fatture, contratti e moduli con precisione del 99%"
+        },
+        "customerService": {
+          "title": "Automazione Servizio Clienti",
+          "description": "Chatbot IA e instradamento automatico ticket riducono i tempi di risposta del 90%"
+        },
+        "workflow": {
+          "title": "Automazione Workflow",
+          "description": "Connetti tutti i tuoi strumenti e automatizza le attività ripetitive"
+        },
+        "dataAnalysis": {
+          "title": "Analisi Dati e Report",
+          "description": "Raccolta automatica dati, analisi e generazione report"
+        }
+      },
+      "benefits": {
+        "title": "Perché l'automazione è importante",
+        "subtitle": "Risultati misurabili dal primo giorno",
+        "timeSavings": {
+          "title": "80% risparmio di tempo",
+          "description": "Riduci le attività manuali da ore a minuti"
+        },
+        "costReduction": {
+          "title": "60% riduzione costi",
+          "description": "Costi operativi inferiori attraverso automazione efficiente"
+        },
+        "accuracy": {
+          "title": "99% accuratezza",
+          "description": "Elimina gli errori umani con la precisione dell'IA"
+        },
+        "scalability": {
+          "title": "Scalabilità illimitata",
+          "description": "Processa 10x di più senza personale aggiuntivo"
+        }
+      },
+      "industries": {
+        "title": "Soluzioni per Settore",
+        "subtitle": "Automazione specializzata per il tuo settore",
+        "finance": "Finanza e Banking",
+        "healthcare": "Sanità",
+        "retail": "Retail",
+        "manufacturing": "Manifatturiero",
+        "logistics": "Logistica",
+        "realestate": "Immobiliare"
+      },
+      "process": {
+        "title": "Come automatizziamo",
+        "subtitle": "Il nostro processo collaudato in 4 fasi",
+        "analyze": {
+          "title": "Analizza",
+          "description": "Analizziamo i tuoi processi attuali e identifichiamo opportunità di automazione"
+        },
+        "design": {
+          "title": "Progetta",
+          "description": "Soluzione di automazione su misura per le tue esigenze specifiche"
+        },
+        "implement": {
+          "title": "Implementa",
+          "description": "Integrazione senza soluzione di continuità nei tuoi sistemi esistenti"
+        },
+        "optimize": {
+          "title": "Ottimizza",
+          "description": "Monitoraggio e miglioramento continui dell'automazione"
+        }
+      },
+      "cta": {
+        "title": "Inizia l'automazione oggi",
+        "subtitle": "Scopri quanto tempo e denaro puoi risparmiare",
+        "button": "Analisi automazione gratuita"
+      }
+    },
+    "booking": {
+      "title": "Sistemi di Prenotazione",
+      "features": {
+        "mittagspause": {
+          "title": "Pausa Pranzo Automatica",
+          "description": "12:00-14:00 automaticamente bloccato, rispetta la cultura aziendale tedesca"
+        },
+        "holidays": {
+          "title": "Festività Tedesche",
+          "description": "Tutte le festività federali e statali preconfigurate"
+        },
+        "reminders": {
+          "title": "Promemoria Intelligenti",
+          "description": "Promemoria automatici SMS ed email riducono i no-show del 70%"
+        },
+        "realtime": {
+          "title": "Disponibilità in Tempo Reale",
+          "description": "Aggiornamenti istantanei su tutti i canali, nessuna doppia prenotazione"
+        },
+        "payments": {
+          "title": "Pagamenti Online",
+          "description": "Accetta depositi o pagamenti anticipati durante la prenotazione"
+        },
+        "multilingual": {
+          "title": "Multilingue",
+          "description": "Supporta tedesco, inglese, francese e altro"
+        }
+      }
+    }
+  },
+  "notFound": {
+    "title": "Pagina non trovata",
+    "description": "Ci dispiace, non siamo riusciti a trovare la pagina che stai cercando. Potrebbe essere stata spostata o non esistere più.",
+    "homepage": "Homepage",
+    "services": "Servizi",
+    "getHelp": "Ottieni aiuto",
+    "backToHomepage": "Torna alla homepage",
+    "contactSupport": "Contatta il supporto",
+    "popularPages": "Pagine popolari",
+    "whatsappMessage": "Ciao, ho bisogno di aiuto per trovare la pagina giusta sul vostro sito web."
+  },
+  "innovationLab": {
+    "title": "Laboratorio di Innovazione",
+    "subtitle": "Costruire il Futuro",
+    "description": "Progetti reali con impatto reale - trasformare le industrie attraverso l'innovazione",
+    "progress": {
+      "label": "Progresso dello sviluppo"
+    },
+    "expectedLaunch": "Lancio previsto",
+    "technicalSpecs": "Specifiche tecniche",
+    "techStack": "Stack tecnologico",
+    "keyHighlights": "Punti chiave",
+    "developmentTeam": "Team di sviluppo",
+    "activeDevelopers": "Sviluppatori attivi",
+    "liveStats": "Statistiche di sviluppo in tempo reale",
+    "commitsToday": "Commit oggi",
+    "featuresComplete": "Funzionalità completate",
+    "testsPassing": "Test superati",
+    "requestEarlyAccess": "Richiedi accesso anticipato",
+    "status": {
+      "development": "IN SVILUPPO",
+      "beta": "TEST BETA",
+      "launching": "LANCIO IMMINENTE"
+    },
+    "cta": {
+      "title": "Vuoi far parte dell'innovazione?",
+      "description": "Unisciti al nostro programma di accesso anticipato e sii tra i primi a sperimentare queste soluzioni rivoluzionarie. Ottieni benefici esclusivi, input diretto sulle funzionalità e prezzi speciali di lancio.",
+      "joinButton": "Unisciti al programma di accesso anticipato",
+      "learnMore": "Scopri di più"
+    },
+    "projects": {
+      "lingxm": {
+        "tagline": "Rivoluzione nell'apprendimento delle lingue",
+        "description": "Piattaforma rivoluzionaria per l'apprendimento delle lingue con il più grande database mondiale di frasi grammaticalmente perfette",
+        "features": {
+          "0": "500M+ frasi di corpus con 14 variazioni ciascuna",
+          "1": "14 lingue supportate e in crescita",
+          "2": "App web e mobile in sviluppo",
+          "3": "Percorsi di apprendimento personalizzati con IA",
+          "4": "Feedback sulla pronuncia in tempo reale",
+          "5": "Motore di riconoscimento dei modelli grammaticali"
+        },
+        "highlights": {
+          "0": "Il più grande database mondiale di frasi grammaticalmente perfette",
+          "1": "Algoritmo di variazione in attesa di brevetto",
+          "2": "Audio di madrelingua per tutte le frasi"
+        }
+      },
+      "lingxmTravel": {
+        "tagline": "Automazione per studi medici",
+        "description": "Automazione basata su IA specificamente per i medici del lavoro in Germania, riducendo il tempo di elaborazione dei pazienti dell'80%",
+        "features": {
+          "0": "Per medici del lavoro in Germania",
+          "1": "Riduzione dell'80% del tempo di elaborazione dei pazienti",
+          "2": "Integrazione OpenAI + Anthropic Claude",
+          "3": "Piena conformità GDPR",
+          "4": "Certificati sanitari di viaggio automatizzati",
+          "5": "Comunicazione multilingue con i pazienti"
+        },
+        "highlights": {
+          "0": "Attualmente in test beta con 3 studi",
+          "1": "Elaborazione dati conforme al GDPR",
+          "2": "Integrazione con i sistemi di assicurazione sanitaria tedeschi"
+        }
+      },
+      "mindai": {
+        "tagline": "Prima IA domotica locale d'Europa",
+        "description": "Sistema IA 100% on-premise senza dipendenza dal cloud, che offre automazione domestica completa con privacy assoluta",
+        "features": {
+          "0": "100% on-premise - zero dipendenza dal cloud",
+          "1": "Automazione domestica completa con privacy",
+          "2": "IA educativa per bambini (nessuna risposta pronta, apprendimento reale)",
+          "3": "Supporto all'assistenza agli anziani con monitoraggio della salute",
+          "4": "Prima in Europa a offrire IA locale completa",
+          "5": "Funziona con dispositivi smart home esistenti"
+        },
+        "highlights": {
+          "0": "Funziona su hardware consumer (nessun cloud necessario)",
+          "1": "Controllo vocale in 5 lingue",
+          "2": "Modalità educativa promuove l'apprendimento invece delle risposte"
+        }
+      }
+    }
+  },
+  "hero": {
+    "trustBadge": "Fidato da Leader del Settore",
+    "headline": "Trasformazione Digitale per il Successo Aziendale",
+    "subheadline": "Eccellenza digitale per i leader del settore - Le nostre soluzioni AI e sistemi aziendali trasformano le aziende in tutto il mondo.",
+    "cta": {
+      "primary": "Prenota Consulenza",
+      "secondary": "Vedi le Nostre Soluzioni",
+      "trial": "Prenota Consulenza",
+      "demo": "Vedi Portfolio"
+    },
+    "title": {
+      "line1": "Soluzioni AI Enterprise",
+      "line2": "per Leader del Settore",
+      "line3": "Eccellenza Ingegneristica Tedesca"
+    },
+    "subtitle": "Trasforma la tua azienda con AI all'avanguardia, automazione e soluzioni digitali dalla nostra base a Wiesbaden."
+  }
+}

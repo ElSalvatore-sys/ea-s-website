@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🔍 EA-S Debug Dashboard</title>
+    <style>
+        body {
+            font-family: monospace;
+            background: #0a0a0a;
+            color: #00ff41;
+            padding: 20px;
+            margin: 0;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #1e1e2e, #2d2d44);
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .status {
+            display: flex;
+            gap: 20px;
+        }
+
+        .status-item {
+            padding: 5px 10px;
+            background: rgba(0,0,0,0.5);
+            border-radius: 4px;
+        }
+
+        .console {
+            background: #000;
+            border: 1px solid #333;
+            padding: 10px;
+            height: 400px;
+            overflow-y: auto;
+            border-radius: 4px;
+            white-space: pre-wrap;
+        }
+
+        .log-entry {
+            margin: 5px 0;
+            padding: 5px;
+            border-left: 3px solid transparent;
+        }
+
+        .log-entry.error {
+            color: #ff0040;
+            border-left-color: #ff0040;
+            background: rgba(255,0,64,0.1);
+        }
+
+        .log-entry.warning {
+            color: #ffaa00;
+            border-left-color: #ffaa00;
+            background: rgba(255,170,0,0.1);
+        }
+
+        .log-entry.success {
+            color: #00ff41;
+            border-left-color: #00ff41;
+            background: rgba(0,255,65,0.1);
+        }
+
+        .log-entry.info {
+            color: #00aaff;
+            border-left-color: #00aaff;
+            background: rgba(0,170,255,0.1);
+        }
+
+        .controls {
+            margin: 20px 0;
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        button {
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-weight: bold;
+        }
+
+        button:hover {
+            transform: scale(1.05);
+        }
+
+        button.danger {
+            background: linear-gradient(135deg, #ff0040, #ff0080);
+        }
+
+        button.success {
+            background: linear-gradient(135deg, #00ff41, #00ff88);
+            color: #000;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🔍 EA-S Debug Dashboard</h1>
+        <div class="status">
+            <div class="status-item">Errors: <span id="errorCount">0</span></div>
+            <div class="status-item">Warnings: <span id="warningCount">0</span></div>
+            <div class="status-item">Status: <span id="appStatus">Checking...</span></div>
+        </div>
+    </div>
+
+    <div class="controls">
+        <button onclick="clearAllStorage()" class="danger">🗑️ Clear All Storage</button>
+        <button onclick="checkSystem()" class="success">🔍 System Check</button>
+        <button onclick="fixI18n()">🌐 Fix Translations</button>
+        <button onclick="disableAnalytics()">📊 Disable Analytics</button>
+        <button onclick="testBackend()">🔌 Test Backend</button>
+        <button onclick="clearConsole()">🧹 Clear Console</button>
+    </div>
+
+    <div class="console" id="console"></div>
+
+    <script>
+        let errorCount = 0;
+        let warningCount = 0;
+
+        function log(type, message) {
+            const console = document.getElementById('console');
+            const entry = document.createElement('div');
+            entry.className = `log-entry ${type}`;
+            const time = new Date().toLocaleTimeString();
+            entry.textContent = `[${time}] ${message}`;
+            console.appendChild(entry);
+            console.scrollTop = console.scrollHeight;
+
+            if (type === 'error') {
+                errorCount++;
+                document.getElementById('errorCount').textContent = errorCount;
+            } else if (type === 'warning') {
+                warningCount++;
+                document.getElementById('warningCount').textContent = warningCount;
+            }
+        }
+
+        function clearConsole() {
+            document.getElementById('console').innerHTML = '';
+            errorCount = 0;
+            warningCount = 0;
+            document.getElementById('errorCount').textContent = '0';
+            document.getElementById('warningCount').textContent = '0';
+            log('info', 'Console cleared');
+        }
+
+        function clearAllStorage() {
+            try {
+                localStorage.clear();
+                sessionStorage.clear();
+
+                // Clear all cookies
+                document.cookie.split(";").forEach(c => {
+                    document.cookie = c.replace(/^ +/, "").replace(/=.*/, "=;expires=" + new Date().toUTCString() + ";path=/");
+                });
+
+                log('success', '✅ All storage cleared successfully!');
+                log('info', 'Reloading page in 2 seconds...');
+                setTimeout(() => location.reload(), 2000);
+            } catch (e) {
+                log('error', 'Failed to clear storage: ' + e.message);
+            }
+        }
+
+        async function checkSystem() {
+            log('info', '🔍 Starting system check...');
+
+            // Check localStorage
+            try {
+                const storageSize = new Blob(Object.values(localStorage)).size;
+                if (storageSize > 1000000) {
+                    log('warning', `localStorage is using ${(storageSize/1024/1024).toFixed(2)}MB - consider clearing`);
+                } else {
+                    log('success', `localStorage: ${(storageSize/1024).toFixed(2)}KB used`);
+                }
+            } catch (e) {
+                log('error', 'Cannot check localStorage: ' + e.message);
+            }
+
+            // Check React
+            if (window.React || window.__REACT_DEVTOOLS_GLOBAL_HOOK__) {
+                log('success', '✅ React is loaded');
+            } else {
+                log('error', '❌ React not detected');
+            }
+
+            // Check i18n
+            if (window.i18next) {
+                if (window.i18next.isInitialized) {
+                    log('success', '✅ i18n is initialized');
+                } else {
+                    log('warning', '⚠️ i18n loaded but not initialized');
+                }
+            } else {
+                log('error', '❌ i18n not loaded');
+            }
+
+            // Check root element
+            const root = document.getElementById('root');
+            if (root) {
+                if (root.hasChildNodes()) {
+                    log('success', '✅ React root is rendering');
+                } else {
+                    log('error', '❌ React root exists but is empty');
+                }
+            } else {
+                log('error', '❌ No root element found');
+            }
+
+            // Check for errors
+            const originalError = window.onerror;
+            window.onerror = (msg, source, lineno, colno, error) => {
+                log('error', `Runtime error: ${msg}`);
+                if (originalError) originalError(msg, source, lineno, colno, error);
+            };
+
+            document.getElementById('appStatus').textContent =
+                errorCount > 0 ? '❌ Issues Found' : '✅ Healthy';
+        }
+
+        async function testBackend() {
+            log('info', '🔌 Testing backend connection...');
+
+            try {
+                const response = await fetch('/api/health');
+                if (response.ok) {
+                    const data = await response.json();
+                    log('success', `✅ Backend is healthy: ${JSON.stringify(data)}`);
+                } else {
+                    log('error', `❌ Backend returned status ${response.status}`);
+                }
+            } catch (e) {
+                log('error', `❌ Backend connection failed: ${e.message}`);
+                log('info', 'Make sure backend is running on port 7155');
+            }
+        }
+
+        function fixI18n() {
+            log('info', '🌐 Attempting to fix i18n...');
+
+            if (window.i18next) {
+                // Force initialization
+                window.i18next.init({
+                    lng: 'en',
+                    fallbackLng: 'en',
+                    debug: false,
+                    interpolation: {
+                        escapeValue: false
+                    },
+                    resources: {
+                        en: {
+                            translation: {
+                                'nav.home': 'Home',
+                                'nav.services': 'Services',
+                                'nav.about': 'About',
+                                'nav.contact': 'Contact'
+                            }
+                        }
+                    }
+                }).then(() => {
+                    log('success', '✅ i18n re-initialized with fallback translations');
+                    location.reload();
+                });
+            } else {
+                log('error', '❌ i18n not found - cannot fix');
+            }
+        }
+
+        function disableAnalytics() {
+            log('info', '📊 Disabling analytics...');
+
+            if (window.analytics) {
+                window.analytics = {
+                    trackEvent: () => {},
+                    trackPageView: () => {},
+                    trackConversion: () => {},
+                    setABTestVariant: () => {},
+                    getUserSession: () => ({})
+                };
+                log('success', '✅ Analytics disabled');
+            }
+
+            // Clear all intervals
+            const highestId = window.setTimeout(() => {}, 0);
+            for (let i = 0; i < highestId; i++) {
+                window.clearTimeout(i);
+                window.clearInterval(i);
+            }
+            log('success', '✅ All timers cleared');
+        }
+
+        // Capture console messages
+        const originalConsole = {
+            log: console.log,
+            error: console.error,
+            warn: console.warn
+        };
+
+        console.log = function(...args) {
+            log('info', args.join(' '));
+            originalConsole.log.apply(console, args);
+        };
+
+        console.error = function(...args) {
+            log('error', args.join(' '));
+            originalConsole.error.apply(console, args);
+        };
+
+        console.warn = function(...args) {
+            log('warning', args.join(' '));
+            originalConsole.warn.apply(console, args);
+        };
+
+        // Capture errors
+        window.addEventListener('error', (e) => {
+            log('error', `${e.message} at ${e.filename}:${e.lineno}`);
+        });
+
+        window.addEventListener('unhandledrejection', (e) => {
+            log('error', `Unhandled Promise Rejection: ${e.reason}`);
+        });
+
+        // Auto-check on load
+        window.addEventListener('load', () => {
+            log('info', '🚀 Debug Dashboard Loaded');
+            checkSystem();
+        });
+    </script>
+</body>
+</html>

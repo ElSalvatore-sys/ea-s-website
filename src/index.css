@@ -1,0 +1,25 @@
+/* Import new design system */
+@import './styles/design-system.css';
+@import './styles/booking.module.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Override dark mode and purple gradients globally */
+@layer base {
+  body {
+    @apply bg-background-primary text-gray-900;
+  }
+
+  /* Dark mode support - properly configured */
+  /* Removed the display: none rule that was hiding the entire app */
+}
+
+@layer utilities {
+  /* Purple gradients and dark mode are now properly supported */
+  /* Removed aggressive CSS overrides that were breaking the UI */
+
+  /* Dark backgrounds properly configured */
+  /* Removed forced background overrides to allow proper theming */
+}

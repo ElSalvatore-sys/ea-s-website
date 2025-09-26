@@ -1,0 +1,27 @@
+<svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- E Letter -->
+  <path
+    d="M 12 12 L 12 36 L 28 36 M 12 12 L 28 12 M 12 24 L 24 24"
+    stroke="#111827"
+    stroke-width="3"
+    stroke-linecap="round"
+    fill="none"
+  />
+  
+  <!-- A Letter -->
+  <path
+    d="M 28 36 L 36 12 M 32 24 L 36 24"
+    stroke="#6366F1"
+    stroke-width="3"
+    stroke-linecap="round"
+    fill="none"
+  />
+  
+  <!-- Center dot -->
+  <circle
+    cx="24"
+    cy="24"
+    r="2"
+    fill="#6366F1"
+  />
+</svg>

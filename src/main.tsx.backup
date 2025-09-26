@@ -1,0 +1,52 @@
+import { StrictMode } from 'react';
+import { createRoot } from 'react-dom/client';
+import App from './App.tsx';
+import './index.css';
+import i18n from './i18n/config'; // Initialize i18n
+
+console.log('main.tsx is loading');
+
+const rootElement = document.getElementById('root');
+console.log('Root element:', rootElement);
+
+// Wait for i18n to be ready before rendering
+const initApp = async () => {
+  try {
+    console.log('Checking i18n initialization status...');
+    // i18n.init() is already called in the config file, just wait for it
+    if (!i18n.isInitialized) {
+      console.log('Waiting for i18n to initialize...');
+      await new Promise((resolve) => {
+        i18n.on('initialized', resolve);
+      });
+    }
+    console.log('i18n initialized successfully');
+
+    if (rootElement) {
+      console.log('Creating React root...');
+      const root = createRoot(rootElement);
+      console.log('Rendering app...');
+      root.render(
+        <StrictMode>
+          <App />
+        </StrictMode>
+      );
+      console.log('App rendered');
+    } else {
+      console.error('Root element not found!');
+    }
+  } catch (error) {
+    console.error('Failed to initialize i18n:', error);
+    // Render app anyway with fallback
+    if (rootElement) {
+      const root = createRoot(rootElement);
+      root.render(
+        <StrictMode>
+          <App />
+        </StrictMode>
+      );
+    }
+  }
+};
+
+initApp();

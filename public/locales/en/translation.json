@@ -1,0 +1,2004 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "pricing": "Pricing",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "footer": {
+    "company": {
+      "serving": "Serving businesses in Germany",
+      "built": "Built with excellence in Wiesbaden"
+    }
+  },
+  "clients": {
+    "trustedBy": "Trusted by Industry Leaders",
+    "powering": "Powering Digital Transformation",
+    "stats": {
+      "activeClients": "Active Clients",
+      "revenueGenerated": "Revenue Generated",
+      "clientRetention": "Client Retention",
+      "rating": "Client Rating"
+    }
+  },
+  "caseStudies": {
+    "title": "Success Stories",
+    "subtitle": "Real results for real businesses",
+    "hotelKochbrunnen": {
+      "challenge": "Modernize booking system and increase direct reservations",
+      "solution": "Custom booking platform with AI-powered recommendations"
+    },
+    "falchiDental": {
+      "challenge": "Streamline patient appointments and reduce no-shows",
+      "solution": "Smart scheduling system with automated reminders"
+    },
+    "glennMiller": {
+      "challenge": "Enhance online presence and attract younger audience",
+      "solution": "Modern website with integrated event management"
+    },
+    "cta": {
+      "title": "Ready to Transform Your Business?",
+      "description": "Join our successful clients and experience the difference"
+    }
+  },
+  "header": {
+    "cta": "Book Free Consultation",
+    "startFreeTrial": "Start Free Trial",
+    "getstarted": "Get Started",
+    "getFreeConsultation": "Get Free Consultation"
+  },
+  "contact": {
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "company": "Company",
+      "phone": "Phone",
+      "employees": "Company Size",
+      "industry": "Industry",
+      "budget": "Budget",
+      "timeline": "Timeline",
+      "goals": "Goals",
+      "challenges": "Challenges",
+      "message": "Additional Information"
+    }
+  },
+  "booking": {
+    "step1": "Contact Information",
+    "step2": "Company Details",
+    "step3": "Project Requirements",
+    "name": "John Smith",
+    "company": "Company Name",
+    "employees": {
+      "select": "Select company size",
+      "1-10": "1-10 employees",
+      "11-50": "11-50 employees",
+      "51-200": "51-200 employees",
+      "201-1000": "201-1000 employees",
+      "1000+": "1000+ employees"
+    },
+    "industry": {
+      "select": "Select industry",
+      "hospitality": "Hospitality & Tourism",
+      "manufacturing": "Manufacturing",
+      "healthcare": "Healthcare",
+      "finance": "Finance & Banking",
+      "retail": "Retail",
+      "technology": "Technology",
+      "other": "Other"
+    },
+    "budget": {
+      "select": "Select budget range",
+      "under-10k": "Under €10,000",
+      "10k-50k": "€10,000 - €50,000",
+      "50k-100k": "€50,000 - €100,000",
+      "100k-500k": "€100,000 - €500,000",
+      "500k+": "€500,000+"
+    },
+    "timeline": {
+      "select": "Select timeline",
+      "asap": "As soon as possible",
+      "1-3months": "1-3 months",
+      "3-6months": "3-6 months",
+      "6-12months": "6-12 months",
+      "12months+": "12+ months"
+    },
+    "goals": "What are your main goals for this project?",
+    "challenges": "What challenges are you currently facing?",
+    "additional": "Any additional information you'd like to share...",
+    "submitting": "Submitting...",
+    "cta": {
+      "secure": "✓ Secure Free Consultation"
+    },
+    "widget": {
+      "bookAppointment": "Book Appointment",
+      "selectService": "Select a Service",
+      "selectDateTime": "Select Date & Time",
+      "yourInformation": "Your Information",
+      "confirmation": "Confirmation",
+      "duration": "Duration",
+      "minutes": "minutes",
+      "availableTimes": "Available Times",
+      "noSlots": "No available times for this date",
+      "back": "Back",
+      "continue": "Continue",
+      "bookingSummary": "Booking Summary",
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "notes": "Notes (optional)",
+      "notesPlaceholder": "Any special requirements or questions...",
+      "booking": "Booking",
+      "confirmBooking": "Confirm Booking",
+      "bookingConfirmed": "Booking Confirmed!",
+      "bookingSuccess": "Your appointment has been successfully booked. You will receive a confirmation email shortly.",
+      "bookingDetails": "Booking Details",
+      "service": "Service",
+      "date": "Date",
+      "time": "Time",
+      "close": "Close",
+      "confirmationEmail": "A confirmation email has been sent to",
+      "errorLoadingSlots": "Failed to load available times. Please try again.",
+      "errorBooking": "Failed to create booking. Please try again.",
+      "confirmationCode": "Confirmation Code",
+      "appointment": "Appointment",
+      "businessHours": "Business Hours",
+      "mondayFriday": "Monday - Friday",
+      "closed": "Closed",
+      "mittagspause": "Lunch Break",
+      "weekend": "Weekend",
+      "holiday": "Holiday",
+      "limitedAvailability": "Limited availability",
+      "available": "Available",
+      "booked": "Booked",
+      "tryAgain": "Try Again",
+      "liveAvailability": "Live availability",
+      "offlineMode": "Offline mode",
+      "updated": "Updated",
+      "refreshAvailability": "Refresh availability",
+      "smartSuggestions": "✨ Smart Suggestions",
+      "updatingAvailability": "Updating availability...",
+      "availabilityUpdated": "✓ Availability updated",
+      "industryBooking": {
+        "title": "Intelligent Industry Booking",
+        "subtitle": "Tailored booking experiences for every industry with smart features and optimized workflows",
+        "restaurant": {
+          "header": "Reserve Your Table",
+          "name": "Restaurant",
+          "description": "Table reservations with smart features",
+          "services": {
+            "breakfast": "Breakfast Service",
+            "lunch": "Lunch Service",
+            "dinner": "Dinner Service",
+            "privateEvent": "Private Event"
+          },
+          "features": {
+            "partySize": "Party Size",
+            "specialRequests": "Special Requests",
+            "preferredSeating": "Preferred Seating",
+            "realTimeAvailability": "Real-time availability",
+            "dietaryRequirements": "Dietary Requirements",
+            "specialOccasion": "Special Occasion",
+            "window": "Window",
+            "patio": "Patio",
+            "private": "Private",
+            "bar": "Bar"
+          }
+        },
+        "medical": {
+          "header": "Book Your Appointment",
+          "name": "Medical",
+          "description": "Healthcare appointments made simple",
+          "services": {
+            "generalConsultation": "General Consultation",
+            "specialist": "Specialist Appointment",
+            "healthCheckup": "Health Check-up",
+            "emergency": "Emergency Consultation"
+          },
+          "features": {
+            "firstVisit": "First Visit",
+            "followUp": "Follow-up",
+            "insuranceProvider": "Insurance Provider",
+            "symptomScreening": "Symptom Screening",
+            "documentUpload": "Upload Medical Documents",
+            "insuranceIntegration": "Insurance Integration",
+            "medicalHistory": "Medical History Upload",
+            "emergencySlots": "Emergency Slots"
+          }
+        },
+        "salon": {
+          "header": "Book Your Transformation",
+          "name": "Hair Salon",
+          "description": "Beauty services with personalization",
+          "services": {
+            "cutAndStyle": "Cut & Style",
+            "color": "Hair Color & Highlights",
+            "treatments": "Hair Treatments",
+            "specialOccasion": "Special Occasion Styling"
+          },
+          "features": {
+            "hairLength": "Hair Length",
+            "short": "Short",
+            "medium": "Medium",
+            "long": "Long",
+            "extraLong": "Extra Long",
+            "stylistPreference": "Preferred Stylist",
+            "inspirationPhotos": "Upload Inspiration Photos",
+            "addOnServices": "Add-on Services",
+            "hairLengthPricing": "Hair Length Pricing",
+            "deepConditioning": "Deep Conditioning",
+            "scalpTreatment": "Scalp Treatment",
+            "haircutOnly": "Haircut Only",
+            "blowDry": "Blow Dry & Style"
+          }
+        },
+        "automotive": {
+          "header": "Schedule Your Service",
+          "name": "Automotive",
+          "description": "Vehicle service scheduling",
+          "services": {
+            "oilChange": "Oil Change",
+            "inspection": "Full Inspection",
+            "brakeService": "Brake Service",
+            "tireService": "Tire Service"
+          },
+          "features": {
+            "vehicleMake": "Vehicle Make",
+            "vehicleModel": "Vehicle Model",
+            "vehicleYear": "Vehicle Year",
+            "mileage": "Current Mileage",
+            "serviceHistory": "Service History",
+            "pickupDelivery": "Pickup/Delivery Service",
+            "vehicleInformation": "Vehicle Information",
+            "mileageTracking": "Mileage Tracking"
+          }
+        },
+        "smartFeatures": "Smart Features",
+        "priceEstimate": "Estimated Price",
+        "calculatePrice": "Calculating price...",
+        "uploadFile": "Click to upload or drag and drop",
+        "uploadLimit": "PNG, JPG up to 5MB",
+        "filesSelected": "file(s) selected",
+        "startDemo": "Start Demo",
+        "whyChoose": "Why Choose Our Solution?",
+        "industrySpecific": "Industry-Specific",
+        "tailoredFeatures": "Tailored features for each industry",
+        "smartAndFast": "Smart & Fast",
+        "optimizedWorkflows": "Optimized workflows with smart features",
+        "higherConversion": "Higher Conversion",
+        "reducedAbandonment": "Reduced abandonment through simplified processes"
+      }
+    }
+  },
+  "chatbot": {
+    "title": "EA-S AI Assistant",
+    "welcome": "Hello! I'm your EA-S AI assistant. How can I help you explore our enterprise AI solutions?",
+    "placeholder": "Type your message...",
+    "response": "Thank you for your message. Let me help you with that information about our AI solutions."
+  },
+  "floatingCTA": {
+    "getStarted": "Get Started Now",
+    "whatsapp": "WhatsApp",
+    "callNow": "Call Now",
+    "bookDemo": "Book Demo",
+    "whatsappHeader": "Chat on WhatsApp - Response in 2 min"
+  },
+  "home": {
+    "hero": {
+      "badge": "Trusted by 500+ German Businesses",
+      "headline": "Booking System Built for German Businesses",
+      "subheadline": "Automate appointments, respect Mittagspause, honor German holidays, and reduce no-shows by 70% with our GDPR-compliant booking platform.",
+      "cta": {
+        "primary": "Start Free 30-Day Trial",
+        "secondary": "Watch Demo"
+      },
+      "stats": {
+        "businesses": "Active Businesses",
+        "bookings": "Monthly Bookings",
+        "uptime": "Uptime SLA",
+        "rating": "Customer Rating"
+      }
+    },
+    "demo": {
+      "title": "See It In Action",
+      "subtitle": "Experience the booking system that German businesses love",
+      "widget_title": "Live Booking Widget Demo",
+      "interactive_title": "Try Our Interactive Demo",
+      "interactive_description": "Click below to experience the booking flow your customers will love",
+      "try_button": "Launch Demo"
+    },
+    "benefits": {
+      "title": "Transform Your Business Operations",
+      "subtitle": "Measurable results from day one",
+      "save_time": {
+        "title": "Save Time",
+        "unit": "hours/week saved",
+        "description": "Automate scheduling and eliminate back-and-forth emails"
+      },
+      "reduce_noshows": {
+        "title": "Reduce No-Shows",
+        "unit": "fewer no-shows",
+        "description": "Smart reminders and confirmations keep appointments on track"
+      },
+      "german_rules": {
+        "title": "German Compliant",
+        "unit": "compliant",
+        "description": "Built-in Mittagspause, holidays, and GDPR compliance"
+      }
+    },
+    "features": {
+      "title": "Features Designed for Germany",
+      "subtitle": "Everything you need to manage appointments like a pro",
+      "mittagspause": {
+        "title": "Automatic Mittagspause",
+        "description": "Blocks 12:00-14:00 automatically for lunch break, respecting German business culture"
+      },
+      "holidays": {
+        "title": "German Holiday Calendar",
+        "description": "All federal and state holidays pre-configured, never book on a Feiertag again"
+      },
+      "gdpr": {
+        "title": "GDPR Compliant",
+        "description": "Full data protection compliance with encrypted storage and privacy controls"
+      },
+      "multilanguage": {
+        "title": "Multi-Language Support",
+        "description": "Seamlessly switch between German, English, and French interfaces"
+      },
+      "realtime": {
+        "title": "Real-Time Availability",
+        "description": "Instant updates across all channels, no double-bookings ever"
+      },
+      "reminders": {
+        "title": "Smart Reminders",
+        "description": "Automated SMS and email reminders reduce no-shows by up to 70%"
+      },
+      "intelligent": "Smart Scheduling",
+      "costReduction": "Cost Reduction"
+    },
+    "pricing": {
+      "title": "Simple, Transparent Pricing",
+      "subtitle": "Choose the plan that fits your business",
+      "period": "month",
+      "popular": "Most Popular",
+      "cta": "Start Free Trial",
+      "starter": {
+        "name": "Starter",
+        "description": "Perfect for small businesses",
+        "feature1": "Up to 100 bookings/month",
+        "feature2": "1 calendar integration",
+        "feature3": "Email reminders",
+        "feature4": "Basic support",
+        "feature5": "Mobile responsive"
+      },
+      "professional": {
+        "name": "Professional",
+        "description": "For growing businesses",
+        "feature1": "Up to 500 bookings/month",
+        "feature2": "Unlimited calendars",
+        "feature3": "SMS & Email reminders",
+        "feature4": "Priority support",
+        "feature5": "Custom branding",
+        "feature6": "Analytics dashboard"
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "description": "For large organizations",
+        "feature1": "Unlimited bookings",
+        "feature2": "Multi-location support",
+        "feature3": "Advanced analytics",
+        "feature4": "24/7 phone support",
+        "feature5": "API access",
+        "feature6": "Custom integrations",
+        "feature7": "SLA guarantee"
+      }
+    },
+    "integration": {
+      "title": "Get Started in 3 Simple Steps",
+      "subtitle": "Up and running in less than 5 minutes",
+      "step1": {
+        "title": "Sign Up",
+        "description": "Create your account and configure your business hours"
+      },
+      "step2": {
+        "title": "Customize",
+        "description": "Set your services, prices, and booking rules"
+      },
+      "step3": {
+        "title": "Go Live",
+        "description": "Share your booking link and start accepting appointments"
+      }
+    },
+    "integration_guide": {
+      "badge": "5-Minute Setup",
+      "title": "Integrate in 3 Simple Steps",
+      "subtitle": "Add our booking system to your website in minutes. No coding experience required!",
+      "step1": {
+        "title": "Sign Up & Get Your ID",
+        "description": "Create your account and receive your unique business ID instantly"
+      },
+      "step2": {
+        "title": "Copy the Embed Code",
+        "description": "Copy our one-line embed code with your business ID"
+      },
+      "step3": {
+        "title": "Paste Into Your Website",
+        "description": "Add the code to your website's HTML and you're live!"
+      },
+      "code_snippet": {
+        "title": "Your Embed Code",
+        "copy": "Copy Code",
+        "copied": "Copied!",
+        "note": "Replace YOUR_ID with your actual business ID from the dashboard"
+      },
+      "before_after": {
+        "title": "See the Transformation",
+        "before": "Before",
+        "after": "After",
+        "no_booking": "No booking system available",
+        "widget_title": "Book an Appointment",
+        "widget_demo": "Select your preferred date and time",
+        "book_now": "Book Now",
+        "mobile_ready": "100% Mobile Responsive"
+      },
+      "faq": {
+        "title": "Frequently Asked Questions",
+        "q1": "Where do I find my business ID?",
+        "a1": "Your business ID is displayed in your dashboard after signing up. You can find it under Settings > Integration.",
+        "q2": "Can I customize the widget appearance?",
+        "a2": "Yes! The widget automatically adapts to your website's design. You can also customize colors, fonts, and layout from your dashboard.",
+        "q3": "Does it work with WordPress, Wix, or other platforms?",
+        "a3": "Absolutely! Our widget works with any website platform that allows custom HTML. We have specific guides for WordPress, Wix, Squarespace, and more.",
+        "q4": "Is the widget mobile responsive?",
+        "a4": "Yes, the booking widget is fully responsive and works perfectly on all devices - desktop, tablet, and mobile.",
+        "need_help": "Still have questions?",
+        "contact_support": "Contact our support team"
+      }
+    },
+    "cta": {
+      "title": "Ready to Modernize Your Booking Process?",
+      "subtitle": "Join 500+ German businesses saving 10+ hours every week",
+      "button": {
+        "primary": "Start Your Free Trial",
+        "secondary": "Schedule a Demo"
+      },
+      "guarantee": {
+        "title": "No credit card required • Cancel anytime",
+        "item1": "30-day free trial",
+        "item2": "No setup fees",
+        "item3": "GDPR compliant"
+      }
+    },
+    "onboarding": {
+      "badge": "15 Minutes to Launch",
+      "title": "From Signup to First Booking",
+      "subtitle": "Get your professional booking system up and running in just 15 minutes. No technical skills required.",
+      "progress": {
+        "title": "Setup Progress",
+        "total": "15 minutes",
+        "start": "Start",
+        "live": "Live & Receiving Bookings"
+      },
+      "step1": {
+        "title": "Free Trial Signup",
+        "description": "Create your account instantly with just your email. No credit card required for the 30-day trial.",
+        "time": "30 seconds"
+      },
+      "step2": {
+        "title": "Business Profile Setup",
+        "description": "Add your business name, logo, contact details, and operating hours. Our smart defaults save you time.",
+        "time": "5 minutes"
+      },
+      "step3": {
+        "title": "Add Services & Prices",
+        "description": "List your services, set durations and prices. Use our templates for common German business types.",
+        "time": "3 minutes"
+      },
+      "step4": {
+        "title": "Customize Booking Rules",
+        "description": "Set your Mittagspause, configure holidays, define booking windows, and cancellation policies.",
+        "time": "3 minutes"
+      },
+      "step5": {
+        "title": "Go Live & Receive Bookings",
+        "description": "Get your booking link, embed widget code, and start accepting bookings immediately.",
+        "time": "3 minutes"
+      },
+      "testimonial1": {
+        "quote": "The setup was incredibly fast! We had our booking system running during our lunch break.",
+        "author": "Hans Müller",
+        "company": "Müller & Schmidt Steuerberatung"
+      },
+      "testimonial2": {
+        "quote": "Finally a booking system that understands German business culture. The Mittagspause feature is genius!",
+        "author": "Sabine Weber",
+        "company": "Weber Physiotherapie Praxis"
+      },
+      "testimonial3": {
+        "quote": "We saved 15 hours in the first week alone. The ROI was immediate and impressive.",
+        "author": "Thomas Schneider",
+        "company": "Schneider Autohaus GmbH"
+      },
+      "cta": {
+        "title": "Ready to Transform Your Business?",
+        "subtitle": "Join thousands of German businesses already saving time and growing revenue",
+        "button": "Start Your Free Trial Now",
+        "feature1": "No credit card",
+        "feature2": "30-day trial",
+        "feature3": "Cancel anytime"
+      }
+    },
+    "problems": {
+      "title": "Problems We Solve",
+      "subtitle": "Stop losing time and money to outdated booking methods",
+      "manual": "Hours wasted on phone bookings",
+      "data": "No-shows costing you money",
+      "cloud": "Double bookings and conflicts",
+      "response": "Customers going to competitors",
+      "costs": "Staff overwhelmed with calls",
+      "scale": "Can't scale your business"
+    },
+    "solutions": {
+      "manual": "Automated 24/7 online booking",
+      "data": "Smart reminders reduce no-shows by 87%",
+      "cloud": "Real-time calendar sync",
+      "response": "Instant booking confirmation",
+      "costs": "Free up staff for important tasks",
+      "scale": "Handle unlimited bookings"
+    },
+    "mind": {
+      "title": "Introducing Smart Booking AI",
+      "features": {
+        "local": "Local Processing",
+        "intelligent": "Intelligent Scheduling"
+      }
+    },
+    "tagline": "The intelligent platform that transforms how your business operates",
+    "trustBar": {
+      "activeClients": "Trusted by Enterprise Clients Worldwide",
+      "retention": "98% Client Success Rate",
+      "germanyBased": "German Engineering Excellence"
+    },
+    "coreSolutions": {
+      "title": "Enterprise AI & Digital Solutions",
+      "subtitle": "Powering digital transformation for industry leaders",
+      "bookingSystems": {
+        "title": "AI-Powered Solutions",
+        "description": "Enterprise AI systems trusted by global brands like KFC",
+        "liveAt": "Powering:",
+        "result": "digital transformation",
+        "cta": "See How It Works"
+      },
+      "customWebsites": {
+        "title": "Digital Transformation",
+        "description": "Complete digital ecosystem solutions for enterprises",
+        "reference": "Reference:",
+        "result": "more inquiries",
+        "cta": "See How It Works"
+      },
+      "aiAutomation": {
+        "title": "Intelligent Automation",
+        "description": "Smart automation systems that scale with your enterprise",
+        "successAt": "Success at:",
+        "result": "saved weekly",
+        "cta": "See How It Works"
+      }
+    },
+    "pricingSection": {
+      "title": "Transparent, Fair Pricing",
+      "subtitle": "No hidden fees, no surprises",
+      "from": "From",
+      "month": "month",
+      "mostPopular": "MOST POPULAR",
+      "starter": {
+        "feature1": "Booking system OR website",
+        "feature2": "Up to 500 bookings/month",
+        "feature3": "Email support"
+      },
+      "growth": {
+        "feature1": "Booking system AND website",
+        "feature2": "Unlimited bookings",
+        "feature3": "Priority support"
+      },
+      "enterprise": {
+        "feature1": "Multiple locations",
+        "feature2": "Dedicated manager",
+        "feature3": "Custom development"
+      },
+      "viewFullPricing": "View Full Pricing"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "questions": {
+        "howQuickly": {
+          "question": "How quickly can we get started?",
+          "answer": "We can have your booking system live within 24 hours. The setup takes about 30 minutes, and our team guides you through every step."
+        },
+        "outsideStuttgart": {
+          "question": "Do you work with businesses outside Stuttgart?",
+          "answer": "Yes! While we're based in Stuttgart, we serve businesses throughout Germany. All our services are available online and we provide remote support."
+        },
+        "existingWebsite": {
+          "question": "What if we already have a website?",
+          "answer": "Perfect! Our booking system integrates seamlessly with your existing website. We provide a simple embed code that works with any platform."
+        },
+        "calendarIntegration": {
+          "question": "How does the booking system integrate with our calendar?",
+          "answer": "We sync with Google Calendar, Outlook, and most other calendar systems in real-time. Your availability is always up-to-date across all platforms."
+        },
+        "gdprCompliant": {
+          "question": "Is everything GDPR compliant?",
+          "answer": "Absolutely! Data protection is our top priority. All data is encrypted, stored on German servers, and we're fully GDPR compliant with complete data control for you and your customers."
+        }
+      }
+    },
+    "finalCta": {
+      "title": "Ready to Transform Your Business?",
+      "subtitle": "Join hundreds of German businesses already saving time and increasing revenue with our proven solutions.",
+      "primaryButton": "Book Free Consultation",
+      "secondaryButton": "Download Case Studies",
+      "trustNote": "No credit card required • 30-day free trial • Cancel anytime"
+    }
+  },
+  "solutions": {
+    "hero": {
+      "badge": "Germany's #1 Booking Platform",
+      "title": "The Complete Booking Solution for German Businesses",
+      "subtitle": "Eliminate no-shows, respect Mittagspause, honor German holidays. The only booking system designed specifically for German business culture.",
+      "cta": {
+        "primary": "Start Free Trial",
+        "secondary": "Calculate Your ROI"
+      },
+      "stats": {
+        "businesses": "Active Businesses",
+        "bookings": "Monthly Bookings",
+        "reduction": "No-Show Reduction",
+        "rating": "Customer Rating"
+      }
+    },
+    "problems": {
+      "title": "The Hidden Costs of Manual Booking",
+      "subtitle": "Every missed appointment and double booking costs your business money",
+      "noShows": {
+        "title": "No-Shows Kill Revenue",
+        "description": "Without reminders, 30% of appointments are forgotten or missed",
+        "stat": "average no-show rate"
+      },
+      "manualScheduling": {
+        "title": "Time Wasted on Phone Calls",
+        "description": "Staff spend hours playing phone tag and managing calendars",
+        "stat": "per week on scheduling"
+      },
+      "doubleBookings": {
+        "title": "Double Bookings Damage Trust",
+        "description": "Manual calendars lead to embarrassing scheduling conflicts",
+        "stat": "error rate"
+      }
+    },
+    "features": {
+      "title": "Built for German Business Excellence",
+      "subtitle": "Every feature designed with German business culture in mind",
+      "reminders": {
+        "title": "Smart Reminders",
+        "description": "Automated SMS and email reminders reduce no-shows by 70%"
+      },
+      "mittagspause": {
+        "title": "Automatic Mittagspause",
+        "description": "12:00-14:00 automatically blocked for lunch, respecting German traditions"
+      },
+      "holidays": {
+        "title": "German Holiday Calendar",
+        "description": "All federal and state holidays pre-configured, never book on a Feiertag"
+      },
+      "gdpr": {
+        "title": "100% GDPR Compliant",
+        "description": "Built in Germany, hosted in Germany, fully compliant with data protection laws"
+      },
+      "mobile": {
+        "title": "Mobile-First Design",
+        "description": "Perfect on every device - desktop, tablet, and smartphone"
+      },
+      "multilingual": {
+        "title": "Multi-Language Support",
+        "description": "German, English, and French interfaces for international clients"
+      }
+    },
+    "industries": {
+      "title": "Tailored Solutions by Industry",
+      "subtitle": "Specialized features for your specific business needs",
+      "features": "Key Features for",
+      "caseStudy": "Success Story",
+      "restaurant": {
+        "title": "Restaurants",
+        "feature1": "Table management and reservation system",
+        "feature2": "Special event and group booking handling",
+        "feature3": "Waitlist management for walk-ins",
+        "feature4": "Integration with kitchen timing",
+        "quote": "We reduced no-shows by 65% and increased table turnover by 30%",
+        "result": "revenue increase"
+      },
+      "salon": {
+        "title": "Beauty & Hair Salons",
+        "feature1": "Service duration management",
+        "feature2": "Staff scheduling and availability",
+        "feature3": "Product sales integration",
+        "feature4": "Loyalty program support",
+        "quote": "Our stylists save 2 hours daily on scheduling, focusing on clients instead",
+        "result": "scheduling time saved"
+      },
+      "medical": {
+        "title": "Medical Practices",
+        "feature1": "Patient record integration",
+        "feature2": "Insurance verification workflow",
+        "feature3": "Prescription renewal reminders",
+        "feature4": "Emergency slot management",
+        "quote": "Patient satisfaction increased while administrative work decreased significantly",
+        "result": "saved weekly"
+      },
+      "automotive": {
+        "title": "Auto Repair Shops",
+        "feature1": "Service bay scheduling",
+        "feature2": "Parts availability checking",
+        "feature3": "Loaner car management",
+        "feature4": "Service history tracking",
+        "quote": "We can now handle 60% more appointments with the same staff",
+        "result": "capacity increase"
+      }
+    },
+    "roi": {
+      "title": "ROI Calculator",
+      "heading": "Calculate Your Return on Investment",
+      "subheading": "See how much time and money you'll save with our booking system",
+      "inputs": {
+        "appointments": "Monthly Appointments",
+        "noShowRate": "Current No-Show Rate",
+        "averageValue": "Average Appointment Value",
+        "hoursScheduling": "Hours/Week on Scheduling"
+      },
+      "results": {
+        "monthlyBenefit": "Total Monthly Benefit",
+        "yearlyBenefit": "Annual Benefit",
+        "revenueRecovered": "Revenue Recovered",
+        "timeSaved": "Time Saved",
+        "roi": "Return on Investment",
+        "payback": "Payback Period",
+        "days": "days"
+      },
+      "disclaimer": "Based on average customer results. Your results may vary.",
+      "cta": "Get Your Custom Quote"
+    },
+    "caseStudies": {
+      "title": "Success Stories from German Businesses",
+      "subtitle": "Real results from businesses just like yours",
+      "case1": {
+        "industry": "Tax Consulting",
+        "challenge": "Manual scheduling was taking 15 hours per week",
+        "solution": "Implemented online booking with automatic reminders",
+        "result": "Reduced scheduling time by 85% and no-shows by 70%",
+        "metric": "time saved"
+      },
+      "case2": {
+        "industry": "Beauty Salon",
+        "challenge": "High no-show rate was costing €2,000 monthly",
+        "solution": "Added SMS reminders and deposit requirements",
+        "result": "Recovered €12,000 in annual revenue from reduced no-shows",
+        "metric": "annual savings"
+      },
+      "case3": {
+        "industry": "Auto Repair",
+        "challenge": "Service bays were underutilized due to poor scheduling",
+        "solution": "Optimized scheduling with real-time availability",
+        "result": "Increased capacity by 3x without adding staff",
+        "metric": "capacity increase"
+      }
+    },
+    "technical": {
+      "title": "Enterprise-Grade Technology",
+      "subtitle": "Built on robust, scalable infrastructure",
+      "realtime": {
+        "title": "Real-Time Sync",
+        "description": "Instant updates across all devices and calendars"
+      },
+      "cloud": {
+        "title": "Cloud Infrastructure",
+        "description": "99.9% uptime guarantee with German data centers"
+      },
+      "backup": {
+        "title": "Automatic Backups",
+        "description": "Daily backups with instant recovery options"
+      },
+      "encryption": {
+        "title": "Bank-Level Security",
+        "description": "256-bit SSL encryption for all data transmission"
+      }
+    },
+    "security": {
+      "title": "Security & Compliance",
+      "subtitle": "Your data is safe with German-engineered security",
+      "feature1": "100% GDPR compliant with data processing agreements",
+      "feature2": "Hosted exclusively in German data centers",
+      "feature3": "Regular security audits and penetration testing",
+      "feature4": "Encrypted data storage and transmission",
+      "feature5": "Complete audit logs and access controls",
+      "gdpr": "Fully Compliant",
+      "iso": "Certified Standard",
+      "backup": "Daily Backups",
+      "audit": "Regular Audits"
+    },
+    "support": {
+      "247": {
+        "title": "24/7 Support",
+        "description": "Phone, email, and chat support whenever you need it",
+        "availability": "Available in German & English"
+      },
+      "title": "World-Class Support",
+      "subtitle": "We're here to help you succeed",
+      "documentation": {
+        "title": "Comprehensive Docs",
+        "description": "Video tutorials, guides, and API documentation",
+        "resources": "100+ Resources Available"
+      },
+      "training": {
+        "title": "Free Training",
+        "description": "Onboarding sessions and regular webinars included",
+        "included": "Unlimited Training Hours"
+      }
+    },
+    "cta": {
+      "title": "Ready to Transform Your Business?",
+      "subtitle": "Join 500+ German businesses already saving time and growing revenue",
+      "primary": "Start Your Free Trial",
+      "secondary": "View Demo",
+      "guarantee1": "30-day free trial",
+      "guarantee2": "No credit card required",
+      "guarantee3": "Cancel anytime"
+    }
+  },
+  "nav": {
+    "liveDemo": "Live Demo",
+    "home": "Home",
+    "features": "Features",
+    "pricing": "Pricing",
+    "demo": "Demo",
+    "resources": {
+      "integration": "Integration Guide",
+      "integrationDesc": "Step-by-step setup instructions",
+      "api": "API Documentation",
+      "apiDesc": "Complete API reference",
+      "support": "Support Center",
+      "supportDesc": "Get help from our team"
+    },
+    "services": "Services",
+    "servicesMenu": {
+      "booking": "Booking Systems",
+      "web": "Website Development",
+      "automation": "Business Automation"
+    },
+    "solutions": "Solutions",
+    "portfolio": "Portfolio",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "demoBooking": {
+    "title": "Interactive Demo",
+    "subtitle": "Experience the Booking System in Action",
+    "restaurantView": {
+      "title": "Customer View",
+      "heroTitle": "Ristorante Italiano",
+      "heroSubtitle": "Authentic Italian Cuisine in the Heart of the City",
+      "about": "Welcome to our family restaurant",
+      "aboutText": "For over 30 years, we've been serving authentic Italian dishes with fresh ingredients and traditional recipes.",
+      "hours": "Opening Hours",
+      "monday": "Monday",
+      "tuesday": "Tuesday",
+      "wednesday": "Wednesday",
+      "thursday": "Thursday",
+      "friday": "Friday",
+      "saturday": "Saturday",
+      "sunday": "Sunday",
+      "closed": "Closed",
+      "makeReservation": "Make a Reservation"
+    },
+    "adminView": {
+      "title": "Admin Dashboard",
+      "subtitle": "Real-Time Booking Management",
+      "stats": {
+        "totalBookings": "Total Bookings",
+        "todayBookings": "Today",
+        "upcomingBookings": "Upcoming",
+        "totalRevenue": "Total Revenue"
+      },
+      "recentBookings": "Recent Bookings",
+      "customer": "Customer",
+      "service": "Service",
+      "date": "Date",
+      "time": "Time",
+      "status": "Status",
+      "guests": "Guests",
+      "notes": "Notes",
+      "confirmed": "Confirmed",
+      "pending": "Pending",
+      "cancelled": "Cancelled",
+      "noBookings": "No bookings yet. Try making a reservation!",
+      "resetButton": "Reset Demo Data",
+      "resetTooltip": "Clear all demo bookings and start fresh"
+    },
+    "features": {
+      "mittagspause": "Mittagspause Recognition",
+      "mittagspauseDesc": "Automatically blocks 12:00-14:00 slots",
+      "holidays": "German Holidays",
+      "holidaysDesc": "Respects public holidays and business days",
+      "realtime": "Real-Time Updates",
+      "realtimeDesc": "Instant synchronization between views",
+      "validation": "Smart Validation",
+      "validationDesc": "Prevents double-booking and conflicts"
+    },
+    "performance": {
+      "title": "Performance Metrics",
+      "loadTime": "Load Time",
+      "responseTime": "Response Time",
+      "uptime": "Uptime",
+      "transactions": "Transactions/day"
+    },
+    "cta": {
+      "title": "Ready to Transform Your Business?",
+      "subtitle": "Get started with our booking system today",
+      "button": "Request Free Consultation"
+    }
+  },
+  "pricing": {
+    "title": "Simple, Transparent Pricing",
+    "subtitle": "Choose the perfect plan for your business. All plans include a 14-day free trial.",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "save20": "Save 20%",
+    "month": "month",
+    "year": "year",
+    "mostPopular": "Most Popular",
+    "startTrial": "Start Free Trial",
+    "noCreditCard": "No credit card required",
+    "includedFeatures": "What's Included",
+    "notIncluded": "Not Included",
+    "compareFeatures": "Compare All Features",
+    "features": {
+      "bookings": "bookings/month",
+      "users": "team members",
+      "support": "support",
+      "integrations": "integrations",
+      "api": "API access",
+      "whitelabel": "White-label option",
+      "training": "Onboarding training",
+      "analytics": "Advanced analytics"
+    },
+    "saveAmount": "Save €{{amount}}/year",
+    "customNeeds": "Need a custom solution or have special requirements?",
+    "contactSales": "Contact Sales Team",
+    "starter": {
+      "name": "Starter",
+      "description": "Perfect for solo professionals",
+      "features": {
+        "bookings": "Up to 100 bookings/month",
+        "users": "1 user account",
+        "notifications": "Email notifications",
+        "analytics": "Basic analytics dashboard",
+        "support": "Email support"
+      },
+      "limitations": {
+        "api": "No API access",
+        "customization": "Limited customization",
+        "integrations": "Basic integrations only"
+      },
+      "price": "€49",
+      "period": "/month",
+      "cta": "Start Free Trial"
+    },
+    "professional": {
+      "name": "Professional",
+      "description": "For growing businesses",
+      "features": {
+        "bookings": "Unlimited bookings",
+        "users": "5 user accounts",
+        "notifications": "SMS & Email notifications",
+        "analytics": "Advanced analytics & reports",
+        "api": "Full API access",
+        "support": "Priority support",
+        "customization": "Custom branding",
+        "integrations": "10+ integrations"
+      },
+      "price": "€99",
+      "badge": "MOST POPULAR",
+      "period": "/month",
+      "popular": "Most Popular",
+      "cta": "Start Free Trial"
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "description": "For large organizations",
+      "features": {
+        "everything": "Everything in Professional",
+        "users": "Unlimited user accounts",
+        "integrations": "Custom integrations",
+        "manager": "Dedicated account manager",
+        "sla": "99.9% SLA guarantee",
+        "training": "On-site training",
+        "api": "Priority API support",
+        "whitelabel": "White-label options"
+      },
+      "price": "Custom",
+      "period": "",
+      "cta": "Contact Sales"
+    },
+    "comparison": {
+      "bookings": "Monthly Bookings",
+      "users": "User Accounts",
+      "notifications": "Notifications",
+      "analytics": "Analytics",
+      "api": "API Access",
+      "support": "Support Level",
+      "customization": "Customization",
+      "integrations": "Integrations",
+      "sla": "SLA Guarantee",
+      "training": "Training"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "contract": {
+        "question": "What are the contract terms?",
+        "answer": "All plans are month-to-month with no long-term contracts required. You can cancel anytime with just one click. For yearly plans, you can cancel at the end of your billing period."
+      },
+      "cancellation": {
+        "question": "What is your cancellation policy?",
+        "answer": "You can cancel your subscription at any time from your account settings. Your service will continue until the end of your current billing period. No questions asked, no cancellation fees."
+      },
+      "dataExport": {
+        "question": "Can I export my data?",
+        "answer": "Yes! You own all your data. You can export all bookings, customer information, and analytics at any time in multiple formats (CSV, JSON, PDF). We also provide API access for automated exports."
+      },
+      "payment": {
+        "question": "What payment methods do you accept?",
+        "answer": "We accept all major credit cards (Visa, MasterCard, American Express), SEPA direct debit for European customers, and wire transfers for Enterprise plans."
+      },
+      "upgrade": {
+        "question": "Can I upgrade or downgrade my plan?",
+        "answer": "Absolutely! You can change your plan at any time. Upgrades take effect immediately with prorated billing. Downgrades take effect at the next billing cycle."
+      },
+      "q1": "Can I change plans anytime?",
+      "a1": "Yes, you can upgrade or downgrade your plan at any time.",
+      "q2": "Is there a setup fee?",
+      "a2": "No, there are no setup fees. Start using immediately.",
+      "q3": "What payment methods do you accept?",
+      "a3": "We accept all major credit cards, SEPA direct debit, and invoicing for enterprise.",
+      "q4": "Can I cancel anytime?",
+      "a4": "Yes, cancel anytime. No questions asked."
+    },
+    "perMonth": "/month",
+    "perYear": "/year",
+    "hero": {
+      "title": "Simple, Transparent Pricing",
+      "subtitle": "No hidden fees. No surprises. Just value.",
+      "monthly": "Monthly",
+      "yearly": "Yearly",
+      "save": "Save 20%"
+    },
+    "business": {
+      "name": "Business",
+      "price": "€199",
+      "period": "/month",
+      "description": "For established companies",
+      "cta": "Start Free Trial"
+    }
+  },
+  "hero": {
+    "trustBadge": "Trusted by Industry Leaders",
+    "headline": "Digital Transformation for Enterprise Success",
+    "subheadline": "Powering Digital Excellence for Industry Leaders - Our AI solutions and enterprise systems transform businesses worldwide.",
+    "cta": {
+      "primary": "Schedule Consultation",
+      "secondary": "View Our Solutions",
+      "trial": "Schedule Consultation",
+      "demo": "View Portfolio"
+    },
+    "title": {
+      "line1": "Enterprise AI Solutions",
+      "line2": "for Industry Leaders",
+      "line3": "German Engineering Excellence"
+    },
+    "subtitle": "Transform your business with cutting-edge AI, automation, and digital solutions delivered from our base in Wiesbaden."
+  },
+  "benefits": {
+    "title": "Why German Businesses Choose Us",
+    "subtitle": "Proven results that transform your operations",
+    "saveTime": {
+      "title": "Save 15+ Hours Weekly",
+      "description": "Eliminate phone tag and manual scheduling. Our automated system handles bookings 24/7, freeing your team to focus on serving customers."
+    },
+    "reduceNoShows": {
+      "title": "Reduce No-Shows by 70%",
+      "description": "Smart reminders via SMS and email ensure customers remember their appointments. Automatic confirmations reduce costly no-shows."
+    },
+    "germanCompliant": {
+      "title": "100% German Business Ready",
+      "description": "Built-in Mittagspause blocking, German holiday recognition, and full GDPR compliance. We understand German business culture."
+    },
+    "increaseRevenue": {
+      "title": "Increase Revenue by 30%",
+      "description": "Accept bookings 24/7, optimize scheduling, and turn more inquiries into confirmed appointments with our conversion-optimized booking flow."
+    }
+  },
+  "features": {
+    "comprehensive": {
+      "mittagspause": "Automatic Mittagspause Blocking",
+      "mittagspauseDesc": "Respects German lunch hours (12:00-14:00) automatically",
+      "holidays": "German Holiday Recognition",
+      "holidaysDesc": "All federal and state holidays pre-configured",
+      "gdpr": "GDPR & DSGVO Compliant",
+      "gdprDesc": "Full data privacy compliance with German regulations",
+      "mobileReady": "Mobile-First Design",
+      "mobileReadyDesc": "Perfect booking experience on all devices",
+      "instantConfirmation": "Instant Confirmations",
+      "instantConfirmationDesc": "Automatic email and SMS confirmations",
+      "analytics": "Advanced Analytics",
+      "analyticsDesc": "Track bookings, revenue, and customer behavior"
+    },
+    "title": "Features Built for German Excellence",
+    "subtitle": "Everything you need to succeed",
+    "ai": {
+      "title": "AI-Powered Scheduling",
+      "desc": "Smart algorithms optimize your calendar automatically"
+    },
+    "security": {
+      "title": "GDPR Compliant",
+      "desc": "German data protection standards built-in"
+    },
+    "scale": {
+      "title": "Unlimited Scale",
+      "desc": "From solo practitioners to enterprise teams"
+    },
+    "api": {
+      "title": "API Integration",
+      "desc": "Connect with your existing tools seamlessly"
+    },
+    "analytics": {
+      "title": "Business Analytics",
+      "desc": "Track bookings, revenue, and customer insights"
+    },
+    "integration": {
+      "title": "Calendar Sync",
+      "desc": "Works with Google, Outlook, and Apple calendars"
+    },
+    "hero": {
+      "title": "Powerful Features for Modern Businesses",
+      "subtitle": "Everything you need to eliminate phone bookings and automate your business",
+      "cta": "Start Free Trial"
+    },
+    "booking": {
+      "title": "Smart Booking System",
+      "subtitle": "Let customers book 24/7 from any device",
+      "instant": {
+        "title": "Instant Confirmation",
+        "desc": "Customers get immediate booking confirmation via email and SMS"
+      },
+      "availability": {
+        "title": "Real-time Availability",
+        "desc": "Show only available slots based on your calendar and business rules"
+      },
+      "reminders": {
+        "title": "Automated Reminders",
+        "desc": "Reduce no-shows by 87% with smart reminder sequences"
+      },
+      "payments": {
+        "title": "Online Payments",
+        "desc": "Accept deposits or full payments during booking"
+      }
+    },
+    "management": {
+      "title": "Business Management",
+      "subtitle": "Tools to run your business efficiently",
+      "calendar": {
+        "title": "Smart Calendar",
+        "desc": "Manage all bookings in one unified calendar view"
+      },
+      "staff": {
+        "title": "Staff Management",
+        "desc": "Assign bookings to team members automatically"
+      },
+      "analytics": {
+        "title": "Business Analytics",
+        "desc": "Track revenue, popular services, and customer insights"
+      },
+      "integration": {
+        "title": "Seamless Integrations",
+        "desc": "Connect with your existing tools and workflows"
+      }
+    },
+    "german": {
+      "title": "Built for German Excellence",
+      "subtitle": "Features designed specifically for German businesses",
+      "holidays": {
+        "title": "German Holidays",
+        "desc": "Automatically blocks bookings on all German public holidays"
+      },
+      "mittagspause": {
+        "title": "Mittagspause Support",
+        "desc": "Built-in lunch break scheduling (12-14 Uhr)"
+      },
+      "gdpr": {
+        "title": "GDPR Compliant",
+        "desc": "Full compliance with German data protection laws"
+      },
+      "invoice": {
+        "title": "German Invoicing",
+        "desc": "Generate compliant invoices with proper tax calculation"
+      }
+    }
+  },
+  "integration": {
+    "title": "Live in 5 Minutes",
+    "subtitle": "Simple integration with any website",
+    "stepOne": {
+      "title": "Copy the Code",
+      "description": "Get your personalized booking widget code"
+    },
+    "stepTwo": {
+      "title": "Paste on Your Site",
+      "description": "Add to any website or CMS platform"
+    },
+    "stepThree": {
+      "title": "Start Accepting Bookings",
+      "description": "Begin receiving appointments immediately"
+    },
+    "copyCode": "Copy Integration Code",
+    "codeCopied": "Code Copied!",
+    "howItWorks": "See How It Works",
+    "platforms": "Works with WordPress, Wix, Squarespace, and any HTML website",
+    "hero": {
+      "title": "Integration Guide",
+      "subtitle": "Connect your booking system with your favorite tools",
+      "browse": "Browse Integrations",
+      "request": "Request Integration"
+    },
+    "popular": {
+      "title": "Popular Integrations",
+      "google": {
+        "title": "Google Calendar",
+        "desc": "Sync bookings with Google Calendar automatically"
+      },
+      "outlook": {
+        "title": "Outlook",
+        "desc": "Connect with Microsoft Outlook and Office 365"
+      },
+      "stripe": {
+        "title": "Stripe",
+        "desc": "Accept payments and deposits seamlessly"
+      },
+      "mailchimp": {
+        "title": "Mailchimp",
+        "desc": "Sync customer data for email marketing"
+      },
+      "slack": {
+        "title": "Slack",
+        "desc": "Get booking notifications in Slack"
+      },
+      "zoom": {
+        "title": "Zoom",
+        "desc": "Automatically create Zoom links for appointments"
+      }
+    },
+    "guides": {
+      "title": "Step-by-Step Guides",
+      "calendar": "Calendar Integration Guide",
+      "payment": "Payment Integration Guide",
+      "crm": "CRM Integration Guide",
+      "email": "Email Marketing Integration"
+    },
+    "custom": {
+      "title": "Custom Integrations",
+      "description": "Need a custom integration? We can help.",
+      "webhook": "Webhooks",
+      "api": "REST API",
+      "zapier": "Zapier",
+      "contact": "Contact our integration team"
+    }
+  },
+  "onboarding": {
+    "title": "Get Started in Minutes",
+    "subtitle": "Our simple onboarding process gets you up and running fast",
+    "freeSignup": {
+      "title": "Sign Up Free",
+      "description": "No credit card required for 30-day trial"
+    },
+    "setupProfile": {
+      "title": "Set Up Your Profile",
+      "description": "Add business hours, services, and team members"
+    },
+    "addServices": {
+      "title": "Add Your Services",
+      "description": "Configure service types, durations, and pricing"
+    },
+    "customize": {
+      "title": "Customize Your Widget",
+      "description": "Match your brand colors and style"
+    },
+    "goLive": {
+      "title": "Go Live!",
+      "description": "Start accepting bookings immediately"
+    }
+  },
+  "marketing": {
+    "testimonials": {
+      "title": "What Our Clients Say",
+      "subtitle": "Join thousands of German businesses that have transformed their booking process",
+      "roles": {
+        "restaurantOwner": "Restaurant Owner",
+        "salonOwner": "Salon Owner",
+        "doctor": "General Practitioner",
+        "fitnessOwner": "Fitness Studio Owner",
+        "craftsman": "Master Craftsman"
+      },
+      "restaurant": "Since implementing the booking system, our phone barely rings anymore. The staff can finally focus on our guests instead of managing reservations. The automatic reminder function has reduced no-shows to almost zero.",
+      "salon": "The online booking system was set up in 2 minutes! Our clients love being able to book appointments 24/7. We've seen a 40% increase in bookings, especially during off-hours.",
+      "medical": "GDPR compliance was our biggest concern, but this solution exceeded all expectations. Patient data is secure, the system runs on German servers, and we save 15 hours per week on appointment management.",
+      "fitness": "The integration with our existing website was seamless. Members can now book classes, personal training, and even equipment slots. The automated waiting list feature fills cancellations automatically.",
+      "craftsman": "As a traditional craftsman, I was skeptical about digital solutions. But the simplicity won me over. Customers can see my availability and book service appointments directly. No more phone tag!",
+      "metrics": {
+        "callsPerDay": "calls/day",
+        "noShows": "no-shows",
+        "staffForAppointments": "staff for appointments",
+        "dailyScheduling": "daily scheduling",
+        "missedOpportunities": "Missed opportunities",
+        "fullyBooked": "Fully booked"
+      },
+      "before": "Before",
+      "after": "After",
+      "trustIndicator": "100% genuine reviews from verified German businesses"
+    },
+    "metrics": {
+      "title": "Results That Speak for Themselves",
+      "subtitle": "Real impact metrics from over 5,000 German businesses using our booking system",
+      "phoneReduction": {
+        "label": "Fewer Phone Calls",
+        "description": "Reduce interruptions and let your team focus on customers"
+      },
+      "timeSaved": {
+        "label": "Hours Saved Weekly",
+        "description": "Automate scheduling and eliminate manual booking tasks"
+      },
+      "noShows": {
+        "label": "Reduction in No-Shows",
+        "description": "Automatic reminders ensure customers remember their appointments"
+      },
+      "setupTime": {
+        "label": "Setup Time",
+        "description": "Get started immediately with our instant setup process"
+      },
+      "cta": "These aren't just numbers - they represent real time and money saved for businesses like yours",
+      "button": "Calculate Your ROI"
+    },
+    "trust": {
+      "title": "Security & Reliability You Can Trust",
+      "subtitle": "Built with German engineering standards for data protection, reliability, and compliance",
+      "gdpr": {
+        "label": "100% GDPR Compliant",
+        "description": "Full compliance with German and EU data protection regulations"
+      },
+      "ssl": {
+        "label": "Bank-Level Encryption",
+        "description": "256-bit SSL encryption for all data transmissions"
+      },
+      "germanHosted": {
+        "label": "Hosted in Germany",
+        "description": "All data stored exclusively on German servers"
+      },
+      "uptime": {
+        "label": "Guaranteed Uptime",
+        "description": "Enterprise-grade infrastructure with redundancy"
+      },
+      "certified": {
+        "label": "ISO Certified",
+        "description": "ISO 27001 certified data management"
+      },
+      "support": {
+        "label": "German Support Team",
+        "description": "Native German-speaking support available"
+      },
+      "compliance": "Compliance & Certifications",
+      "statement": {
+        "title": "Your Data is Sacred to Us",
+        "description": "We understand the importance of data protection for German businesses. That's why we've built our entire infrastructure with privacy-first principles, ensuring your customer data never leaves Germany and is protected by the strictest security standards."
+      }
+    },
+    "comparison": {
+      "title": "Transform Your Business Operations",
+      "subtitle": "See the dramatic difference our booking system makes in day-to-day operations",
+      "toggleBefore": "Without System",
+      "toggleAfter": "With Our System",
+      "before": {
+        "title": "The Daily Chaos",
+        "subtitle": "How most businesses struggle with bookings",
+        "stat1": "Daily calls",
+        "stat2": "No-shows",
+        "stat3": "Admin time"
+      },
+      "after": {
+        "title": "Organized Excellence",
+        "subtitle": "Your business with automated booking",
+        "stat1": "Call reduction",
+        "stat2": "Less no-shows",
+        "stat3": "Availability"
+      },
+      "phone": {
+        "before": "Phone rings constantly, disrupting service and frustrating staff",
+        "after": "Peaceful work environment with automated booking handling"
+      },
+      "calendar": {
+        "before": "Paper calendars, double bookings, and scheduling conflicts",
+        "after": "Digital calendar with automatic conflict prevention"
+      },
+      "time": {
+        "before": "Hours spent on phone scheduling and rescheduling",
+        "after": "Instant automated booking and rescheduling by customers"
+      },
+      "errors": {
+        "before": "Human errors in booking details and times",
+        "after": "Error-free automated data capture and confirmation"
+      },
+      "customers": {
+        "before": "Customers frustrated by phone wait times",
+        "after": "Happy customers booking instantly anytime"
+      },
+      "analytics": {
+        "before": "No insights into booking patterns or trends",
+        "after": "Detailed analytics and business intelligence"
+      },
+      "roi": {
+        "title": "Calculate Your Return on Investment",
+        "description": "Most businesses see positive ROI within the first month"
+      }
+    }
+  },
+  "banner": {
+    "launchOffer": "Launch Offer: 50% off for first 3 months"
+  },
+  "footer": {
+    "newsletter": {
+      "title": "Innovation & Digital Insights",
+      "subtitle": "Get weekly updates on AI trends and digital transformation strategies",
+      "placeholder": "Enter your email",
+      "button": "Subscribe",
+      "subscribed": "Subscribed!"
+    },
+    "cta": {
+      "title": "Ready to Transform Your Booking Process?",
+      "subtitle": "Join thousands of German businesses saving time and increasing revenue",
+      "button": "Start Free Trial"
+    },
+    "description": "The intelligent booking system trusted by German businesses. Reduce phone calls by 95%, eliminate no-shows, and focus on what matters - your customers.",
+    "trust": {
+      "madeInGermany": "Made in Germany",
+      "gdprCompliant": "GDPR Compliant"
+    },
+    "sections": {
+      "product": "Product",
+      "industries": "Industries",
+      "support": "Support",
+      "company": "Company"
+    },
+    "product": {
+      "features": "Features",
+      "pricing": "Pricing",
+      "demo": "Live Demo",
+      "integrations": "Integrations"
+    },
+    "industries": {
+      "restaurants": "Restaurants",
+      "salons": "Beauty Salons",
+      "medical": "Medical Practices",
+      "automotive": "Automotive"
+    },
+    "support": {
+      "documentation": "Documentation",
+      "apiReference": "API Reference",
+      "contactSupport": "Contact Support",
+      "status": "System Status"
+    },
+    "company": {
+      "about": "About Us",
+      "blog": "Blog",
+      "careers": "Careers",
+      "terms": "Terms of Service",
+      "privacy": "Privacy Policy"
+    },
+    "links": {
+      "impressum": "Impressum",
+      "privacy": "Privacy"
+    },
+    "copyright": "© {year} Booking System. All rights reserved.",
+    "crafted": "Made with {heart} in Berlin"
+  },
+  "demo": {
+    "title": "See It In Action",
+    "subtitle": "Experience the booking system that's transforming German businesses",
+    "input": {
+      "label": "Try it now",
+      "placeholder": "Select a service to book..."
+    },
+    "button": {
+      "analyze": "Book Now"
+    },
+    "booking": {
+      "title": "Book Your Demo",
+      "subtitle": "Experience the future of appointment scheduling",
+      "guestName": "Demo Guest",
+      "defaultService": "Demo Consultation",
+      "selectService": "Select a Service",
+      "selectDate": "Choose Date",
+      "selectTime": "Choose Time",
+      "confirm": "Confirm Booking",
+      "success": "Booking Confirmed!",
+      "successMessage": "Your demo booking has been created successfully."
+    }
+  },
+  "mind": {
+    "hero": {
+      "title": "MIND AI Platform",
+      "tagline": "Transform Your Business with German-Engineered AI",
+      "description": "Automate 80% of repetitive tasks. Save 20+ hours weekly. Trusted by industry leaders like KFC."
+    },
+    "cta": {
+      "trial": "Start Free Trial",
+      "demo": "Watch Live Demo",
+      "schedule": "Schedule Consultation"
+    },
+    "features": {
+      "title": "AI-Powered Features",
+      "subtitle": "Everything you need to automate and scale",
+      "smarthome": {
+        "title": "Smart Home Automation",
+        "desc": "Control your entire home with voice commands and AI predictions"
+      },
+      "restaurant": {
+        "title": "Restaurant Management",
+        "desc": "Automate bookings, inventory, and customer service"
+      },
+      "analytics": {
+        "title": "Predictive Analytics",
+        "desc": "AI-driven insights to optimize your business decisions"
+      },
+      "fast": {
+        "title": "Lightning Fast",
+        "desc": "Process thousands of requests in milliseconds"
+      },
+      "security": {
+        "title": "Enterprise Security",
+        "desc": "Bank-level encryption and GDPR compliance"
+      },
+      "global": {
+        "title": "Global Scale",
+        "desc": "Deploy across multiple regions with one click"
+      }
+    },
+    "pricing": {
+      "title": "Simple, Transparent Pricing",
+      "subtitle": "Choose the plan that fits your business",
+      "pilot": "Perfect for small teams testing AI",
+      "growth": "For growing businesses ready to scale",
+      "scale": "For enterprises with complex needs",
+      "enterprise": "Custom solutions for large organizations",
+      "custom": "Contact Sales",
+      "popular": "Most Popular",
+      "contact": "Contact Sales",
+      "trial": "Start Free Trial",
+      "features": "All plans include 24/7 support and regular updates",
+      "period": {
+        "month": "/month",
+        "year": "/year"
+      }
+    },
+    "testimonials": {
+      "title": "Trusted by Industry Leaders",
+      "subtitle": "See how businesses transform with MIND AI"
+    }
+  },
+  "api": {
+    "hero": {
+      "title": "API Documentation",
+      "subtitle": "Build powerful integrations with our REST API",
+      "getStarted": "Get API Key",
+      "viewDocs": "View Documentation"
+    },
+    "overview": {
+      "title": "Overview",
+      "intro": "Our API allows you to programmatically manage bookings, customers, and business data.",
+      "baseUrl": "Base URL",
+      "version": "API Version",
+      "auth": "Authentication"
+    },
+    "endpoints": {
+      "title": "API Endpoints",
+      "bookings": {
+        "title": "Bookings",
+        "list": "List all bookings",
+        "create": "Create a booking",
+        "get": "Get booking details",
+        "update": "Update a booking",
+        "cancel": "Cancel a booking"
+      },
+      "customers": {
+        "title": "Customers",
+        "list": "List all customers",
+        "create": "Create a customer",
+        "get": "Get customer details",
+        "update": "Update customer"
+      },
+      "availability": {
+        "title": "Availability",
+        "check": "Check availability",
+        "slots": "Get available slots",
+        "block": "Block time slots"
+      }
+    },
+    "authentication": {
+      "title": "Authentication",
+      "description": "Authenticate your requests using API keys",
+      "header": "Authorization Header",
+      "example": "Example Request"
+    },
+    "rateLimit": {
+      "title": "Rate Limiting",
+      "description": "API requests are limited to ensure fair usage",
+      "limit": "1000 requests per hour",
+      "headers": "Rate limit headers"
+    },
+    "sdks": {
+      "title": "SDKs & Libraries",
+      "description": "Official SDKs for popular languages",
+      "javascript": "JavaScript/Node.js",
+      "python": "Python",
+      "php": "PHP",
+      "ruby": "Ruby"
+    }
+  },
+  "support": {
+    "hero": {
+      "title": "How Can We Help?",
+      "subtitle": "Get answers and support for your booking system",
+      "search": "Search for help...",
+      "contact": "Contact Support"
+    },
+    "categories": {
+      "title": "Browse Help Topics",
+      "getting_started": {
+        "title": "Getting Started",
+        "desc": "Learn the basics and set up your account"
+      },
+      "bookings": {
+        "title": "Managing Bookings",
+        "desc": "Everything about bookings and scheduling"
+      },
+      "payments": {
+        "title": "Payments & Billing",
+        "desc": "Payment processing and subscription management"
+      },
+      "integrations": {
+        "title": "Integrations",
+        "desc": "Connect with other tools and services"
+      },
+      "api": {
+        "title": "API & Developers",
+        "desc": "Technical documentation and API guides"
+      },
+      "account": {
+        "title": "Account & Settings",
+        "desc": "Manage your account and preferences"
+      }
+    },
+    "popular": {
+      "title": "Popular Articles",
+      "article1": "How to set up your first service",
+      "article2": "Accepting online payments",
+      "article3": "Managing staff calendars",
+      "article4": "Setting up email reminders",
+      "article5": "Customizing your booking page"
+    },
+    "contact": {
+      "title": "Still Need Help?",
+      "description": "Our support team is here for you",
+      "email": {
+        "title": "Email Support",
+        "desc": "Get help via email within 24 hours",
+        "cta": "Send Email"
+      },
+      "chat": {
+        "title": "Live Chat",
+        "desc": "Chat with our team in real-time",
+        "cta": "Start Chat"
+      },
+      "phone": {
+        "title": "Phone Support",
+        "desc": "Talk to our experts (Business plan)",
+        "cta": "Schedule Call"
+      }
+    }
+  },
+  "portfolio": {
+    "hero": {
+      "title": "Our Success Stories",
+      "subtitle": "See how we've transformed businesses across Germany",
+      "filter": {
+        "all": "All Projects",
+        "restaurant": "Restaurants",
+        "salon": "Beauty & Wellness",
+        "medical": "Medical",
+        "automotive": "Automotive"
+      }
+    },
+    "cases": {
+      "restaurant1": {
+        "title": "Bella Italia Stuttgart",
+        "category": "Restaurant",
+        "result": "75% reduction in phone calls",
+        "description": "Implemented online booking system for busy Italian restaurant"
+      },
+      "salon1": {
+        "title": "Hair & Beauty München",
+        "category": "Beauty Salon",
+        "result": "€12,000 monthly revenue increase",
+        "description": "Automated appointment scheduling for 8 stylists"
+      },
+      "medical1": {
+        "title": "Dr. Schmidt Praxis",
+        "category": "Medical",
+        "result": "Zero double bookings",
+        "description": "Patient scheduling system with reminder automation"
+      },
+      "auto1": {
+        "title": "AutoHaus Berlin",
+        "category": "Automotive",
+        "result": "40% more service bookings",
+        "description": "Service appointment system with workshop management"
+      }
+    },
+    "metrics": {
+      "title": "Results That Matter",
+      "bookings": "Total Bookings Processed",
+      "revenue": "Revenue Generated for Clients",
+      "hours": "Hours Saved Weekly",
+      "satisfaction": "Customer Satisfaction"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "We Build, We Don't Consult",
+      "subtitle": "Founded in Wiesbaden, 2020. Not another agency - we're engineers who solve real business problems.",
+      "founded": "2020",
+      "location": "Stuttgart",
+      "team": "8 People",
+      "clients": "15 Active"
+    },
+    "story": {
+      "title": "Our Story",
+      "description": "Started when we automated Hotel am Kochbrunnen's entire operation and saw their revenue jump 16%. We realized German businesses needed better than generic SaaS solutions - they needed systems built for how they actually work.",
+      "continuation": "Now we're 8 people building the future of German business technology, from AI that speaks German perfectly to booking systems that understand Mittagspause.",
+      "hotel_success": "Hotel am Kochbrunnen saw immediate results: 16% revenue increase, 90% reduction in no-shows, and hours saved daily on booking management."
+    },
+    "numbers": {
+      "title": "By The Numbers",
+      "team": "8",
+      "team_label": "Team Members",
+      "clients": "15",
+      "clients_label": "Active Clients",
+      "revenue": "€1.2M+",
+      "revenue_label": "Revenue Generated",
+      "projects": "50+",
+      "projects_label": "Projects Delivered"
+    },
+    "projects": {
+      "title": "Our Projects",
+      "lingxm": {
+        "name": "LingXM",
+        "desc": "Revolutionizing language learning with 500M+ corpus sentences",
+        "impact": "14 languages supported"
+      },
+      "mindai": {
+        "name": "MindAI",
+        "desc": "Europe's first local-only smart home AI",
+        "impact": "100% privacy guaranteed"
+      },
+      "lingxm_travel": {
+        "name": "LingXM Travel",
+        "desc": "Automating medical practices across Germany",
+        "impact": "80% time reduction"
+      }
+    },
+    "values": {
+      "title": "Our Practical Values",
+      "build": {
+        "title": "We Build, Not Consult",
+        "desc": "Stop paying for PowerPoints. We deliver working software."
+      },
+      "solve": {
+        "title": "We Solve Real Problems",
+        "desc": "16% revenue increase for Hotel am Kochbrunnen. That's real."
+      },
+      "deliver": {
+        "title": "We Deliver Fast",
+        "desc": "Working demo in week 1, not month 3. German efficiency."
+      },
+      "measure": {
+        "title": "We Measure Results",
+        "desc": "Every project tracked by ROI. Numbers don't lie."
+      }
+    },
+    "cta": {
+      "title": "Let's Build Something That Works",
+      "subtitle": "No consulting, no buzzwords. Just real solutions.",
+      "button": "Get Started",
+      "contact": "Contact Us"
+    },
+    "journey": {
+      "title": "Our Journey",
+      "subtitle": "From Wiesbaden startup to German automation leader",
+      "cta": {
+        "title": "Ready to Join Our Journey?",
+        "subtitle": "Be part of the next success story",
+        "button": "Start Your Project"
+      }
+    }
+  },
+  "services": {
+    "web": {
+      "title": "Web Development",
+      "subtitle": "Modern Websites & Apps",
+      "description": "From idea to reality. We develop performant, scalable, and user-friendly web solutions that drive your business forward.",
+      "tabs": {
+        "overview": "Overview",
+        "technologies": "Technologies",
+        "process": "Process",
+        "portfolio": "Portfolio",
+        "pricing": "Pricing"
+      },
+      "liveProjects": "Live Projects",
+      "featuredProjects": "Featured Web Projects",
+      "tech": {
+        "frontend": "Frontend",
+        "backend": "Backend",
+        "mobile": "Mobile",
+        "database": "Database",
+        "cloud": "Cloud",
+        "tools": "Tools"
+      }
+    },
+    "automation": {
+      "title": "Business Automation",
+      "subtitle": "Streamline Your Operations",
+      "description": "Transform your business with intelligent automation solutions that save time, reduce costs, and improve accuracy.",
+      "tabs": {
+        "overview": "Overview",
+        "solutions": "Solutions",
+        "benefits": "Benefits",
+        "caseStudies": "Case Studies",
+        "pricing": "Pricing"
+      },
+      "solutions": {
+        "workflow": {
+          "title": "Workflow Automation",
+          "description": "Streamline repetitive tasks and approval processes"
+        },
+        "customer": {
+          "title": "Customer Management",
+          "description": "Optimize your entire customer journey"
+        },
+        "integration": {
+          "title": "System Integration",
+          "description": "Connect all your business tools seamlessly"
+        }
+      }
+    },
+    "booking": {
+      "title": "Booking Systems",
+      "subtitle": "Smart Scheduling Solutions",
+      "description": "Industry-specific booking systems designed for German businesses. Automated, efficient, and compliant.",
+      "features": {
+        "mittagspause": {
+          "title": "Mittagspause Respected",
+          "description": "Automatically blocks bookings during lunch hours (12-14 Uhr)"
+        }
+      }
+    }
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "description": "Oops! The page you're looking for seems to have vanished into the digital void. Let's get you back on track.",
+    "whatsappMessage": "Hi! I need help finding a page on your website.",
+    "homepage": "Homepage",
+    "services": "Services",
+    "getHelp": "Get Help",
+    "backToHomepage": "Back to Homepage",
+    "contactSupport": "Contact Support",
+    "popularPages": "Popular pages"
+  },
+  "innovationLab": {
+    "title": "Innovation Lab",
+    "subtitle": "Building the Future",
+    "description": "Real projects with real impact - transforming industries through innovation",
+    "progress": {
+      "label": "Development Progress"
+    },
+    "expectedLaunch": "Expected Launch",
+    "technicalSpecs": "Technical Specifications",
+    "techStack": "Technology Stack",
+    "keyHighlights": "Key Highlights",
+    "developmentTeam": "Development Team",
+    "activeDevelopers": "Active Developers",
+    "liveStats": "Live Development Stats",
+    "commitsToday": "Commits Today",
+    "featuresComplete": "Features Complete",
+    "testsPassing": "Tests Passing",
+    "requestEarlyAccess": "Request Early Access",
+    "status": {
+      "development": "IN DEVELOPMENT",
+      "beta": "BETA TESTING",
+      "launching": "LAUNCHING SOON"
+    },
+    "cta": {
+      "title": "Want to Be Part of the Innovation?",
+      "description": "Join our early access program and be among the first to experience these revolutionary solutions. Get exclusive benefits, direct input on features, and special launch pricing.",
+      "joinButton": "Join Early Access Program",
+      "learnMore": "Learn More"
+    },
+    "projects": {
+      "lingxm": {
+        "tagline": "Language Learning Revolution",
+        "description": "Revolutionary language learning platform with the world's largest grammatically perfect sentence database",
+        "features": {
+          "0": "500M+ corpus sentences with 14 variations each",
+          "1": "14 languages supported and growing",
+          "2": "Web and mobile apps in development",
+          "3": "AI-powered personalized learning paths",
+          "4": "Real-time pronunciation feedback",
+          "5": "Grammar pattern recognition engine"
+        },
+        "highlights": {
+          "0": "World's largest grammatically perfect sentence database",
+          "1": "Patent-pending variation algorithm",
+          "2": "Native speaker audio for all sentences"
+        }
+      },
+      "lingxmTravel": {
+        "tagline": "Medical Practice Automation",
+        "description": "AI-powered automation specifically for occupational doctors in Germany, reducing patient processing time by 80%",
+        "features": {
+          "0": "For occupational doctors in Germany",
+          "1": "80% reduction in patient processing time",
+          "2": "OpenAI + Anthropic Claude integration",
+          "3": "Full GDPR compliance",
+          "4": "Automated travel health certificates",
+          "5": "Multi-language patient communication"
+        },
+        "highlights": {
+          "0": "Currently beta testing with 3 practices",
+          "1": "GDPR-compliant data processing",
+          "2": "Integration with German health insurance systems"
+        }
+      },
+      "mindai": {
+        "tagline": "Europe's First Local Smart Home AI",
+        "description": "100% on-premise AI system with zero cloud dependency, offering complete home automation with absolute privacy",
+        "features": {
+          "0": "100% on-premise - zero cloud dependency",
+          "1": "Complete home automation with privacy",
+          "2": "Educational AI for children (no ready answers, real learning)",
+          "3": "Elderly care support with health monitoring",
+          "4": "First in Europe to offer complete local AI",
+          "5": "Works with existing smart home devices"
+        },
+        "highlights": {
+          "0": "Runs on consumer hardware (no cloud needed)",
+          "1": "Voice control in 5 languages",
+          "2": "Educational mode promotes learning over answers"
+        }
+      }
+    }
+  }
+}

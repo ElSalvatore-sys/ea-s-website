@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EA-S - WORKING VERSION</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #0f0f23 100%);
+            color: white;
+            min-height: 100vh;
+        }
+
+        .header {
+            background: rgba(255,255,255,0.05);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+            padding: 20px;
+        }
+
+        .nav {
+            display: flex;
+            gap: 30px;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .nav a {
+            color: white;
+            text-decoration: none;
+            font-weight: 500;
+            transition: all 0.3s;
+        }
+
+        .nav a:hover {
+            color: #667eea;
+            transform: translateY(-2px);
+        }
+
+        .hero {
+            text-align: center;
+            padding: 100px 20px;
+        }
+
+        .hero h1 {
+            font-size: 4rem;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 20px;
+        }
+
+        .hero p {
+            font-size: 1.5rem;
+            opacity: 0.8;
+            margin-bottom: 40px;
+        }
+
+        .cta-button {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            padding: 15px 40px;
+            font-size: 1.2rem;
+            border-radius: 50px;
+            cursor: pointer;
+            transition: all 0.3s;
+            display: inline-block;
+        }
+
+        .cta-button:hover {
+            transform: scale(1.05);
+            box-shadow: 0 20px 40px rgba(102, 126, 234, 0.4);
+        }
+
+        .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            padding: 50px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .feature-card {
+            background: rgba(255,255,255,0.05);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255,255,255,0.1);
+            padding: 30px;
+            border-radius: 20px;
+            transition: all 0.3s;
+        }
+
+        .feature-card:hover {
+            transform: translateY(-10px);
+            background: rgba(255,255,255,0.08);
+        }
+
+        .feature-card h3 {
+            font-size: 1.5rem;
+            margin-bottom: 15px;
+            color: #667eea;
+        }
+
+        .status {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background: rgba(0,255,0,0.2);
+            border: 2px solid #00ff00;
+            padding: 10px 20px;
+            border-radius: 10px;
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0% { opacity: 1; }
+            50% { opacity: 0.5; }
+            100% { opacity: 1; }
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <nav class="nav">
+            <a href="/">Home</a>
+            <a href="/services">Services</a>
+            <a href="/about">About</a>
+            <a href="/contact">Contact</a>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h1>EA-S Solutions</h1>
+        <p>Your AI-Powered Business Partner</p>
+        <p style="color: #00ff00; margin: 20px 0;">✅ This page is working without React!</p>
+        <button class="cta-button" onclick="testReact()">Test React Version</button>
+    </section>
+
+    <section class="features">
+        <div class="feature-card">
+            <h3>🤖 AI Integration</h3>
+            <p>Advanced AI solutions trusted by global brands like KFC</p>
+        </div>
+        <div class="feature-card">
+            <h3>🏠 Smart Living</h3>
+            <p>100% local AI home automation replacing Alexa/Siri</p>
+        </div>
+        <div class="feature-card">
+            <h3>🍽️ Gastronomy</h3>
+            <p>Intelligent restaurant management systems</p>
+        </div>
+    </section>
+
+    <div class="status">
+        ✅ Page Loaded Successfully
+    </div>
+
+    <script>
+        console.log('[WORKING.HTML] Page loaded successfully!');
+
+        // Log system info
+        console.log('[WORKING.HTML] User Agent:', navigator.userAgent);
+        console.log('[WORKING.HTML] Screen:', screen.width, 'x', screen.height);
+        console.log('[WORKING.HTML] LocalStorage size:', new Blob(Object.values(localStorage)).size, 'bytes');
+
+        function testReact() {
+            console.log('[WORKING.HTML] Redirecting to React version...');
+            window.location.href = '/';
+        }
+
+        // Test if we can reach the backend
+        fetch('/api/health')
+            .then(res => res.json())
+            .then(data => {
+                console.log('[WORKING.HTML] Backend health check:', data);
+            })
+            .catch(err => {
+                console.error('[WORKING.HTML] Backend unreachable:', err);
+            });
+    </script>
+</body>
+</html>
